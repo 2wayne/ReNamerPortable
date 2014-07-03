@@ -1,3 +1,48 @@
+ReNamer 5.76 (2014-06-11)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+5.75.7 Beta (2014-06-08)
+* Added thousand separator to the count of files in the status bar;
+* Updated messages in several confirmation dialogs;
+* Added TB file size abbreviation;
+* File size abbreviations are now localizable;
+
+5.75.6 Beta (2014-06-07)
+* Added horizontal scrollbar to the UserInput rule input;
+* Added F1 key shortcut and appropriate hint to all online help buttons;
+* GUI changes to show selection rectangle around checkboxes and radio buttons;
+* Added option for specifying color used for highlighting changed names;
+* Added Spanish translit alphabet;
+
+5.75.5 Beta (2014-05-24)
+* Fixed not working table sorting by "Error" and "Old Path" columns;
+
+5.75.4 Beta (2014-05-22)
+* Converted "Translit Alphabet" speed button into a tab-accessible button;
+* Accept drag and drop files in the UserInput rule configuration;
+
+5.75.3 Beta (2014-05-21)
+* Use "MS Shell Dlg 2" font instead of "MS Shell Dlg" on Windows 2000 and later
+  versions; This system font substitute maps to "Tahoma" which better handles
+  ambiguity between letter "I" and digit "1";
+* Increased font size of most text fields from 8 to 10 points;
+* Added horizontal scrollbar to the PascalScript code window;
+* Updated cursor position description in the Analyze dialog;
+* Added Ctrl+L shortcut for opening the Scripts menu in PascalScript rule;
+* Always start programs via ExecConsoleApp function in hidden mode
+  (replaced use of DETACHED_PROCESS flag with SW_HIDE flag);
+* Added ExecuteProgramShow function, similar to ExecuteProgram
+  but it also allows to control how the window is to be shown;
+
+5.75.2 Beta (2014-04-27)
+* Add binary file signatures for EPUB and DOCX/XLSX/PPTX file formats;
+
+5.75.1 Beta (2014-04-21)
+* Display a warning message when trying to load a non-existent preset file;
+* Cancel command line renaming mode when preset file does not exist, instead
+  of silently using the default preset;
+
+
 ReNamer 5.75 (2014-03-22)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 

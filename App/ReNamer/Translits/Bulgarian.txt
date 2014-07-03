@@ -1,4 +1,4 @@
-щ=sht
+﻿щ=sht
 ц=tz
 ч=ch
 ш=sh

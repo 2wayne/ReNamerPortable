@@ -1,4 +1,4 @@
-юй=yuy
+﻿юй=yuy
 яй=yay
 ёй=yoy
 ий=iy

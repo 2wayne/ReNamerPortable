@@ -1,4 +1,4 @@
-tst=тст
+﻿tst=тст
 aya=ая
 iya=ия
 iyo=иё
