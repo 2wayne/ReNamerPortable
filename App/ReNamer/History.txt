@@ -1,3 +1,85 @@
+ReNamer 6.1 (2014-11-11)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.0.0.14 Beta
+* Added DayOfMonth, DayOfYear, WeekOfMonth, WeekOfYear functions to PascalScript;
+* DayOfWeek fuction in PascalScript now returns 1=Monday to 7=Sunday,
+  instead of 1=Sunday to 7=Saturday;
+
+6.0.0.13 Beta (2014-11-03)
+* Added meta tags for extracting sent date from emails in UTC and original
+  time zones, in addition to default local time zone;
+
+6.0.0.12 Beta (2014-10-29)
+* Fixed incorrect timezone adjustment for Email_DateSent and Outlook_DateHeader
+  meta tags, causing dates to be UTC instead of local timezone in some cases;
+
+6.0.0.11 Beta (2014-10-25)
+* Included high resolution application icon 256x256;
+
+6.0.0.10 Beta (2014-10-04)
+* Release channel changed from Alpha to Beta;
+
+6.0.0.9 Alpha (2014-09-27)
+* Added new functions to PascalScript: WideTrimChars, WideTrimCharsLeft,
+  WideTrimCharsRight, WideCopyRight, WideDeleteRight;
+
+6.0.0.8 Alpha (2014-09-18)
+* Common component library dialog messages and buttons are now translated;
+* Updated Japanese language file;
+
+6.0.0.7 Alpha (2014-09-17)
+* Store all user data in user profile directory for Installer version;
+* Automatic migration of data from VirtualStore;
+* Use Settings.ini instead of <Application>.ini naming for settings;
+
+6.0.0.6 Alpha
+* Unicode support for names of scripts, translits, presets;
+* Added "Case sensitive" option to the Strip rule;
+* Added scope options to the Strip rule: Everywhere, Leading, Trailing;
+
+6.0.0.5 Alpha
+* List of languages is sorted alphabetically instead of file system order;
+* Added native language names to language titles;
+
+6.0.0.4 Alpha (2014-08-20)
+* Language details and list of translators are stored in PO file headers;
+* List of translators is displayed upon selecting a different language;
+* Display popup menus for Alphabet and Scripts buttons below the button;
+
+6.0.0.3 Alpha (2014-08-18)
+* Added hints to the main window status bar;
+* Resized components on Terms Of Use form to fit captions;
+* Added menu accelerators to all context menus;
+* Added WideCaseSentence function to PascalScript rule;
+
+6.0.0.2 Alpha (2014-08-17)
+* Added Languages menu;
+* Remove dummy new lines in Analyze dialog after changing word wrap;
+* Automatically generate menu accelerators for the main menu;
+
+6.0.0.1 Alpha (2014-08-10)
+* Converted application project from Delphi 7 to Lazarus/FPC;
+* Added multilingual support using PO files in Languages folder;
+* Added built-in version information, moving to x.x.x.x versioning;
+* Updated icons from BMP to PNG with alpha-blending;
+* Converted mini buttons above rules and files tables into toolbars
+  with automatic resizing to better fit localized text;
+* Error column is now visible by default;
+* Replaced PascalScript package (from SVN dated 11 November 2008)
+  with an updated version from component library in Lazarus;
+* EXIF, IPTC, HTML meta tags can now handle Unicode filenames;
+* Added toolbar button for accessing context menu of files table columns;
+* UserInput rule can now read content from Unicode filenames;
+* Advanced Pascal Script editor with syntax highlighting, code folding, etc;
+* Correctly restore negative window position on multi-monitor setups;
+* Pascal Script code can contain Unicode characters
+  (internally stored as UTF8 encoded string);
+* Display icon in the context menu for "Add to ReNamer" option;
+* Items added via /enqueue parameter are sent in a group instead of
+  individually, to prevent auto preview and validation per sent item;
+
+  
 ReNamer 5.76 (2014-06-11)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 

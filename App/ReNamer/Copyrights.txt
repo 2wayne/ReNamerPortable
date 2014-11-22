@@ -13,28 +13,10 @@ dEXIF
 Copyright © 2001 - 2006 Gerry McGuire
 Web: http://mcguirez.homestead.com/
 
-GIFImage
-~~~~~~~~
-Authors: Anders Melander <anders@melander.dk>, Filip Larsen, Reinier Sterkenburg.
-Copyright (c) 1997-99 Anders Melander.
-Web: http://melander.dk/delphi/gifimage/
-
-LibTiffDelphi
-~~~~~~~~~~~~~
-Copyright © AWare Systems
-Web: http://www.awaresystems.be/
-Email: info@awaresystems.be
-
 PascalScript
 ~~~~~~~~~~~~
 Copyright © RemObjects Software
 Web: http://www.remobjects.com/ps
-
-PNGImage
-~~~~~~~~
-Copyright © Gustavo Huffenbacher Daud
-Email: gubadaud@terra.com.br, gustavo.daud@terra.com.br
-Web: http://pngdelphi.sourceforge.net/
 
 RegExpr
 ~~~~~~~
@@ -56,16 +38,6 @@ Email: mshkolnik@scalabium
 Email: mshkolnik@yahoo.com
 Web: http://www.scalabium.com
 
-StreamIO
-~~~~~~~~
-Author: Dr. Peter Below
-
-TntUnicodeControls
-~~~~~~~~~~~~~~~~~~
-Copyright (c) 2002-2005, Troy Wolbrink
-Email: troy.wolbrink@ccci.org
-Web: http://www.tntware.com/delphicontrols/unicode/
-
 Virtual Treeview
 ~~~~~~~~~~~~~~~~
 The initial developer of the original code is digital
@@ -74,13 +46,19 @@ Virtual Treeview is written, published and maintaned by
 Mike Lischke (public@soft-gems.net, www.soft-gems.net).
 (c) 1999-2005 Mike Lischke, Soft Gems software solutions.
 
-Delphi Encryption Compendium
+DCPCrypt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Version 5.2 - Part I & II, for Delphi 5 - 2009
-Copyright (c) 2006 Hagen Reddmann, HaReddmann [at] t-online [dot] de
-Modifications (c) 2008 Arvid Winkelsdorf, digivendo GmbH, info [at] digivendo [dot] de
+DCPcrypt is copyrighted (c) 1999-2003 David Barton.
+All trademarks are property of their respective owners.
 
 Farm-Fresh Web Icons
 ~~~~~~~~~~~~~~~~~~~~
 Some icons were taken from Farm-Fresh Web Icons collection.
 http://www.fatcow.com/free-icons
+
+famfamfam Flag Icons
+~~~~~~~~~~~~~~~~~~~~
+These icons are public domain, and as such are free for any use
+(attribution appreciated but not required).
+Contact: mjames@gmail.com
+http://www.famfamfam.com
