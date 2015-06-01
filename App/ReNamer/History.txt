@@ -1,3 +1,80 @@
+ReNamer 6.2 (2015-05-03)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.1.0.12 Beta (2015-03-27)
+* Added Indonesian language PO file;
+* Updated Japanese and Russian language PO files;
+* Split filter settings into default and session settings; Any modifications
+  to filters now apply to session settings, with an option to use them as defaults;
+* Extract MP3_TrackNo, MP3_DiskNo, WMA_TrackNo, WMA_DiskNo from numeric track and
+  disk tags, in addition to standard "X/Y" format;
+* Added WMA_TrackTotal meta tag;
+* Deprecated MP3_PartOfSet and WMA_PartOfSet tags in favor of respective
+  MP3_DiskNo/MP3_DiskTotal and WMA_DiskNo/WMA_DiskTotal tags;
+
+6.1.0.11 Beta (2015-03-17)
+* Trim new lines at the end of system formatted renaming errors;
+* Renamed ID3_* meta tags to MP3_* (ID3_* will remain as hidden aliases);
+* Internal cleanup of handling of MP3_* meta tags;
+* Do not pad with zeros MP3_TrackNo and WMA_TrackNo meta tags;
+* Handle Unicode data in FLAC_* meta tags;
+* Added Portuguese translit alphabet;
+* Added FLAC_AlbumArtist, FLAC_TrackTotal, FLAC_DiscNo, FLAC_DiscTotal meta tags;
+* Added MP3_TrackTotal, MP3_DiskNo, MP3_DiskTotal meta tags;
+* Added WMA_AlbumArtist, WMA_DiskNo, WMA_DiskTotal, WMA_PartOfSet meta tags;
+* Fixed non-string tag handling issues in WMA files;
+* Broader range of supported WMA files (no limits on SampleRate, ByteRate, etc);
+* Converted WMA_TrackNo meta tag from 0-based to 1-based;
+
+6.1.0.10 Beta (2015-03-02)
+* Fixed limitation of FLAC library which prevented processing of files
+  containing artwork/picture;
+
+6.1.0.9 Beta (2015-03-02)
+* Fixed encoding conversion issue with the renaming error message;
+
+6.1.0.8 Beta (2015-02-25)
+* Updated Chinese Simplified (zh_CN) translation file;
+* Updated Russian (ru) translation file;
+* Fixed issue with cut off last character in meta tags from FLAC files;
+
+6.1.0.7 Beta (2015-02-10)
+* Added uninstaller icon;
+* Improved registration handling;
+* Provide more information regarding invalid licenses;
+* Implemented measures to prevent reverse engineering;
+* Fixed issue with always centering non-main forms;
+
+6.1.0.6 Beta (2015-01-10)
+* Added "CamelCase" note to the "Insert a space in front of capitalized letters" option;
+* Changed full language title from "Title (Native)" to "Title - Native";
+* Added Portuguese (Brazil) translation file;
+
+6.1.0.5 Beta (2014-12-15)
+* More spacious Settings window, better fit localized text;
+* Store BeepOnPreview and BeepOnRename variables in settings file;
+
+6.1.0.4 Beta (2014-12-07)
+* Added Chinese Simplified translation;
+
+6.1.0.3 Beta (2014-11-26)
+* Renamed default language title from "Default" to "Original (English)";
+* Suppress language icon loading exceptions and handle Unicode icon paths;
+* Fixed localization issues in auxiliary message dialogs: Go to Folder, 
+  Mark by Mask, Select by Mask, Select by Extension, Select by Filename Length,
+  Confirm overwrite with new name, Could not open the following file;
+* Unicode support for remembered values of: Add Files, Add Folders,
+  Filter Masks, Mark by Mask, Select by Mask, Select by Extension; 
+* Better positioning of components in Browse dialog for localization;
+
+6.1.0.2 Beta (2014-11-16)
+* Fixed loading of localized description of meta tags;
+
+6.1.0.1 Beta (2014-11-13)
+* Fixed encoding mix-up in registration data handling and messages;
+* Updated Japanese language file;
+
+
 ReNamer 6.1 (2014-11-11)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

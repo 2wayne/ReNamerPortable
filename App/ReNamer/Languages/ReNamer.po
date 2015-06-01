@@ -39,28 +39,11 @@ msgstr ""
 msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
 msgstr ""
 
-#: mainform.s_cannot_create_license_dir
-msgid "Not able to create a directory for a license file."
-msgstr ""
-
 #: mainform.s_confirmunregister
 msgid ""
 "Are you sure you want to unregister the product?\n"
 "\n"
 "This will remove your license and deactivate the \"Pro\" version.\n"
-msgstr ""
-
-#: mainform.s_contact_email
-msgid "Contact email"
-msgstr ""
-
-#: mainform.s_contact_name
-msgid "Contact name"
-msgstr ""
-
-#: mainform.s_error_details
-msgctxt "mainform.s_error_details"
-msgid "Error"
 msgstr ""
 
 #: mainform.s_featurenotavailable
@@ -70,38 +53,6 @@ msgstr ""
 #: mainform.s_free_license_note
 msgctxt "mainform.s_free_license_note"
 msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
-msgstr ""
-
-#: mainform.s_issue_date
-msgid "Issue date"
-msgstr ""
-
-#: mainform.s_license
-msgid "License"
-msgstr ""
-
-#: mainform.s_licensed_to
-msgid "Licensed to"
-msgstr ""
-
-#: mainform.s_license_expiry
-msgid "License expiry"
-msgstr ""
-
-#: mainform.s_license_has_expired
-msgid "License has expired."
-msgstr ""
-
-#: mainform.s_license_load_failed
-msgid "Failed to load the license."
-msgstr ""
-
-#: mainform.s_license_remove_failed
-msgid "Failed to remove the license."
-msgstr ""
-
-#: mainform.s_license_remove_ok
-msgid "License has been removed."
 msgstr ""
 
 #: mainform.s_maxallowedpresets
@@ -116,20 +67,8 @@ msgstr ""
 msgid "(non-commercial use only)"
 msgstr ""
 
-#: mainform.s_number_of_computers
-msgid "Number of computers"
-msgstr ""
-
 #: mainform.s_please_read_full_license
 msgid "For more information please read full license code"
-msgstr ""
-
-#: mainform.s_registration_error
-msgid "Registration code is invalid."
-msgstr ""
-
-#: mainform.s_registration_ok
-msgid "Registration has been successful!"
 msgstr ""
 
 #: mainform.s_statusbar_hint_filters
@@ -142,10 +81,6 @@ msgstr ""
 
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
-msgstr ""
-
-#: mainform.s_upgrade_expiry
-msgid "Upgrade expiry"
 msgstr ""
 
 #: myhash.sincorrectdigestsize
@@ -320,8 +255,20 @@ msgstr ""
 msgid "FLAC Album"
 msgstr ""
 
+#: mymetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
+msgstr ""
+
+#: mymetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr ""
+
+#: mymetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
 msgstr ""
 
 #: mymetatags.s_metatag_flac_genre
@@ -334,6 +281,10 @@ msgstr ""
 
 #: mymetatags.s_metatag_flac_trackno
 msgid "FLAC Track Number"
+msgstr ""
+
+#: mymetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
 msgstr ""
 
 #: mymetatags.s_metatag_flac_year
@@ -362,38 +313,6 @@ msgstr ""
 
 #: mymetatags.s_metatag_html_title
 msgid "Title tag extracted from an HTML file"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_album
-msgid "ID3 Album"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_albumartist
-msgid "ID3 Album Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_artist
-msgid "ID3 Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_genre
-msgid "ID3 Genre"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_partofset
-msgid "ID3 Part Of Set"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_title
-msgid "ID3 Title"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_trackno
-msgid "ID3 Track Number"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_year
-msgid "ID3 Year"
 msgstr ""
 
 #: mymetatags.s_metatag_image_aspectratio
@@ -434,6 +353,58 @@ msgstr ""
 
 #: mymetatags.s_metatag_iptc_objectname
 msgid "IPTC Object Name"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_diskno
+msgid "MP3 Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_disktotal
+msgid "MP3 Total Disks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_partofset
+msgctxt "mymetatags.s_metatag_mp3_partofset"
+msgid "MP3 Part Of Set"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
 msgstr ""
 
 #: mymetatags.s_metatag_outlook_body
@@ -520,12 +491,28 @@ msgstr ""
 msgid "WMA Album"
 msgstr ""
 
+#: mymetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
 msgstr ""
 
+#: mymetatags.s_metatag_wma_diskno
+msgid "WMA Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_wma_disktotal
+msgid "WMA Total Disks"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
+msgstr ""
+
+#: mymetatags.s_metatag_wma_partofset
+msgid "WMA Part Of Set"
 msgstr ""
 
 #: mymetatags.s_metatag_wma_title
@@ -534,6 +521,10 @@ msgstr ""
 
 #: mymetatags.s_metatag_wma_trackno
 msgid "WMA Track Number"
+msgstr ""
+
+#: mymetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
 msgstr ""
 
 #: mymetatags.s_metatag_wma_year
@@ -1743,6 +1734,11 @@ msgstr ""
 msgid "Include system items"
 msgstr ""
 
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "TFORM_FILTERSETTINGS.CHECKBOX_SAVEASDEFAULT.CAPTION"
+msgid "Save as default for future sessions"
+msgstr ""
+
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
 msgstr ""
@@ -2909,7 +2905,7 @@ msgid "(none of the above)"
 msgstr ""
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-msgid "Insert a space in front of capitalized letters"
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
 msgstr ""
 
 #: tframe_rulecleanup.cb_normalizespaces.caption
@@ -3515,5 +3511,98 @@ msgstr ""
 #: tframe_ruleuserinput.sb_options.caption
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
+msgstr ""
+
+#: uregistration.s_cannot_create_license_dir
+msgid "Not able to create a directory for a license file."
+msgstr ""
+
+#: uregistration.s_contact_email
+msgid "Contact email"
+msgstr ""
+
+#: uregistration.s_contact_name
+msgid "Contact name"
+msgstr ""
+
+#: uregistration.s_error_details
+msgctxt "uregistration.s_error_details"
+msgid "Error"
+msgstr ""
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr ""
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr ""
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr ""
+
+#: uregistration.s_issue_date
+msgid "Issue date"
+msgstr ""
+
+#: uregistration.s_license
+msgid "License"
+msgstr ""
+
+#: uregistration.s_licensed_to
+msgid "Licensed to"
+msgstr ""
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr ""
+
+#: uregistration.s_license_expiry
+msgid "License expiry"
+msgstr ""
+
+#: uregistration.s_license_has_expired
+msgid "License has expired."
+msgstr ""
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr ""
+
+#: uregistration.s_license_load_failed
+msgid "Failed to load the license."
+msgstr ""
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr ""
+
+#: uregistration.s_license_remove_failed
+msgid "Failed to remove the license."
+msgstr ""
+
+#: uregistration.s_license_remove_ok
+msgid "License has been removed."
+msgstr ""
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr ""
+
+#: uregistration.s_number_of_computers
+msgid "Number of computers"
+msgstr ""
+
+#: uregistration.s_registration_error
+msgid "Registration code is invalid."
+msgstr ""
+
+#: uregistration.s_registration_ok
+msgid "Registration has been successful!"
+msgstr ""
+
+#: uregistration.s_upgrade_expiry
+msgid "Upgrade expiry"
 msgstr ""
 

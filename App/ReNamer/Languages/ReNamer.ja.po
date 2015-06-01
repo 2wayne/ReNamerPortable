@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Japanese\n"
 "X-Language-Name-Native: 日本語\n"
 "X-Translators: Tilt <tiltstr@gmail.com>\n"
-"X-Generator: Poedit 1.6.9\n"
+"X-Generator: Poedit 1.7.5\n"
 
 #: mainform.srenameerrorok
 msgctxt "mainform.srenameerrorok"
@@ -54,10 +54,6 @@ msgstr "\"Pro\" バージョンを購入して制限を解除しますか?"
 msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
 msgstr "\"Pro\" バージョンを購入して機能のロックを解除しますか?"
 
-#: mainform.s_cannot_create_license_dir
-msgid "Not able to create a directory for a license file."
-msgstr "ライセンスファイル用のディレクトリが作成できません"
-
 #: mainform.s_confirmunregister
 msgid ""
 "Are you sure you want to unregister the product?\n"
@@ -68,19 +64,6 @@ msgstr ""
 "\n"
 "操作を続行した場合、あなたのライセンスは除去され \"Pro\" バージョンではなくなります。\n"
 
-#: mainform.s_contact_email
-msgid "Contact email"
-msgstr "連絡先E-メール"
-
-#: mainform.s_contact_name
-msgid "Contact name"
-msgstr "連絡先名"
-
-#: mainform.s_error_details
-msgctxt "mainform.s_error_details"
-msgid "Error"
-msgstr "エラー"
-
 #: mainform.s_featurenotavailable
 msgid "This feature is not available in this version."
 msgstr "機能は現行のバージョンでは利用できません."
@@ -89,38 +72,6 @@ msgstr "機能は現行のバージョンでは利用できません."
 msgctxt "mainform.s_free_license_note"
 msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
 msgstr "このアプリケーションは非営利目的での使用、もしくはそれに属する適切な利用に限り使用、再配布を許可されています。"
-
-#: mainform.s_issue_date
-msgid "Issue date"
-msgstr "発行日"
-
-#: mainform.s_license
-msgid "License"
-msgstr "ライセンス"
-
-#: mainform.s_licensed_to
-msgid "Licensed to"
-msgstr "ライセンス"
-
-#: mainform.s_license_expiry
-msgid "License expiry"
-msgstr "ライセンスの有効期限"
-
-#: mainform.s_license_has_expired
-msgid "License has expired."
-msgstr "ライセンスの期限切れ"
-
-#: mainform.s_license_load_failed
-msgid "Failed to load the license."
-msgstr "ライセンスの読み込みに失敗."
-
-#: mainform.s_license_remove_failed
-msgid "Failed to remove the license."
-msgstr "ライセンスの除去に失敗."
-
-#: mainform.s_license_remove_ok
-msgid "License has been removed."
-msgstr "ライセンスは除去されました"
 
 #: mainform.s_maxallowedpresets
 msgid "This version is limited to a maximum of %s presets."
@@ -134,21 +85,9 @@ msgstr "このバージョンでは、最大 %s 個の規則が使用できま�
 msgid "(non-commercial use only)"
 msgstr "（非商用利用のみ）"
 
-#: mainform.s_number_of_computers
-msgid "Number of computers"
-msgstr "コンピュータの数"
-
 #: mainform.s_please_read_full_license
 msgid "For more information please read full license code"
 msgstr "更に詳細な情報については、ライセンスコードをお読みください"
-
-#: mainform.s_registration_error
-msgid "Registration code is invalid."
-msgstr "無効な登録コードです"
-
-#: mainform.s_registration_ok
-msgid "Registration has been successful!"
-msgstr "登録が正常に完了しました!"
 
 #: mainform.s_statusbar_hint_filters
 msgid "Active filter settings"
@@ -161,10 +100,6 @@ msgstr "読み込まれたプリセット"
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
 msgstr "読み込まれたプリセット(変更有り)"
-
-#: mainform.s_upgrade_expiry
-msgid "Upgrade expiry"
-msgstr "アップグレードの有効期限"
 
 #: myhash.sincorrectdigestsize
 msgid "Incorrect digest size for %s"
@@ -255,18 +190,16 @@ msgid "Summary Information: Title"
 msgstr "概要情報: タイトル"
 
 #: mymetatags.s_metatag_email_datesent
-#, fuzzy
-#| msgid "Email date sent"
 msgid "Email date sent in local time zone"
-msgstr "Email 送信日時"
+msgstr "E-メール送信日時 (ローカル タイムゾーン)　"
 
 #: mymetatags.s_metatag_email_datesentoriginal
 msgid "Email date sent in original time zone"
-msgstr ""
+msgstr "E-メール送信日時 (UTC - オリジナル タイムゾーン)"
 
 #: mymetatags.s_metatag_email_datesentutc
 msgid "Email date sent in UTC time zone"
-msgstr ""
+msgstr "E-メール送信日時 (UTC - 協定世界時)"
 
 #: mymetatags.s_metatag_email_sender
 msgid "Email sender"
@@ -338,27 +271,43 @@ msgstr "ファイルのサイズ(MB)"
 
 #: mymetatags.s_metatag_flac_album
 msgid "FLAC Album"
-msgstr "FLAC アルバム"
+msgstr "FLAC - アルバム"
+
+#: mymetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC - アルバム アーティスト"
 
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
-msgstr "FLAC アーティスト"
+msgstr "FLAC - アーティスト"
+
+#: mymetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC - ディスク番号"
+
+#: mymetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC - 総ディスク数"
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
-msgstr "FLAC ジャンル"
+msgstr "FLAC - ジャンル"
 
 #: mymetatags.s_metatag_flac_title
 msgid "FLAC Title"
-msgstr "FLAC タイトル"
+msgstr "FLAC - タイトル"
 
 #: mymetatags.s_metatag_flac_trackno
 msgid "FLAC Track Number"
-msgstr "FLAC トラック番号"
+msgstr "FLAC - トラック番号"
+
+#: mymetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC - 総トラック数"
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
-msgstr "FLAC 年"
+msgstr "FLAC - 年"
 
 #: mymetatags.s_metatag_hash_crc32
 msgid "CRC32 Checksum of a file"
@@ -383,38 +332,6 @@ msgstr "SHA512 ハッシュ(ファイル)"
 #: mymetatags.s_metatag_html_title
 msgid "Title tag extracted from an HTML file"
 msgstr "HTMLファイルから抽出したタイトルタグ"
-
-#: mymetatags.s_metatag_id3_album
-msgid "ID3 Album"
-msgstr "ID3 アルバム"
-
-#: mymetatags.s_metatag_id3_albumartist
-msgid "ID3 Album Artist"
-msgstr "ID3 アルバムアーティスト"
-
-#: mymetatags.s_metatag_id3_artist
-msgid "ID3 Artist"
-msgstr "ID3 アーティスト"
-
-#: mymetatags.s_metatag_id3_genre
-msgid "ID3 Genre"
-msgstr "ID3 ジャンル"
-
-#: mymetatags.s_metatag_id3_partofset
-msgid "ID3 Part Of Set"
-msgstr "ID3 パートオフセット"
-
-#: mymetatags.s_metatag_id3_title
-msgid "ID3 Title"
-msgstr "ID3 タイトル"
-
-#: mymetatags.s_metatag_id3_trackno
-msgid "ID3 Track Number"
-msgstr "ID3 トラック番号"
-
-#: mymetatags.s_metatag_id3_year
-msgid "ID3 Year"
-msgstr "ID3 年"
 
 #: mymetatags.s_metatag_image_aspectratio
 msgid "Aspect Ratio of an image"
@@ -456,33 +373,81 @@ msgstr "IPTC 場所の名前"
 msgid "IPTC Object Name"
 msgstr "IPTC 被写体名称"
 
+#: mymetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 - アルバム"
+
+#: mymetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 - アルバム アーティスト"
+
+#: mymetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 - アーティスト"
+
+#: mymetatags.s_metatag_mp3_diskno
+msgid "MP3 Disk Number"
+msgstr "MP3 - ディスク番号"
+
+#: mymetatags.s_metatag_mp3_disktotal
+msgid "MP3 Total Disks"
+msgstr "MP3 - 総ディスク数"
+
+#: mymetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 - ジャンル"
+
+#: mymetatags.s_metatag_mp3_partofset
+msgctxt "mymetatags.s_metatag_mp3_partofset"
+msgid "MP3 Part Of Set"
+msgstr "MP3 - セットのパート"
+
+#: mymetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 - タイトル"
+
+#: mymetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 - トラック番号"
+
+#: mymetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 - 総トラック数"
+
+#: mymetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 - 年"
+
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
 msgstr "Outlook メッセージ: 本文テキスト"
 
 #: mymetatags.s_metatag_outlook_dateheader
-#, fuzzy
-#| msgid "Outlook Message: Date Header Value"
 msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Outlook メッセージ: ヘッダ値"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (ローカル タイムゾーン)"
 
 #: mymetatags.s_metatag_outlook_dateheaderoriginal
 msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr ""
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (オリジナル タイムゾーン)"
 
 #: mymetatags.s_metatag_outlook_dateheaderutc
 msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr ""
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (UTC - 協定世界時)"
 
 #: mymetatags.s_metatag_outlook_datesent
-#, fuzzy
-#| msgid "Outlook Message: Date Sent"
 msgid "Outlook Message: Sent date in local time zone"
-msgstr "Outlook メッセージ: 送信日時"
+msgstr "Outlook メッセージ: 送信日時 (ローカル タイムゾーン)"
 
 #: mymetatags.s_metatag_outlook_datesentutc
 msgid "Outlook Message: Sent date in UTC time zone"
-msgstr ""
+msgstr "Outlook メッセージ: 送信日時 (UTC - 協定世界時)"
 
 #: mymetatags.s_metatag_outlook_id
 msgid "Outlook Message: ID"
@@ -542,27 +507,47 @@ msgstr "バージョン情報: 製品バージョン"
 
 #: mymetatags.s_metatag_wma_album
 msgid "WMA Album"
-msgstr "WMA アルバム"
+msgstr "WMA - アルバム"
+
+#: mymetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA - アルバム アーティスト"
 
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
-msgstr "WMA アーティスト"
+msgstr "WMA - アーティスト"
+
+#: mymetatags.s_metatag_wma_diskno
+msgid "WMA Disk Number"
+msgstr "WMA - ディスク番号"
+
+#: mymetatags.s_metatag_wma_disktotal
+msgid "WMA Total Disks"
+msgstr "WMA - 総ディスク数"
 
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
-msgstr "WMA ジャンル"
+msgstr "WMA - ジャンル"
+
+#: mymetatags.s_metatag_wma_partofset
+msgid "WMA Part Of Set"
+msgstr "WMA - セットのパート"
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
-msgstr "WMA タイトル"
+msgstr "WMA - タイトル"
 
 #: mymetatags.s_metatag_wma_trackno
 msgid "WMA Track Number"
-msgstr "WMA トラック番号"
+msgstr "WMA - トラック番号"
+
+#: mymetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr ""
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
-msgstr "WMA 年"
+msgstr "WMA - 年"
 
 #: mymodules.ssizebytes
 msgid "bytes"
@@ -1827,6 +1812,11 @@ msgstr "サブフォルダを含める"
 msgid "Include system items"
 msgstr "システム属性アイテムを含める"
 
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr "今後の既定値として保存"
+
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
 msgstr "ファイルとして追加時はルートフォルダをスキップ"
@@ -2993,8 +2983,8 @@ msgid "(none of the above)"
 msgstr "(上記以外)"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-msgid "Insert a space in front of capitalized letters"
-msgstr "大文字の前に空白を挿入する"
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "大文字の前に空白を挿入する (例. CamelCase)"
 
 #: tframe_rulecleanup.cb_normalizespaces.caption
 msgid "Normalize unicode spaces by replacing them with a standard space"
@@ -3600,4 +3590,112 @@ msgstr "現在の名前と置換"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "設定"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "ライセンスファイル用のディレクトリが作成できません"
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "連絡先E-メール"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "連絡先名"
+
+#: uregistration.s_error_details
+msgctxt "uregistration.s_error_details"
+msgid "Error"
+msgstr "エラー"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "ファイル削除に失敗:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "ライセンスデータの読み込みに失敗:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "ライセンスデータの保存に失敗:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "発行日"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "ライセンス"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "ライセンス"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "ライセンスがブラックリストに登録されています。"
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "ライセンスの有効期限"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "ライセンスの期限切れ"
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "無効なライセンスです!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "ライセンスの読み込みに失敗."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "製品のアクティベートには、ライセンスを更新する必要があります。"
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "ライセンスの除去に失敗."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "ライセンスは除去されました"
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "あなたのライセンスはアップグレード期限が切れています"
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "コンピュータの数"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "無効な登録コードです"
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "登録が正常に完了しました!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "アップグレードの有効期限"
 

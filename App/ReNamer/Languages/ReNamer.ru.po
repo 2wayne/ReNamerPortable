@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: ReNamer\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: den4b Team <support@den4b.com>\n"
 "Language-Team: den4b Team <support@den4b.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Russian\n"
 "X-Language-Name-Native: Русский\n"
 "X-Translators: Роман Старых, Boomer, Денис Козлов\n"
-"X-Generator: Poedit 1.6.7\n"
+"X-Generator: Poedit 1.7.5\n"
 
 #: mainform.srenameerrorok
 msgctxt "mainform.srenameerrorok"
@@ -54,10 +54,6 @@ msgstr "Хотите купить \"Pro\" версию для удаления �
 msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
 msgstr "Хотите купить \"Pro\" версию для разблокировки этой функции?"
 
-#: mainform.s_cannot_create_license_dir
-msgid "Not able to create a directory for a license file."
-msgstr "Не удалось создать папку для файла лицензии."
-
 #: mainform.s_confirmunregister
 msgid ""
 "Are you sure you want to unregister the product?\n"
@@ -68,19 +64,6 @@ msgstr ""
 "\n"
 "Это действие удалит вашу лицензию и деактивирует \"Pro\" версию.\n"
 
-#: mainform.s_contact_email
-msgid "Contact email"
-msgstr "Контактный email"
-
-#: mainform.s_contact_name
-msgid "Contact name"
-msgstr "Контактное имя"
-
-#: mainform.s_error_details
-msgctxt "mainform.s_error_details"
-msgid "Error"
-msgstr "Ошибка"
-
 #: mainform.s_featurenotavailable
 msgid "This feature is not available in this version."
 msgstr "Данная функция недоступна в этой версии."
@@ -89,38 +72,6 @@ msgstr "Данная функция недоступна в этой верси�
 msgctxt "mainform.s_free_license_note"
 msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
 msgstr "Это приложение можно использовать и распространять ТОЛЬКО в некоммерческих целях и со ссылкой на автора."
-
-#: mainform.s_issue_date
-msgid "Issue date"
-msgstr "Дата выдачи"
-
-#: mainform.s_license
-msgid "License"
-msgstr "Лицензия"
-
-#: mainform.s_licensed_to
-msgid "Licensed to"
-msgstr "Лицензия для"
-
-#: mainform.s_license_expiry
-msgid "License expiry"
-msgstr "Дата истечения"
-
-#: mainform.s_license_has_expired
-msgid "License has expired."
-msgstr "Лицензия истекла."
-
-#: mainform.s_license_load_failed
-msgid "Failed to load the license."
-msgstr "Не удалось загрузить лицензию."
-
-#: mainform.s_license_remove_failed
-msgid "Failed to remove the license."
-msgstr "Не удалось удалить лицензию."
-
-#: mainform.s_license_remove_ok
-msgid "License has been removed."
-msgstr "Лицензия была удалена."
 
 #: mainform.s_maxallowedpresets
 msgid "This version is limited to a maximum of %s presets."
@@ -134,21 +85,9 @@ msgstr "Эта версия ограничена максимум %s прави�
 msgid "(non-commercial use only)"
 msgstr "(для некоммерческого использования)"
 
-#: mainform.s_number_of_computers
-msgid "Number of computers"
-msgstr "Количество компьютеров"
-
 #: mainform.s_please_read_full_license
 msgid "For more information please read full license code"
 msgstr "Для дополнительной информации прочтите полный код лицензии"
-
-#: mainform.s_registration_error
-msgid "Registration code is invalid."
-msgstr "Недопустимый код регистрации."
-
-#: mainform.s_registration_ok
-msgid "Registration has been successful!"
-msgstr "Успешная регистрация!"
 
 #: mainform.s_statusbar_hint_filters
 msgid "Active filter settings"
@@ -161,10 +100,6 @@ msgstr "Загруженный пресет"
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
 msgstr "Загруженный пресет (изменен)"
-
-#: mainform.s_upgrade_expiry
-msgid "Upgrade expiry"
-msgstr "Дата истечения обновлений"
 
 #: myhash.sincorrectdigestsize
 msgid "Incorrect digest size for %s"
@@ -255,8 +190,6 @@ msgid "Summary Information: Title"
 msgstr "Общие сведения: Название"
 
 #: mymetatags.s_metatag_email_datesent
-#, fuzzy
-#| msgid "Email date sent"
 msgid "Email date sent in local time zone"
 msgstr "Дата отправки Email в местном часовом поясе"
 
@@ -340,9 +273,21 @@ msgstr "Размер в Мб"
 msgid "FLAC Album"
 msgstr "FLAC альбом"
 
+#: mymetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
 msgstr "FLAC артист"
+
+#: mymetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr ""
+
+#: mymetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr ""
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
@@ -355,6 +300,10 @@ msgstr "FLAC название"
 #: mymetatags.s_metatag_flac_trackno
 msgid "FLAC Track Number"
 msgstr "FLAC № дорожки"
+
+#: mymetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr ""
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
@@ -383,38 +332,6 @@ msgstr "SHA512 хэш файла"
 #: mymetatags.s_metatag_html_title
 msgid "Title tag extracted from an HTML file"
 msgstr "Содержание TITLE тэга из HTML файла"
-
-#: mymetatags.s_metatag_id3_album
-msgid "ID3 Album"
-msgstr "ID3 альбом"
-
-#: mymetatags.s_metatag_id3_albumartist
-msgid "ID3 Album Artist"
-msgstr "ID3 артист альбома"
-
-#: mymetatags.s_metatag_id3_artist
-msgid "ID3 Artist"
-msgstr "ID3 артист"
-
-#: mymetatags.s_metatag_id3_genre
-msgid "ID3 Genre"
-msgstr "ID3 жанр"
-
-#: mymetatags.s_metatag_id3_partofset
-msgid "ID3 Part Of Set"
-msgstr "ID3 Часть набора"
-
-#: mymetatags.s_metatag_id3_title
-msgid "ID3 Title"
-msgstr "ID3 название"
-
-#: mymetatags.s_metatag_id3_trackno
-msgid "ID3 Track Number"
-msgstr "ID3 № дорожки"
-
-#: mymetatags.s_metatag_id3_year
-msgid "ID3 Year"
-msgstr "ID3 год"
 
 #: mymetatags.s_metatag_image_aspectratio
 msgid "Aspect Ratio of an image"
@@ -455,6 +372,74 @@ msgstr ""
 #: mymetatags.s_metatag_iptc_objectname
 msgid "IPTC Object Name"
 msgstr ""
+
+#: mymetatags.s_metatag_mp3_album
+#, fuzzy
+#| msgid "ID3 Album"
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "ID3 альбом"
+
+#: mymetatags.s_metatag_mp3_albumartist
+#, fuzzy
+#| msgid "ID3 Album Artist"
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "ID3 артист альбома"
+
+#: mymetatags.s_metatag_mp3_artist
+#, fuzzy
+#| msgid "ID3 Artist"
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "ID3 артист"
+
+#: mymetatags.s_metatag_mp3_diskno
+msgid "MP3 Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_disktotal
+msgid "MP3 Total Disks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_genre
+#, fuzzy
+#| msgid "ID3 Genre"
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "ID3 жанр"
+
+#: mymetatags.s_metatag_mp3_partofset
+#, fuzzy
+#| msgid "ID3 Part Of Set"
+msgctxt "mymetatags.s_metatag_mp3_partofset"
+msgid "MP3 Part Of Set"
+msgstr "ID3 Часть набора"
+
+#: mymetatags.s_metatag_mp3_title
+#, fuzzy
+#| msgid "ID3 Title"
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "ID3 название"
+
+#: mymetatags.s_metatag_mp3_trackno
+#, fuzzy
+#| msgid "ID3 Track Number"
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "ID3 № дорожки"
+
+#: mymetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_year
+#, fuzzy
+#| msgid "ID3 Year"
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "ID3 год"
 
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
@@ -540,13 +525,29 @@ msgstr "Сведения о версии: Версия продукта"
 msgid "WMA Album"
 msgstr "WMA альбом"
 
+#: mymetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
 msgstr "WMA артист"
 
+#: mymetatags.s_metatag_wma_diskno
+msgid "WMA Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_wma_disktotal
+msgid "WMA Total Disks"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
 msgstr "WMA жанр"
+
+#: mymetatags.s_metatag_wma_partofset
+msgid "WMA Part Of Set"
+msgstr ""
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
@@ -555,6 +556,10 @@ msgstr "WMA название"
 #: mymetatags.s_metatag_wma_trackno
 msgid "WMA Track Number"
 msgstr "WMA № дорожки"
+
+#: mymetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr ""
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -1825,6 +1830,11 @@ msgstr "Включать вложенные папки"
 msgid "Include system items"
 msgstr "Включать системные объекты"
 
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr "Сохранить по умолчанию на будущее"
+
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
 msgstr "Пропускать корневые папки"
@@ -2991,8 +3001,8 @@ msgid "(none of the above)"
 msgstr "(ничего не менять)"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-msgid "Insert a space in front of capitalized letters"
-msgstr "Вставить пробел перед заглавными буквами"
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
+msgstr "Вставить пробел перед заглавными буквами (CamelCase)"
 
 #: tframe_rulecleanup.cb_normalizespaces.caption
 msgid "Normalize unicode spaces by replacing them with a standard space"
@@ -3598,4 +3608,112 @@ msgstr "Заменить текущее имя"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Опции"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Не удалось создать папку для файла лицензии."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Контактный email"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Контактное имя"
+
+#: uregistration.s_error_details
+msgctxt "uregistration.s_error_details"
+msgid "Error"
+msgstr "Ошибка"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr "Не удалось удалить файл:"
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr "Не удалось загрузить лицензионное данные:"
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr "Не удалось сохранить лицензионный данные:"
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr "Дата выдачи"
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr "Лицензия"
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Лицензия для"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr "Лицензия занесена в черный список."
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Дата истечения"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "Лицензия истекла."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr "Лицензия недействительна!"
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Не удалось загрузить лицензию."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr "Вам нужно обновить лицензию чтобы активировать продукт."
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Не удалось удалить лицензию."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "Лицензия была удалена."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr "Ваша лицензия вне периода обновления."
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Количество компьютеров"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Недопустимый код регистрации."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "Успешная регистрация!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Дата истечения обновлений"
 

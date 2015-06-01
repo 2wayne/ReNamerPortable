@@ -54,10 +54,6 @@ msgstr "¿Quieres comprar una versión \"Pro\" para eliminar este límite?"
 msgid "Would you like to purchase a \"Pro\" version to unlock this feature?"
 msgstr "¿Quieres comprar una versión \"Pro\" para desbloquear esta función?"
 
-#: mainform.s_cannot_create_license_dir
-msgid "Not able to create a directory for a license file."
-msgstr "Incapaz de crear carpeta para el archivo de licencia."
-
 #: mainform.s_confirmunregister
 msgid ""
 "Are you sure you want to unregister the product?\n"
@@ -68,19 +64,6 @@ msgstr ""
 "\n"
 "Esto quitará su licencia y desactivar la versión \"Pro\".\n"
 
-#: mainform.s_contact_email
-msgid "Contact email"
-msgstr "Email de contacto"
-
-#: mainform.s_contact_name
-msgid "Contact name"
-msgstr "Nombre de contacto"
-
-#: mainform.s_error_details
-msgctxt "mainform.s_error_details"
-msgid "Error"
-msgstr "Error"
-
 #: mainform.s_featurenotavailable
 msgid "This feature is not available in this version."
 msgstr ""
@@ -89,38 +72,6 @@ msgstr ""
 msgctxt "mainform.s_free_license_note"
 msgid "This application can be used and distributed ONLY for non-commercial purposes and with appropriate attributions."
 msgstr "Esta aplicación sólo se podrá usar y distribuir para fines NO comerciales salvo licencia apropiada."
-
-#: mainform.s_issue_date
-msgid "Issue date"
-msgstr ""
-
-#: mainform.s_license
-msgid "License"
-msgstr ""
-
-#: mainform.s_licensed_to
-msgid "Licensed to"
-msgstr "Licenciado para"
-
-#: mainform.s_license_expiry
-msgid "License expiry"
-msgstr "Expiración de licencia"
-
-#: mainform.s_license_has_expired
-msgid "License has expired."
-msgstr "La licencia ha caducado."
-
-#: mainform.s_license_load_failed
-msgid "Failed to load the license."
-msgstr "Fallo al cargar la licencia."
-
-#: mainform.s_license_remove_failed
-msgid "Failed to remove the license."
-msgstr "Fallo al eliminar la licencia."
-
-#: mainform.s_license_remove_ok
-msgid "License has been removed."
-msgstr "La licencia fue eliminada."
 
 #: mainform.s_maxallowedpresets
 msgid "This version is limited to a maximum of %s presets."
@@ -134,21 +85,9 @@ msgstr ""
 msgid "(non-commercial use only)"
 msgstr "(sólo uso no-comercial)"
 
-#: mainform.s_number_of_computers
-msgid "Number of computers"
-msgstr "Número de ordenadores"
-
 #: mainform.s_please_read_full_license
 msgid "For more information please read full license code"
 msgstr "Para más información, por favor, lea el código de licencia completo"
-
-#: mainform.s_registration_error
-msgid "Registration code is invalid."
-msgstr "Código de registro es inválido."
-
-#: mainform.s_registration_ok
-msgid "Registration has been successful!"
-msgstr "¡El registro se completo exitosamente!"
 
 #: mainform.s_statusbar_hint_filters
 msgid "Active filter settings"
@@ -161,10 +100,6 @@ msgstr ""
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
 msgstr ""
-
-#: mainform.s_upgrade_expiry
-msgid "Upgrade expiry"
-msgstr "Ampliar expiración"
 
 #: myhash.sincorrectdigestsize
 msgid "Incorrect digest size for %s"
@@ -340,9 +275,21 @@ msgstr "Tamaño de archivo en MB"
 msgid "FLAC Album"
 msgstr "FLAC Álbum"
 
+#: mymetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
 msgstr "FLAC Artista"
+
+#: mymetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr ""
+
+#: mymetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr ""
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
@@ -355,6 +302,10 @@ msgstr "FLAC Título"
 #: mymetatags.s_metatag_flac_trackno
 msgid "FLAC Track Number"
 msgstr "FLAC Número de pista"
+
+#: mymetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr ""
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
@@ -383,38 +334,6 @@ msgstr "Hash SHA512 de un archivo"
 #: mymetatags.s_metatag_html_title
 msgid "Title tag extracted from an HTML file"
 msgstr "Etiqueta de título extraída de un archivo HTML"
-
-#: mymetatags.s_metatag_id3_album
-msgid "ID3 Album"
-msgstr "ID3 Álbum"
-
-#: mymetatags.s_metatag_id3_albumartist
-msgid "ID3 Album Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_id3_artist
-msgid "ID3 Artist"
-msgstr "ID3 Artista"
-
-#: mymetatags.s_metatag_id3_genre
-msgid "ID3 Genre"
-msgstr "ID3 Género"
-
-#: mymetatags.s_metatag_id3_partofset
-msgid "ID3 Part Of Set"
-msgstr "ID3 Parte de un grupo"
-
-#: mymetatags.s_metatag_id3_title
-msgid "ID3 Title"
-msgstr "ID3 Título"
-
-#: mymetatags.s_metatag_id3_trackno
-msgid "ID3 Track Number"
-msgstr "ID3 Número de pista"
-
-#: mymetatags.s_metatag_id3_year
-msgid "ID3 Year"
-msgstr "ID3 Año"
 
 #: mymetatags.s_metatag_image_aspectratio
 msgid "Aspect Ratio of an image"
@@ -455,6 +374,72 @@ msgstr "IPTC Nombre del lugar"
 #: mymetatags.s_metatag_iptc_objectname
 msgid "IPTC Object Name"
 msgstr "IPTC Nombre de objeto"
+
+#: mymetatags.s_metatag_mp3_album
+#, fuzzy
+#| msgid "ID3 Album"
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "ID3 Álbum"
+
+#: mymetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_artist
+#, fuzzy
+#| msgid "ID3 Artist"
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "ID3 Artista"
+
+#: mymetatags.s_metatag_mp3_diskno
+msgid "MP3 Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_disktotal
+msgid "MP3 Total Disks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_genre
+#, fuzzy
+#| msgid "ID3 Genre"
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "ID3 Género"
+
+#: mymetatags.s_metatag_mp3_partofset
+#, fuzzy
+#| msgid "ID3 Part Of Set"
+msgctxt "mymetatags.s_metatag_mp3_partofset"
+msgid "MP3 Part Of Set"
+msgstr "ID3 Parte de un grupo"
+
+#: mymetatags.s_metatag_mp3_title
+#, fuzzy
+#| msgid "ID3 Title"
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "ID3 Título"
+
+#: mymetatags.s_metatag_mp3_trackno
+#, fuzzy
+#| msgid "ID3 Track Number"
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "ID3 Número de pista"
+
+#: mymetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr ""
+
+#: mymetatags.s_metatag_mp3_year
+#, fuzzy
+#| msgid "ID3 Year"
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "ID3 Año"
 
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
@@ -540,13 +525,29 @@ msgstr "Información de Versión: Producto"
 msgid "WMA Album"
 msgstr "WMA Álbum"
 
+#: mymetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
 msgstr "WMA Artista"
 
+#: mymetatags.s_metatag_wma_diskno
+msgid "WMA Disk Number"
+msgstr ""
+
+#: mymetatags.s_metatag_wma_disktotal
+msgid "WMA Total Disks"
+msgstr ""
+
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
 msgstr "WMA Género"
+
+#: mymetatags.s_metatag_wma_partofset
+msgid "WMA Part Of Set"
+msgstr ""
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
@@ -555,6 +556,10 @@ msgstr "WMA Título"
 #: mymetatags.s_metatag_wma_trackno
 msgid "WMA Track Number"
 msgstr "WMA Número de pista"
+
+#: mymetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr ""
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -1818,6 +1823,11 @@ msgstr "Incluir subcarpetas"
 msgid "Include system items"
 msgstr "Incluir elementos de sistema"
 
+#: tform_filtersettings.checkbox_saveasdefault.caption
+msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
+msgid "Save as default for future sessions"
+msgstr ""
+
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
 msgstr "No añadir la carpeta raíz como archivo"
@@ -2984,7 +2994,9 @@ msgid "(none of the above)"
 msgstr "(Sin cambios)"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-msgid "Insert a space in front of capitalized letters"
+#, fuzzy
+#| msgid "Insert a space in front of capitalized letters"
+msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
 msgstr "Insertar espacio frente a letras mayúsculas"
 
 #: tframe_rulecleanup.cb_normalizespaces.caption
@@ -3591,4 +3603,112 @@ msgstr "Reemplazar el nombre actual"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Opciones"
+
+#: uregistration.s_cannot_create_license_dir
+msgctxt "uregistration.s_cannot_create_license_dir"
+msgid "Not able to create a directory for a license file."
+msgstr "Incapaz de crear carpeta para el archivo de licencia."
+
+#: uregistration.s_contact_email
+msgctxt "uregistration.s_contact_email"
+msgid "Contact email"
+msgstr "Email de contacto"
+
+#: uregistration.s_contact_name
+msgctxt "uregistration.s_contact_name"
+msgid "Contact name"
+msgstr "Nombre de contacto"
+
+#: uregistration.s_error_details
+msgctxt "uregistration.s_error_details"
+msgid "Error"
+msgstr "Error"
+
+#: uregistration.s_failed_delete_file
+msgid "Failed to delete file:"
+msgstr ""
+
+#: uregistration.s_failed_load_license_data
+msgid "Failed to load license data:"
+msgstr ""
+
+#: uregistration.s_failed_save_license_data
+msgid "Failed to save license data:"
+msgstr ""
+
+#: uregistration.s_issue_date
+msgctxt "uregistration.s_issue_date"
+msgid "Issue date"
+msgstr ""
+
+#: uregistration.s_license
+msgctxt "uregistration.s_license"
+msgid "License"
+msgstr ""
+
+#: uregistration.s_licensed_to
+msgctxt "uregistration.s_licensed_to"
+msgid "Licensed to"
+msgstr "Licenciado para"
+
+#: uregistration.s_license_blacklisted
+msgid "License has been blacklisted."
+msgstr ""
+
+#: uregistration.s_license_expiry
+msgctxt "uregistration.s_license_expiry"
+msgid "License expiry"
+msgstr "Expiración de licencia"
+
+#: uregistration.s_license_has_expired
+msgctxt "uregistration.s_license_has_expired"
+msgid "License has expired."
+msgstr "La licencia ha caducado."
+
+#: uregistration.s_license_invalid
+msgid "License is invalid!"
+msgstr ""
+
+#: uregistration.s_license_load_failed
+msgctxt "uregistration.s_license_load_failed"
+msgid "Failed to load the license."
+msgstr "Fallo al cargar la licencia."
+
+#: uregistration.s_license_need_to_renew
+msgid "You need to renew the license in order to activate the product."
+msgstr ""
+
+#: uregistration.s_license_remove_failed
+msgctxt "uregistration.s_license_remove_failed"
+msgid "Failed to remove the license."
+msgstr "Fallo al eliminar la licencia."
+
+#: uregistration.s_license_remove_ok
+msgctxt "uregistration.s_license_remove_ok"
+msgid "License has been removed."
+msgstr "La licencia fue eliminada."
+
+#: uregistration.s_license_upgrade_expired
+msgid "Your license is outside of the upgrade period."
+msgstr ""
+
+#: uregistration.s_number_of_computers
+msgctxt "uregistration.s_number_of_computers"
+msgid "Number of computers"
+msgstr "Número de ordenadores"
+
+#: uregistration.s_registration_error
+msgctxt "uregistration.s_registration_error"
+msgid "Registration code is invalid."
+msgstr "Código de registro es inválido."
+
+#: uregistration.s_registration_ok
+msgctxt "uregistration.s_registration_ok"
+msgid "Registration has been successful!"
+msgstr "¡El registro se completo exitosamente!"
+
+#: uregistration.s_upgrade_expiry
+msgctxt "uregistration.s_upgrade_expiry"
+msgid "Upgrade expiry"
+msgstr "Ampliar expiración"
 
