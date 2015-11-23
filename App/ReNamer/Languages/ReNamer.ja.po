@@ -14,37 +14,11 @@ msgstr ""
 "X-Language-Name: Japanese\n"
 "X-Language-Name-Native: 日本語\n"
 "X-Translators: Tilt <tiltstr@gmail.com>\n"
-"X-Generator: Poedit 1.7.5\n"
-
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr ""
+"X-Generator: Poedit 1.8.2\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "現在のプリセットを保存?"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr "リスト内重複"
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr "新しいパスが長さ制限を超えています"
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr "対象ファイルが既に存在します"
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr "無効な文字が含まれています"
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr ""
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -543,7 +517,7 @@ msgstr "WMA - トラック番号"
 
 #: mymetatags.s_metatag_wma_tracktotal
 msgid "WMA Total Tracks"
-msgstr ""
+msgstr "WMA - 合計トラック数"
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -596,6 +570,36 @@ msgstr "プリセットがみつかりません:"
 #: myregistry.sregistrydeletekeyfailed
 msgid "Failed to delete key: \"%s\""
 msgstr "キーの削除に失敗: \"%s\""
+
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr ""
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "リスト内重複"
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新しいパスが長さ制限を超えています"
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "対象ファイルが既に存在します"
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "無効な文字が含まれています"
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr ""
 
 #: myrulesex.s_rules_after
 msgid "after"
@@ -669,6 +673,11 @@ msgstr "文字"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "削除"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "現在の名前を削除"
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -810,6 +819,10 @@ msgstr "式による置換"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "空白で置換"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "現在の名前を置き換える"
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1531,6 +1544,10 @@ msgstr " コピー"
 msgid "Add your code here"
 msgstr "ここにコードを追加"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "すべての単一文字"
@@ -1829,7 +1846,16 @@ msgstr " フォルダ追加時のデフォルトの動作 :"
 msgid "Masks:"
 msgstr "マスク:"
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "除外:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "含める:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "注: マスクはセミコロン \" ; \" で区切ってください"
 
@@ -2742,8 +2768,9 @@ msgid "Add to \"Send To\" context menu"
 msgstr "右クリックの\"送る\"に追加"
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "常に手前に表示 (メインウィンドウ)"
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "他のウィンドウの最前面に表示"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -3052,6 +3079,11 @@ msgstr "これらの文字を空白に置換:"
 msgid "Strip out content of brackets:"
 msgstr "括弧の内容を除去:"
 
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr "現在の名前を削除"
+
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
 msgid "Right-to-left"
@@ -3153,6 +3185,11 @@ msgstr "接頭語"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "接尾語"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3606,11 +3643,6 @@ msgctxt "uregistration.s_contact_name"
 msgid "Contact name"
 msgstr "連絡先名"
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "エラー"
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
 msgstr "ファイル削除に失敗:"
@@ -3688,6 +3720,14 @@ msgstr "コンピュータの数"
 msgctxt "uregistration.s_registration_error"
 msgid "Registration code is invalid."
 msgstr "無効な登録コードです"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "登録ファイルがみつかりません"
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "登録ファイルの読み込みに失敗"
 
 #: uregistration.s_registration_ok
 msgctxt "uregistration.s_registration_ok"

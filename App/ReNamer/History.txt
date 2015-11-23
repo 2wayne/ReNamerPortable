@@ -1,3 +1,58 @@
+ReNamer 6.3 (2015-11-04)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Updated Serbian language file.
+
+6.2.0.8 Beta (2015-08-29)
+* Internal PascalScript code optimizations.
+* Fixed incorrectly displayed declaration for overloaded functions, e.g. Length.
+* Changed default size of PascalScript auto-completion window (20x600 to 16x400).
+* Added new PascalScript functions: StrToIntDef, StrToInt64Def, TryStrToInt,
+  RandomFloat, RandomBoolean, MinInt, MinInt64, MinFloat, MaxInt, MaxInt64, MaxFloat.
+
+6.2.0.7 Beta (2015-08-02)
+* Added function name completion (Ctrl+Space) in PascalScript code window;
+* Updated Russian (ru) translation file;
+
+6.2.0.6 Beta (2015-07-12)
+* Updated Japanese translation file;
+* Added Torrent file meta tags:
+  Torrent_Name, Torrent_Hash, Torrent_Announce, Torrent_Comment,
+  Torrent_Publisher, Torrent_CreationDateUTC, Torrent_CreationDateLocal,
+  Torrent_CountFiles, Torrent_TotalSizeBytes, Torrent_TotalSizeKB,
+  Torrent_TotalSizeMB, Torrent_TotalSizeGB;
+
+6.2.0.5 Beta (2015-07-03)
+* Fixed missing time component in files table for midnight (00:00:00);
+* Added more date/time functions to PascalScript: SecondSpan, EncodeDateTime,
+  DecodeDateTime, TryEncodeDateTime, ComposeDateTime;
+* Minor code optimizations;
+
+6.2.0.4 Beta (2015-06-21)
+* Fixed broken "Stay on top" option (used to be called "Always on top"),
+  and it no longer requires a restart;
+* Added meta tags filter box, populated with existing meta tag categories;
+
+6.2.0.3 Beta (2015-06-18)
+* Added "Delete current name" option to Delete rule;
+* Added "Replace current name" option to Insert rule;
+* Repositioned components in Rearrange rule to better fit localized text;
+* Updated Russian (ru) translation file;
+
+6.2.0.2 Beta (2015-06-17)
+* Updated Chinese Simplified (zh_CN) translation file;
+* Set application BidiMode (right-to-left) according to the selected language,
+  instead of by system locale;
+* Added BiDiCode setting in INI file for overiding application BidiMode,
+  possible values: AUTO, LTR, RTL;
+* Improvements to the registration procedure;
+
+6.2.0.1 Beta (2015-05-09)
+* Added Exclude filter masks in addition to existing Include masks;
+* Filter masks now support Unicode characters;
+* Updated Brazilian language PO file;
+
+
 ReNamer 6.2 (2015-05-03)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

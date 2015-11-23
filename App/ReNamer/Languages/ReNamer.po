@@ -1,34 +1,8 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr ""
-
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
-msgstr ""
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr ""
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr ""
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr ""
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr ""
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
 msgstr ""
 
 #: mainform.s_askpurchaseremovelimit
@@ -579,6 +553,32 @@ msgstr ""
 msgid "Failed to delete key: \"%s\""
 msgstr ""
 
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr ""
+
+#: myrenfiles.svalidationduplicated
+msgid "Duplicate in the list"
+msgstr ""
+
+#: myrenfiles.svalidationexceeds
+msgid "New path exceeds the length limit"
+msgstr ""
+
+#: myrenfiles.svalidationexists
+msgid "Destination file already exists"
+msgstr ""
+
+#: myrenfiles.svalidationinvalid
+msgid "Contains invalid characters"
+msgstr ""
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr ""
+
 #: myrulesex.s_rules_after
 msgid "after"
 msgstr ""
@@ -650,6 +650,11 @@ msgstr ""
 #: myrulesex.s_rules_delete
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
+msgstr ""
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
 msgstr ""
 
 #: myrulesex.s_rules_delimiters
@@ -791,6 +796,10 @@ msgstr ""
 
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
+msgstr ""
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
 msgstr ""
 
 #: myrulesex.s_rules_reset_index_every
@@ -1456,6 +1465,10 @@ msgstr ""
 msgid "Add your code here"
 msgstr ""
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr ""
@@ -1751,7 +1764,16 @@ msgstr ""
 msgid "Masks:"
 msgstr ""
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr ""
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr ""
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "TFORM_FILTERSETTINGS.LABEL_MASKSNOTE.CAPTION"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr ""
 
@@ -2664,7 +2686,7 @@ msgid "Add to \"Send To\" context menu"
 msgstr ""
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
 msgstr ""
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
@@ -2974,6 +2996,11 @@ msgstr ""
 msgid "Strip out content of brackets:"
 msgstr ""
 
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "TFRAME_RULEDELETE.CHECKBOX_DELETECURRENTNAME.CAPTION"
+msgid "Delete current name"
+msgstr ""
+
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
 msgid "Right-to-left"
@@ -3074,6 +3101,11 @@ msgstr ""
 #: tframe_ruleinsert.radiobutton_insertsuffix.caption
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
+msgstr ""
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
 msgstr ""
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
@@ -3525,11 +3557,6 @@ msgstr ""
 msgid "Contact name"
 msgstr ""
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr ""
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
 msgstr ""
@@ -3596,6 +3623,14 @@ msgstr ""
 
 #: uregistration.s_registration_error
 msgid "Registration code is invalid."
+msgstr ""
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
 msgstr ""
 
 #: uregistration.s_registration_ok

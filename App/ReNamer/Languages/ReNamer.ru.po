@@ -14,37 +14,11 @@ msgstr ""
 "X-Language-Name: Russian\n"
 "X-Language-Name-Native: Русский\n"
 "X-Translators: Роман Старых, Boomer, Денис Козлов\n"
-"X-Generator: Poedit 1.7.5\n"
-
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr "Ок"
+"X-Generator: Poedit 1.8.1\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "Сохранить данный пресет?"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr "Дубликат в списке"
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr "Новый путь превышает ограничение длины"
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr "Новый путь уже занят"
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr "Содержит недопустимые символы"
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr "Ок"
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -275,7 +249,7 @@ msgstr "FLAC альбом"
 
 #: mymetatags.s_metatag_flac_albumartist
 msgid "FLAC Album Artist"
-msgstr ""
+msgstr "FLAC артист альбома"
 
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
@@ -283,11 +257,11 @@ msgstr "FLAC артист"
 
 #: mymetatags.s_metatag_flac_discno
 msgid "FLAC Disc Number"
-msgstr ""
+msgstr "FLAC № диска"
 
 #: mymetatags.s_metatag_flac_disctotal
 msgid "FLAC Total Discs"
-msgstr ""
+msgstr "FLAC количество дисков"
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
@@ -303,7 +277,7 @@ msgstr "FLAC № дорожки"
 
 #: mymetatags.s_metatag_flac_tracktotal
 msgid "FLAC Total Tracks"
-msgstr ""
+msgstr "FLAC количество дорожек"
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
@@ -363,119 +337,103 @@ msgstr "IPTC город"
 
 #: mymetatags.s_metatag_iptc_headline
 msgid "IPTC Image Headline"
-msgstr ""
+msgstr "IPTC заголовок изображения"
 
 #: mymetatags.s_metatag_iptc_location
 msgid "IPTC Location Name"
-msgstr ""
+msgstr "IPTC имя местоположения"
 
 #: mymetatags.s_metatag_iptc_objectname
 msgid "IPTC Object Name"
-msgstr ""
+msgstr "IPTC имя объекта"
 
 #: mymetatags.s_metatag_mp3_album
-#, fuzzy
-#| msgid "ID3 Album"
 msgctxt "mymetatags.s_metatag_mp3_album"
 msgid "MP3 Album"
-msgstr "ID3 альбом"
+msgstr "MP3 альбом"
 
 #: mymetatags.s_metatag_mp3_albumartist
-#, fuzzy
-#| msgid "ID3 Album Artist"
 msgctxt "mymetatags.s_metatag_mp3_albumartist"
 msgid "MP3 Album Artist"
-msgstr "ID3 артист альбома"
+msgstr "MP3 артист альбома"
 
 #: mymetatags.s_metatag_mp3_artist
-#, fuzzy
-#| msgid "ID3 Artist"
 msgctxt "mymetatags.s_metatag_mp3_artist"
 msgid "MP3 Artist"
-msgstr "ID3 артист"
+msgstr "MP3 артист"
 
 #: mymetatags.s_metatag_mp3_diskno
 msgid "MP3 Disk Number"
-msgstr ""
+msgstr "MP3 № диска"
 
 #: mymetatags.s_metatag_mp3_disktotal
 msgid "MP3 Total Disks"
-msgstr ""
+msgstr "MP3 количество дисков"
 
 #: mymetatags.s_metatag_mp3_genre
-#, fuzzy
-#| msgid "ID3 Genre"
 msgctxt "mymetatags.s_metatag_mp3_genre"
 msgid "MP3 Genre"
-msgstr "ID3 жанр"
+msgstr "MP3 жанр"
 
 #: mymetatags.s_metatag_mp3_partofset
-#, fuzzy
-#| msgid "ID3 Part Of Set"
 msgctxt "mymetatags.s_metatag_mp3_partofset"
 msgid "MP3 Part Of Set"
-msgstr "ID3 Часть набора"
+msgstr "MP3 часть набора"
 
 #: mymetatags.s_metatag_mp3_title
-#, fuzzy
-#| msgid "ID3 Title"
 msgctxt "mymetatags.s_metatag_mp3_title"
 msgid "MP3 Title"
-msgstr "ID3 название"
+msgstr "MP3 название"
 
 #: mymetatags.s_metatag_mp3_trackno
-#, fuzzy
-#| msgid "ID3 Track Number"
 msgctxt "mymetatags.s_metatag_mp3_trackno"
 msgid "MP3 Track Number"
-msgstr "ID3 № дорожки"
+msgstr "MP3 № дорожки"
 
 #: mymetatags.s_metatag_mp3_tracktotal
 msgid "MP3 Total Tracks"
-msgstr ""
+msgstr "MP3 количество дорожек"
 
 #: mymetatags.s_metatag_mp3_year
-#, fuzzy
-#| msgid "ID3 Year"
 msgctxt "mymetatags.s_metatag_mp3_year"
 msgid "MP3 Year"
-msgstr "ID3 год"
+msgstr "MP3 год"
 
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
-msgstr ""
+msgstr "Outlook Сообщения: Основной текст"
 
 #: mymetatags.s_metatag_outlook_dateheader
 msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr ""
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в местном часовом поясе"
 
 #: mymetatags.s_metatag_outlook_dateheaderoriginal
 msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr ""
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в исходном часовом поясе"
 
 #: mymetatags.s_metatag_outlook_dateheaderutc
 msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr ""
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в часовом поясе UTC"
 
 #: mymetatags.s_metatag_outlook_datesent
 msgid "Outlook Message: Sent date in local time zone"
-msgstr ""
+msgstr "Outlook Сообщение: Дата отправки в местном часовом поясе"
 
 #: mymetatags.s_metatag_outlook_datesentutc
 msgid "Outlook Message: Sent date in UTC time zone"
-msgstr ""
+msgstr "Outlook Сообщение: Дата отправки в часовом поясе UTC"
 
 #: mymetatags.s_metatag_outlook_id
 msgid "Outlook Message: ID"
-msgstr ""
+msgstr "Outlook Сообщение: ID"
 
 #: mymetatags.s_metatag_outlook_sender
 msgid "Outlook Message: Sender"
-msgstr ""
+msgstr "Outlook Сообщение: Отправитель"
 
 #: mymetatags.s_metatag_outlook_subject
 msgid "Outlook Message: Subject"
-msgstr ""
+msgstr "Outlook Сообщение: Тема"
 
 #: mymetatags.s_metatag_tiff_date
 msgid "TIFF Date"
@@ -527,7 +485,7 @@ msgstr "WMA альбом"
 
 #: mymetatags.s_metatag_wma_albumartist
 msgid "WMA Album Artist"
-msgstr ""
+msgstr "WMA артист альбома"
 
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
@@ -535,11 +493,11 @@ msgstr "WMA артист"
 
 #: mymetatags.s_metatag_wma_diskno
 msgid "WMA Disk Number"
-msgstr ""
+msgstr "WMA № диска"
 
 #: mymetatags.s_metatag_wma_disktotal
 msgid "WMA Total Disks"
-msgstr ""
+msgstr "WMA количество дисков"
 
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
@@ -547,7 +505,7 @@ msgstr "WMA жанр"
 
 #: mymetatags.s_metatag_wma_partofset
 msgid "WMA Part Of Set"
-msgstr ""
+msgstr "WMA часть набора"
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
@@ -559,7 +517,7 @@ msgstr "WMA № дорожки"
 
 #: mymetatags.s_metatag_wma_tracktotal
 msgid "WMA Total Tracks"
-msgstr ""
+msgstr "WMA количество дорожек"
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -612,6 +570,36 @@ msgstr "Пресет файл не найден:"
 #: myregistry.sregistrydeletekeyfailed
 msgid "Failed to delete key: \"%s\""
 msgstr "Не удалось удалить ключ: \"%s\""
+
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "Ок"
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Дубликат в списке"
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Новый путь превышает ограничение длины"
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Новый путь уже занят"
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Содержит недопустимые символы"
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "Ок"
 
 #: myrulesex.s_rules_after
 msgid "after"
@@ -685,6 +673,11 @@ msgstr "буквы"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "Удалить"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Удалить текущее имя"
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -826,6 +819,10 @@ msgstr "Замена выражения"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "Заменить пробелами"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "заменяя текущее имя"
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1549,6 +1546,10 @@ msgstr "Копировать"
 msgid "Add your code here"
 msgstr "Добавьте Ваш код здесь"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr "Нажмите %s для дополнения кода"
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "Любой символ"
@@ -1847,7 +1848,16 @@ msgstr "При добавлении папок:"
 msgid "Masks:"
 msgstr "Маски:"
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "Исключать:"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "Включать:"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "Важно: отделяйте маски \";\" (точкой с запятой)."
 
@@ -2760,8 +2770,10 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Добавить в контекстное меню \"Отправить\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "Главное окно всегда наверху (после перезапуска)"
+#, fuzzy
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "Поверх других окон"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -3070,6 +3082,11 @@ msgstr "Заменить пробелами символы:"
 msgid "Strip out content of brackets:"
 msgstr "Удалить содержимое скобок:"
 
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr "Удалить текущее имя"
+
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
 msgid "Right-to-left"
@@ -3171,6 +3188,11 @@ msgstr "Префикс"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "Суффикс"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменить текущее имя"
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3624,11 +3646,6 @@ msgctxt "uregistration.s_contact_name"
 msgid "Contact name"
 msgstr "Контактное имя"
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "Ошибка"
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
 msgstr "Не удалось удалить файл:"
@@ -3706,6 +3723,14 @@ msgstr "Количество компьютеров"
 msgctxt "uregistration.s_registration_error"
 msgid "Registration code is invalid."
 msgstr "Недопустимый код регистрации."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr "Регистрационный файл не найден."
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr "Ошибка чтения регистрационного файла."
 
 #: uregistration.s_registration_ok
 msgctxt "uregistration.s_registration_ok"

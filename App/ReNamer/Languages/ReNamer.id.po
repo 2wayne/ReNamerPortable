@@ -16,35 +16,9 @@ msgstr ""
 "X-Translators: Zalzala Zilzal <zalzala.zilzal@gmail.com>\n"
 "X-Generator: Poedit 1.7.5\n"
 
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr "OK"
-
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "Simpan preset saat ini?"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr "Gandakan kedalam daftar"
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr "Lokasi baru melampaui batas panjang"
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr "Berkas tujuan sudah ada"
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr "Berisi karakter tidak valid"
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr "OK"
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -597,6 +571,36 @@ msgstr "Berkas preset tidak ditemukan:"
 msgid "Failed to delete key: \"%s\""
 msgstr "Gagal untuk menghapus kunci: \"%s\""
 
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "OK"
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Gandakan kedalam daftar"
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Lokasi baru melampaui batas panjang"
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Berkas tujuan sudah ada"
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Berisi karakter tidak valid"
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "OK"
+
 #: myrulesex.s_rules_after
 msgid "after"
 msgstr "sesudah"
@@ -669,6 +673,11 @@ msgstr "karakter"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "Hapus"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -810,6 +819,10 @@ msgstr "Ganti ekspresi"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "Ganti dengan spasi"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1531,6 +1544,10 @@ msgstr "SALIN"
 msgid "Add your code here"
 msgstr "Tambah kode anda disini"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "Tiap karakter tunggal"
@@ -1829,7 +1846,16 @@ msgstr "Kelakuan standar saat menambah folder:"
 msgid "Masks:"
 msgstr "Samaran:"
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr ""
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr ""
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "Catatan: pisah multi samaran pakai \";\" (titik koma)."
 
@@ -2742,8 +2768,10 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Tambah ke konteks menu \"Send To\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "Selalu di atas (jendela utama saja, harus restart)"
+#, fuzzy
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "Selalu di atas"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -3053,6 +3081,11 @@ msgstr "Ganti karakter ini dengan spasi:"
 msgid "Strip out content of brackets:"
 msgstr "Copot keluar isi dalam kurung:"
 
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr ""
+
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
 msgid "Right-to-left"
@@ -3154,6 +3187,11 @@ msgstr "Awalan"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "Akhiran"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr ""
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3604,12 +3642,6 @@ msgstr "Email kontak"
 msgid "Contact name"
 msgstr "Nama kontak"
 
-#: uregistration.s_error_details
-#, fuzzy
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "Kesalahan"
-
 #: uregistration.s_failed_delete_file
 #, fuzzy
 msgid "Failed to delete file:"
@@ -3682,6 +3714,14 @@ msgstr "Jumlah komputer"
 #: uregistration.s_registration_error
 msgid "Registration code is invalid."
 msgstr "Kode pendaftaran tidak valid."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
 
 #: uregistration.s_registration_ok
 msgid "Registration has been successful!"

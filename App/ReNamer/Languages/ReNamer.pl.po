@@ -16,35 +16,9 @@ msgstr ""
 "X-Translators: Marcin Czerwien\n"
 "X-Generator: Poedit 1.6.7\n"
 
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr "OK"
-
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "Zapisać bieżące ustawienie?"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr ""
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr ""
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr ""
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr ""
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr "OK"
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -619,6 +593,36 @@ msgstr ""
 msgid "Failed to delete key: \"%s\""
 msgstr ""
 
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "OK"
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr ""
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr ""
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr ""
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr ""
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "OK"
+
 #: myrulesex.s_rules_after
 msgid "after"
 msgstr "po"
@@ -691,6 +695,11 @@ msgstr "znaki"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "Usuń"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -832,6 +841,10 @@ msgstr "Zastąp wyrażenie"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "Zastąp spacjami"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1551,6 +1564,10 @@ msgstr "Kopiuj"
 msgid "Add your code here"
 msgstr "Tutaj wprowadź kod"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "Dowolny znak"
@@ -1849,7 +1866,16 @@ msgstr "Domyślna akcja przy dodawaniu folderów:"
 msgid "Masks:"
 msgstr "Szablony:"
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr ""
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr ""
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "Uwaga: rozdzielaj szablony średnikiem \";\"."
 
@@ -2762,8 +2788,10 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Dodaj do menu \"Wyślij do\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "Zawsze na wierzchu (tylko okno główne; wymaga restartu)"
+#, fuzzy
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "Zawsze na wierzchu"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -3074,6 +3102,11 @@ msgstr "Zastąp spacjami:"
 msgid "Strip out content of brackets:"
 msgstr "Wytnij zawartość nawiasów:"
 
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr ""
+
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
 msgid "Right-to-left"
@@ -3175,6 +3208,11 @@ msgstr "Prefiks"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "Sufiks"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr ""
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3628,11 +3666,6 @@ msgctxt "uregistration.s_contact_name"
 msgid "Contact name"
 msgstr "Osoba do kontaktu"
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "Błąd"
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
 msgstr ""
@@ -3710,6 +3743,14 @@ msgstr "Liczba komputerów"
 msgctxt "uregistration.s_registration_error"
 msgid "Registration code is invalid."
 msgstr "Nieprawidłowy kod operacji"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
 
 #: uregistration.s_registration_ok
 msgctxt "uregistration.s_registration_ok"

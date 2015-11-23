@@ -14,37 +14,11 @@ msgstr ""
 "X-Language-Name: Chinese Simplified\n"
 "X-Language-Name-Native: 简体中文\n"
 "X-Translators: WanderMax <hmptwm@gmail.com>\n"
-"X-Generator: Poedit 1.6.10\n"
-
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr "确定"
+"X-Generator: Poedit 1.8\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "是否保存当前预设？"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr "复制此列表"
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr "新路径超出长度限定"
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr "目标文件已存在"
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr "包含无效字符"
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr "确定"
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -275,7 +249,7 @@ msgstr "FLAC 专辑名"
 
 #: mymetatags.s_metatag_flac_albumartist
 msgid "FLAC Album Artist"
-msgstr ""
+msgstr "FLAC 专辑艺术家"
 
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
@@ -283,11 +257,11 @@ msgstr "FLAC 艺术家"
 
 #: mymetatags.s_metatag_flac_discno
 msgid "FLAC Disc Number"
-msgstr ""
+msgstr "FLAC 碟号"
 
 #: mymetatags.s_metatag_flac_disctotal
 msgid "FLAC Total Discs"
-msgstr ""
+msgstr "FLAC 总碟数"
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
@@ -303,7 +277,7 @@ msgstr "FLAC 音轨号"
 
 #: mymetatags.s_metatag_flac_tracktotal
 msgid "FLAC Total Tracks"
-msgstr ""
+msgstr "FLAC 总音轨数"
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
@@ -374,72 +348,56 @@ msgid "IPTC Object Name"
 msgstr "IPTC 对象名"
 
 #: mymetatags.s_metatag_mp3_album
-#, fuzzy
-#| msgid "ID3 Album"
 msgctxt "mymetatags.s_metatag_mp3_album"
 msgid "MP3 Album"
-msgstr "ID3 专辑名"
+msgstr "MP3 专辑名"
 
 #: mymetatags.s_metatag_mp3_albumartist
-#, fuzzy
-#| msgid "ID3 Album Artist"
 msgctxt "mymetatags.s_metatag_mp3_albumartist"
 msgid "MP3 Album Artist"
-msgstr "ID3 专辑艺术家"
+msgstr "MP3 专辑艺术家"
 
 #: mymetatags.s_metatag_mp3_artist
-#, fuzzy
-#| msgid "ID3 Artist"
 msgctxt "mymetatags.s_metatag_mp3_artist"
 msgid "MP3 Artist"
-msgstr "ID3 艺术家"
+msgstr "MP3 艺术家"
 
 #: mymetatags.s_metatag_mp3_diskno
 msgid "MP3 Disk Number"
-msgstr ""
+msgstr "MP3 碟号"
 
 #: mymetatags.s_metatag_mp3_disktotal
 msgid "MP3 Total Disks"
-msgstr ""
+msgstr "MP3 总碟数"
 
 #: mymetatags.s_metatag_mp3_genre
-#, fuzzy
-#| msgid "ID3 Genre"
 msgctxt "mymetatags.s_metatag_mp3_genre"
 msgid "MP3 Genre"
-msgstr "ID3 流派"
+msgstr "MP3 流派"
 
 #: mymetatags.s_metatag_mp3_partofset
-#, fuzzy
-#| msgid "ID3 Part Of Set"
 msgctxt "mymetatags.s_metatag_mp3_partofset"
 msgid "MP3 Part Of Set"
-msgstr "ID3 套部分"
+msgstr "MP3 套部分"
 
 #: mymetatags.s_metatag_mp3_title
-#, fuzzy
-#| msgid "ID3 Title"
 msgctxt "mymetatags.s_metatag_mp3_title"
 msgid "MP3 Title"
-msgstr "ID3 标题"
+msgstr "MP3 标题"
 
 #: mymetatags.s_metatag_mp3_trackno
-#, fuzzy
-#| msgid "ID3 Track Number"
 msgctxt "mymetatags.s_metatag_mp3_trackno"
 msgid "MP3 Track Number"
-msgstr "ID3 音轨号"
+msgstr "MP3 音轨号"
 
 #: mymetatags.s_metatag_mp3_tracktotal
 msgid "MP3 Total Tracks"
-msgstr ""
+msgstr "MP3 总音轨数"
 
 #: mymetatags.s_metatag_mp3_year
-#, fuzzy
-#| msgid "ID3 Year"
 msgctxt "mymetatags.s_metatag_mp3_year"
 msgid "MP3 Year"
-msgstr "ID3 年代"
+msgstr "MP3 年代"
 
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
@@ -527,7 +485,7 @@ msgstr "WMA 专辑名"
 
 #: mymetatags.s_metatag_wma_albumartist
 msgid "WMA Album Artist"
-msgstr ""
+msgstr "WMA 专辑艺术家"
 
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
@@ -535,11 +493,11 @@ msgstr "WMA 艺术家"
 
 #: mymetatags.s_metatag_wma_diskno
 msgid "WMA Disk Number"
-msgstr ""
+msgstr "WMA 碟号"
 
 #: mymetatags.s_metatag_wma_disktotal
 msgid "WMA Total Disks"
-msgstr ""
+msgstr "WMA 总碟数"
 
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
@@ -547,7 +505,7 @@ msgstr "WMA 流派"
 
 #: mymetatags.s_metatag_wma_partofset
 msgid "WMA Part Of Set"
-msgstr ""
+msgstr "WAM 套部分"
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
@@ -559,7 +517,7 @@ msgstr "WMA 音轨号"
 
 #: mymetatags.s_metatag_wma_tracktotal
 msgid "WMA Total Tracks"
-msgstr ""
+msgstr "WMA 总音轨数"
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -612,6 +570,36 @@ msgstr "未找到预设文件："
 #: myregistry.sregistrydeletekeyfailed
 msgid "Failed to delete key: \"%s\""
 msgstr "无法删除： \"%s\""
+
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "确定"
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "复制此列表"
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新路径超出长度限定"
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "目标文件已存在"
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "包含无效字符"
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "确定"
 
 #: myrulesex.s_rules_after
 msgid "after"
@@ -685,6 +673,11 @@ msgstr "字符"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "删除"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -826,6 +819,10 @@ msgstr "替换扩展名"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "用空格替换"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1547,6 +1544,10 @@ msgstr "复制"
 msgid "Add your code here"
 msgstr "在此处添加代码"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "任意单个字符"
@@ -1831,7 +1832,7 @@ msgstr "包含系统文件"
 #: tform_filtersettings.checkbox_saveasdefault.caption
 msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
 msgid "Save as default for future sessions"
-msgstr ""
+msgstr "保存为默认以供之后使用"
 
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
@@ -1845,7 +1846,16 @@ msgstr "添加文件夹的默认属性："
 msgid "Masks:"
 msgstr "模版："
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr "排除"
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr "包含"
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "注释：多个单模版以分号\";\"间隔。"
 
@@ -2758,8 +2768,10 @@ msgid "Add to \"Send To\" context menu"
 msgstr "添加到\"发送到\"菜单"
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "窗口置顶（仅主窗口，重启生效）"
+#, fuzzy
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "窗口置顶"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -2999,8 +3011,6 @@ msgid "(none of the above)"
 msgstr "无"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-#, fuzzy
-#| msgid "Insert a space in front of capitalized letters"
 msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
 msgstr "大写字母前插入空格"
 
@@ -3069,6 +3079,11 @@ msgstr "用空格替换以下字符："
 #: tframe_rulecleanup.groupbox_brackets.caption
 msgid "Strip out content of brackets:"
 msgstr "去除括号内容："
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr ""
 
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
@@ -3171,6 +3186,11 @@ msgstr "前缀"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "后缀"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr ""
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3621,11 +3641,6 @@ msgstr "联系人邮箱"
 msgid "Contact name"
 msgstr "联系人姓名"
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "错误"
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
 msgstr "删除以下文件失败："
@@ -3693,6 +3708,14 @@ msgstr "计算机台数"
 #: uregistration.s_registration_error
 msgid "Registration code is invalid."
 msgstr "注册码无效。"
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
 
 #: uregistration.s_registration_ok
 msgid "Registration has been successful!"

@@ -14,37 +14,11 @@ msgstr ""
 "X-Language-Name: Portuguese (Brazil)\n"
 "X-Language-Name-Native: Português (Brasil)\n"
 "X-Translators: Igor Rückert <igorruckert@yahoo.com.br>\n"
-"X-Generator: Poedit 1.7.1\n"
-
-#: mainform.srenameerrorok
-msgctxt "mainform.srenameerrorok"
-msgid "OK"
-msgstr "OK"
+"X-Generator: Poedit 1.7.5\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
 msgstr "Salvar predefinição atual?"
-
-#: mainform.svalidationduplicated
-msgid "Duplicate in the list"
-msgstr "Duplicado na lista"
-
-#: mainform.svalidationexceeds
-msgid "New path exceeds the length limit"
-msgstr "Novo caminho excede limite de comprimento"
-
-#: mainform.svalidationexists
-msgid "Destination file already exists"
-msgstr "Arquivo de destino já existe"
-
-#: mainform.svalidationinvalid
-msgid "Contains invalid characters"
-msgstr "Contém caracteres inválidos"
-
-#: mainform.svalidationvalid
-msgctxt "mainform.svalidationvalid"
-msgid "OK"
-msgstr "OK"
 
 #: mainform.s_askpurchaseremovelimit
 msgid "Would you like to purchase a \"Pro\" version to remove this limit?"
@@ -275,7 +249,7 @@ msgstr "FLAC - Álbum"
 
 #: mymetatags.s_metatag_flac_albumartist
 msgid "FLAC Album Artist"
-msgstr ""
+msgstr "FLAC - Artista do Álbum"
 
 #: mymetatags.s_metatag_flac_artist
 msgid "FLAC Artist"
@@ -283,11 +257,11 @@ msgstr "FLAC - Artista"
 
 #: mymetatags.s_metatag_flac_discno
 msgid "FLAC Disc Number"
-msgstr ""
+msgstr "FLAC - Número do Disco"
 
 #: mymetatags.s_metatag_flac_disctotal
 msgid "FLAC Total Discs"
-msgstr ""
+msgstr "FLAC - Total de Discos"
 
 #: mymetatags.s_metatag_flac_genre
 msgid "FLAC Genre"
@@ -303,7 +277,7 @@ msgstr "FLAC - Número da Faixa"
 
 #: mymetatags.s_metatag_flac_tracktotal
 msgid "FLAC Total Tracks"
-msgstr ""
+msgstr "FALC - Total de Faixas"
 
 #: mymetatags.s_metatag_flac_year
 msgid "FLAC Year"
@@ -374,72 +348,64 @@ msgid "IPTC Object Name"
 msgstr "IPTC - Nome do Objeto"
 
 #: mymetatags.s_metatag_mp3_album
-#, fuzzy
 #| msgid "ID3 Album"
 msgctxt "mymetatags.s_metatag_mp3_album"
 msgid "MP3 Album"
-msgstr "ID3 - Álbum"
+msgstr "MP3 - Álbum"
 
 #: mymetatags.s_metatag_mp3_albumartist
-#, fuzzy
 #| msgid "ID3 Album Artist"
 msgctxt "mymetatags.s_metatag_mp3_albumartist"
 msgid "MP3 Album Artist"
-msgstr "ID3 - Artista do Álbum"
+msgstr "MP3 - Artista do Álbum"
 
 #: mymetatags.s_metatag_mp3_artist
-#, fuzzy
 #| msgid "ID3 Artist"
 msgctxt "mymetatags.s_metatag_mp3_artist"
 msgid "MP3 Artist"
-msgstr "ID3 - Artista"
+msgstr "MP3 - Artista"
 
 #: mymetatags.s_metatag_mp3_diskno
 msgid "MP3 Disk Number"
-msgstr ""
+msgstr "MP3 - Número do Disco"
 
 #: mymetatags.s_metatag_mp3_disktotal
 msgid "MP3 Total Disks"
-msgstr ""
+msgstr "MP3 - Total de Discos"
 
 #: mymetatags.s_metatag_mp3_genre
-#, fuzzy
 #| msgid "ID3 Genre"
 msgctxt "mymetatags.s_metatag_mp3_genre"
 msgid "MP3 Genre"
-msgstr "ID3 - Gênero"
+msgstr "MP3 - Gênero"
 
 #: mymetatags.s_metatag_mp3_partofset
-#, fuzzy
 #| msgid "ID3 Part Of Set"
 msgctxt "mymetatags.s_metatag_mp3_partofset"
 msgid "MP3 Part Of Set"
-msgstr "ID3 - Parte do Conjunto"
+msgstr "MP3 - Parte do Conjunto"
 
 #: mymetatags.s_metatag_mp3_title
-#, fuzzy
 #| msgid "ID3 Title"
 msgctxt "mymetatags.s_metatag_mp3_title"
 msgid "MP3 Title"
-msgstr "ID3 - Título"
+msgstr "MP3 - Título"
 
 #: mymetatags.s_metatag_mp3_trackno
-#, fuzzy
 #| msgid "ID3 Track Number"
 msgctxt "mymetatags.s_metatag_mp3_trackno"
 msgid "MP3 Track Number"
-msgstr "ID3 - Número da Faixa"
+msgstr "MP3 - Número da Faixa"
 
 #: mymetatags.s_metatag_mp3_tracktotal
 msgid "MP3 Total Tracks"
-msgstr ""
+msgstr "MP3 - Total de Faixas"
 
 #: mymetatags.s_metatag_mp3_year
-#, fuzzy
 #| msgid "ID3 Year"
 msgctxt "mymetatags.s_metatag_mp3_year"
 msgid "MP3 Year"
-msgstr "ID3 - Ano"
+msgstr "MP3 - Ano"
 
 #: mymetatags.s_metatag_outlook_body
 msgid "Outlook Message: Body Text"
@@ -527,7 +493,7 @@ msgstr "WMA - Álbum"
 
 #: mymetatags.s_metatag_wma_albumartist
 msgid "WMA Album Artist"
-msgstr ""
+msgstr "WMA - Artista do Álbum"
 
 #: mymetatags.s_metatag_wma_artist
 msgid "WMA Artist"
@@ -535,11 +501,11 @@ msgstr "WMA - Artista"
 
 #: mymetatags.s_metatag_wma_diskno
 msgid "WMA Disk Number"
-msgstr ""
+msgstr "WMA - Número do Disco"
 
 #: mymetatags.s_metatag_wma_disktotal
 msgid "WMA Total Disks"
-msgstr ""
+msgstr "WMA - Total de Discos"
 
 #: mymetatags.s_metatag_wma_genre
 msgid "WMA Genre"
@@ -547,7 +513,7 @@ msgstr "WMA - Gênero"
 
 #: mymetatags.s_metatag_wma_partofset
 msgid "WMA Part Of Set"
-msgstr ""
+msgstr "WMA - Parte do Conjunto"
 
 #: mymetatags.s_metatag_wma_title
 msgid "WMA Title"
@@ -559,7 +525,7 @@ msgstr "WMA - Número da Faixa"
 
 #: mymetatags.s_metatag_wma_tracktotal
 msgid "WMA Total Tracks"
-msgstr ""
+msgstr "WMA - Total de Faixas"
 
 #: mymetatags.s_metatag_wma_year
 msgid "WMA Year"
@@ -612,6 +578,36 @@ msgstr "Arquivo de predefinição não encontrado:"
 #: myregistry.sregistrydeletekeyfailed
 msgid "Failed to delete key: \"%s\""
 msgstr "Falha ao excluir chave: \"%s\""
+
+#: myrenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "OK"
+
+#: myrenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Duplicado na lista"
+
+#: myrenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Novo caminho excede limite de comprimento"
+
+#: myrenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Arquivo de destino já existe"
+
+#: myrenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Contém caracteres inválidos"
+
+#: myrenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "OK"
 
 #: myrulesex.s_rules_after
 msgid "after"
@@ -685,6 +681,11 @@ msgstr "caracteres"
 msgctxt "myrulesex.s_rules_delete"
 msgid "Delete"
 msgstr "Excluir"
+
+#: myrulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
 
 #: myrulesex.s_rules_delimiters
 msgid "delimiters"
@@ -826,6 +827,10 @@ msgstr "Substituir expressão"
 #: myrulesex.s_rules_replace_with_spaces
 msgid "Replace with spaces"
 msgstr "Substituir por espaços"
+
+#: myrulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
 
 #: myrulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -1547,6 +1552,10 @@ msgstr "COPIAR"
 msgid "Add your code here"
 msgstr "Adicione seu código aqui"
 
+#: rulepascalscriptframe.spressforcodecompletion
+msgid "Press %s for code completion"
+msgstr ""
+
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
 msgstr "Qualquer caractere único"
@@ -1831,7 +1840,7 @@ msgstr "Incluir itens do sistema"
 #: tform_filtersettings.checkbox_saveasdefault.caption
 msgctxt "tform_filtersettings.checkbox_saveasdefault.caption"
 msgid "Save as default for future sessions"
-msgstr ""
+msgstr "Salvar como padrão para sessões futuras"
 
 #: tform_filtersettings.checkbox_skiprootfoldersasfiles.caption
 msgid "Skip root folders when added as files"
@@ -1845,7 +1854,16 @@ msgstr "Comportamento padrão ao adicionar pastas:"
 msgid "Masks:"
 msgstr "Máscaras:"
 
-#: tform_filtersettings.label_masks.caption
+#: tform_filtersettings.label_masksexclude.caption
+msgid "Exclude:"
+msgstr ""
+
+#: tform_filtersettings.label_masksinclude.caption
+msgid "Include:"
+msgstr ""
+
+#: tform_filtersettings.label_masksnote.caption
+msgctxt "tform_filtersettings.label_masksnote.caption"
 msgid "Note: separate multiple masks with \";\" (semicolons)."
 msgstr "Nota: separe múltiplas máscaras com \";\" (ponto-e-vírgula)."
 
@@ -2758,8 +2776,10 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Adicionar ao menu de contexto \"Enviar Para\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-msgid "Always on top (main window only, requires a restart)"
-msgstr "Sempre no topo (somente janela principal, necessário reiniciar)"
+#, fuzzy
+#| msgid "Always on top (main window only, requires a restart)"
+msgid "Stay on top of other windows"
+msgstr "Sempre no topo"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -2999,10 +3019,9 @@ msgid "(none of the above)"
 msgstr "(nenhum dos anteriores)"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-#, fuzzy
 #| msgid "Insert a space in front of capitalized letters"
 msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
-msgstr "Inserir espaço na frente de letras maiúsculas"
+msgstr "Inserir espaço na frente de letras maiúsculas (ex.: CamelCase)"
 
 #: tframe_rulecleanup.cb_normalizespaces.caption
 msgid "Normalize unicode spaces by replacing them with a standard space"
@@ -3069,6 +3088,11 @@ msgstr "Substituir estes caracteres por espaços:"
 #: tframe_rulecleanup.groupbox_brackets.caption
 msgid "Strip out content of brackets:"
 msgstr "Retirar o conteúdo de colchetes:"
+
+#: tframe_ruledelete.checkbox_deletecurrentname.caption
+msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
+msgid "Delete current name"
+msgstr ""
 
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
@@ -3171,6 +3195,11 @@ msgstr "Prefixo"
 msgctxt "tframe_ruleinsert.radiobutton_insertsuffix.caption"
 msgid "Suffix"
 msgstr "Sufixo"
+
+#: tframe_ruleinsert.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr ""
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3624,22 +3653,17 @@ msgctxt "uregistration.s_contact_name"
 msgid "Contact name"
 msgstr "Nome de contato"
 
-#: uregistration.s_error_details
-msgctxt "uregistration.s_error_details"
-msgid "Error"
-msgstr "Erro"
-
 #: uregistration.s_failed_delete_file
 msgid "Failed to delete file:"
-msgstr ""
+msgstr "Falha ao excluir arquivo:"
 
 #: uregistration.s_failed_load_license_data
 msgid "Failed to load license data:"
-msgstr ""
+msgstr "Falha ao carregar dados da licença:"
 
 #: uregistration.s_failed_save_license_data
 msgid "Failed to save license data:"
-msgstr ""
+msgstr "Falha ao salvar dados da licença:"
 
 #: uregistration.s_issue_date
 msgctxt "uregistration.s_issue_date"
@@ -3658,7 +3682,7 @@ msgstr "Licenciado para"
 
 #: uregistration.s_license_blacklisted
 msgid "License has been blacklisted."
-msgstr ""
+msgstr "Esta licença está na lista negra."
 
 #: uregistration.s_license_expiry
 msgctxt "uregistration.s_license_expiry"
@@ -3672,7 +3696,7 @@ msgstr "A licença expirou."
 
 #: uregistration.s_license_invalid
 msgid "License is invalid!"
-msgstr ""
+msgstr "A licença é inválida!"
 
 #: uregistration.s_license_load_failed
 msgctxt "uregistration.s_license_load_failed"
@@ -3681,7 +3705,7 @@ msgstr "Falha ao carregar a licença."
 
 #: uregistration.s_license_need_to_renew
 msgid "You need to renew the license in order to activate the product."
-msgstr ""
+msgstr "Você precisa renovar a licença para poder ativar o produto."
 
 #: uregistration.s_license_remove_failed
 msgctxt "uregistration.s_license_remove_failed"
@@ -3695,7 +3719,7 @@ msgstr "A licença foi removida."
 
 #: uregistration.s_license_upgrade_expired
 msgid "Your license is outside of the upgrade period."
-msgstr ""
+msgstr "Sua licença está fora do período de upgrade."
 
 #: uregistration.s_number_of_computers
 msgctxt "uregistration.s_number_of_computers"
@@ -3706,6 +3730,14 @@ msgstr "Número de computadores"
 msgctxt "uregistration.s_registration_error"
 msgid "Registration code is invalid."
 msgstr "O código de registro é inválido."
+
+#: uregistration.s_registration_file_not_found
+msgid "Registration file not found."
+msgstr ""
+
+#: uregistration.s_registration_file_read_failed
+msgid "Failed to read registration file."
+msgstr ""
 
 #: uregistration.s_registration_ok
 msgctxt "uregistration.s_registration_ok"
