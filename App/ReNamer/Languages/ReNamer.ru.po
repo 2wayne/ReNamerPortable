@@ -13,8 +13,8 @@ msgstr ""
 "X-Country-Name: Russia\n"
 "X-Language-Name: Russian\n"
 "X-Language-Name-Native: Русский\n"
-"X-Translators: Роман Старых, Boomer, Денис Козлов\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Translators: den4b Team <support@den4b.com>, Роман Старых <starko@pisem.net>, Boomer <http://rsload.net/user/Boomer/>\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -74,1469 +74,6 @@ msgstr "Загруженный пресет"
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
 msgstr "Загруженный пресет (изменен)"
-
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr ""
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr ""
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr ""
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "Длительность аудио"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "Длительность аудио в минутах"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "Длительность аудио в секундах"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "Длина AVI в формате Ч:М:С"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "Длина AVI в минутах"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "Длина AVI в секундах"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "Количество кадров в секунду в AVI"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "Высота AVI в пикселях"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "Количество кадров в AVI"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "Видеокодек AVI"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "Ширина AVI в пикселях"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "Размер AVI в формате WxH"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "Двоичные сведения: Описание"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "Двоичная подпись : Расширение"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "Текущая дата"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "Общие сведения: Автор"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "Общие сведения: Число страниц"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "Общие сведения: Тема"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "Общие сведения: Название"
-
-#: mymetatags.s_metatag_email_datesent
-msgid "Email date sent in local time zone"
-msgstr "Дата отправки Email в местном часовом поясе"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr "Дата отправки Email в оригинальном часовом поясе"
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr "Дата отправки Email в UTC часовом поясе"
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Получатель"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Тема Email"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "Исходная дата EXIF"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "Описание изображения EXIF"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "Производитель камеры EXIF"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "Модель камеры EXIF"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "Базовое имя"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "Дата создания"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "Дата изменения"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "Короткое имя в формате 8.3"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "Расширение"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "Полное имя"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "Полный путь"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "Имя родительской папки"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "Размер в байтах"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "Размер в Кб"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "Размер в Мб"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "FLAC альбом"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr "FLAC артист альбома"
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "FLAC артист"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr "FLAC № диска"
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr "FLAC количество дисков"
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "FLAC жанр"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "FLAC название"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "FLAC № дорожки"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr "FLAC количество дорожек"
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "FLAC год"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "CRC32 сумма файла"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "MD5 хэш файла"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "SHA1 хэш файла"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "SHA256 хэш файла"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "SHA512 хэш файла"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "Содержание TITLE тэга из HTML файла"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "Соотношение сторон"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "Высота в пикселях"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "Сумма пикселей"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "Ширина в пикселях"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "Ширина и высота в пикселях"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "IPTC название изображения"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "IPTC город"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "IPTC заголовок изображения"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "IPTC имя местоположения"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "IPTC имя объекта"
-
-#: mymetatags.s_metatag_mp3_album
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "MP3 альбом"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr "MP3 артист альбома"
-
-#: mymetatags.s_metatag_mp3_artist
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "MP3 артист"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr "MP3 № диска"
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr "MP3 количество дисков"
-
-#: mymetatags.s_metatag_mp3_genre
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "MP3 жанр"
-
-#: mymetatags.s_metatag_mp3_partofset
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "MP3 часть набора"
-
-#: mymetatags.s_metatag_mp3_title
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "MP3 название"
-
-#: mymetatags.s_metatag_mp3_trackno
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "MP3 № дорожки"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr "MP3 количество дорожек"
-
-#: mymetatags.s_metatag_mp3_year
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "MP3 год"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr "Outlook Сообщения: Основной текст"
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в местном часовом поясе"
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в исходном часовом поясе"
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в часовом поясе UTC"
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr "Outlook Сообщение: Дата отправки в местном часовом поясе"
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr "Outlook Сообщение: Дата отправки в часовом поясе UTC"
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr "Outlook Сообщение: ID"
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr "Outlook Сообщение: Отправитель"
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr "Outlook Сообщение: Тема"
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "TIFF дата"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "TIFF описание"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "TIFF снимок"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "TIFF модель"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "Сведения о версии: Комментарии"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "Сведения о версии: Компания"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "Сведения о версии: Авторские права"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "Сведения о версии: Описание"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "Сведения о версии: Версия файла"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "Сведения о версии: Продукт"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "Сведения о версии: Версия продукта"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "WMA альбом"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr "WMA артист альбома"
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "WMA артист"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr "WMA № диска"
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr "WMA количество дисков"
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "WMA жанр"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr "WMA часть набора"
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "WMA название"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "WMA № дорожки"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr "WMA количество дорожек"
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "WMA год"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr "байт"
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr "ГБ"
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr "КБ"
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr "МБ"
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr "ТБ"
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "Компиляция сценария Pascal"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "Исключение"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "Выполнение сценария Pascal"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "Строка"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "Неизвестная ошибка (проверьте узлы и библиотеки)"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr "Пресет файл не найден:"
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Не удалось удалить ключ: \"%s\""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr "Ок"
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr "Дубликат в списке"
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr "Новый путь превышает ограничение длины"
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr "Новый путь уже занят"
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr "Содержит недопустимые символы"
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "Ок"
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr "после"
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "все"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr "все кроме"
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "Все нижний регистр"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "Все верхний регистр"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr "и заполнить по длине"
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "добавить"
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr "Добавить новое расширение"
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr "как префикс"
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr "как суффикс"
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr "в позиции"
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr "перед"
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr "Заглавные сохраняя регистр"
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "Каждое слово с заглавной"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "учитывать регистр"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr "Изменить расширение на"
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr "буквы"
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "Удалить"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr "Удалить текущее имя"
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "разделители"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr "Обнаружить с помощью двоичной подписи"
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr "везде"
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "точный шаблон разделителей"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr "Расширение нижнего регистра"
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr "Расширение верхнего регистра"
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "файл(ы)"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr "файл(а,ов) на"
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr "файл(а,ов) с"
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "первый"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "Первая заглавная"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr "Почистить пробелы"
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr "Регистр фрагментов"
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr "от разделителя"
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr "от позиции"
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "Вставить"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr "Вставить пробел перед заглавной"
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "Инвертировать регистр"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "последний"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr "в начале"
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr "оставить разделитель"
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr "новые имена не определены"
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr "Новый шаблон"
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr "Нормализовать пробелы"
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr "части"
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "позиции"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr "Префикс имен"
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr "Подготовка для SharePoint"
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "Убрать"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr "Удалить расширение"
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr "повтор"
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "Заменить"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr "Замена выражения"
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr "Заменить пробелами"
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr "заменяя текущее имя"
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr "сбросить каждый"
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr "сбросить при смене папки"
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "справа налево"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "Добавочная индексация от"
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "Случайная индексация с длиной"
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr "Установить имена"
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "пропустить расширение"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr "пропустить версии"
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr "Разделить по"
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr "шаг"
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "Вырезать"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr "Вырезать содержимое скобок"
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr "Суффикс имен"
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr "в конце"
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr "Транслитерация"
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr "желательно уникальные"
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr "до достижения счетчика"
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr "до разделителя"
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr "до конца"
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr "используя подстановку"
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr "на"
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-"Выбранная папка не существует!\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"Поддержка мета-тегов отключена!\n"
-"\n"
-"Хотите включить ее?\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "Хотите открыть Краткое руководство?"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "Папки: %d проверено, %d выбрано."
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "Перейти к папке"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "Введите полный путь к папке для перехода:"
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"Функции \"Копировать\" и \"Вырезать\" поместят выделенные файлы в Буфер обмена для последующего использования.\n"
-"Внимание: Все файлы будут вставлены в одну папку, независимо от того, где они располагались прежде!\n"
-"\n"
-"Продолжить?\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "НЕВЕРНЫЙ ФОРМАТ"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"Файл уже существует!\n"
-"Заменить его?\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"Всего: %d\n"
-"Маркировано: %d\n"
-"Выбрано: %d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"В списке %s файл(а,ов).\n"
-"Вы действительно хотите исправить конфликтные новые имена?\n"
-"\n"
-"Эта операция может занять несколько минут...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "Перейти к строке"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "Введите номер строки:"
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr "Подсказка: Вы можете проверить детали включив столбец \"Ошибка\"."
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "Вы запустили ReNamer в первый раз."
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr "%d новых имен файлов из %d в списке были изменены!"
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "Нет ничего для переименования!"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"Исходный путь: %s\n"
-"Новый путь: %s\n"
-"\n"
-"Новое имя уже используется другим файлом, удалить этот файл безвозвратно?\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "Успешно скомпилировано!"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr "Не найдено сохраненных скриптов!"
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Недопустимое имя!"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "Введите имя скрипта:"
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "Сохранить скрипт"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "Недопустимое имя!"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "Удалить \"%s\" пресет?"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"Вы собираетесь изменить файл(ы) пресета вручную!\n"
-"Если вы не уверены в том, что вы делаете - нажмите кнопку  \"Отмена\".\n"
-"\n"
-"Продолжить?\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "Не удалось скопировать \"%s\" пресет!"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "Не удалось удалить \"%s\" пресет!"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "Не удается переименовать \"%s\" пресет!"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "Новое имя:"
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "Переименовать пресет"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Процесс просмотра был прерван из-за критической ошибки:\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "%d файл(а,ов) не удалось переименовать!"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"Все новые имена пусты!\n"
-"\n"
-"Подсказка: Настройте правила и нажмите кнопку Просмотр.\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "%d файл(а,ов) пропущено."
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "%d файл(а,ов) успешно переименовано."
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "Это правило позволяет изменить регистр имени файла."
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "Это правило позволяет очистить имена файлов."
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "Это правило позволяет удалить часть имени файла."
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "Это правило позволяет изменить расширение файла."
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "Это правило позволяет вставить текст в имя файла."
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "Это правило позволяет пользователю выполнять манипуляции с именем файла с помощью скрипта."
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "Это правило позволяет отделить части имени файла и перестроить их по заданному шаблону."
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "Это правило позволяет заменить текст в имени файла с помощью регулярных выражений."
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "Это правило позволяет удалить текст из имени файла."
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "Это правило позволяет заменить текст в имени файла."
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Это правило позволяет индексировать имена файлов (добавить последовательную или произвольную нумерацию)."
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "Это правило позволяет удалить наборы симфолов из имени файла."
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "Это правило позволяет транслитерировать буквы в имени файла из одного языка в другой."
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "Это правило позволяет задать новые имена файлов в виде списка."
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "Выберите папку:"
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr "Вы уверены что хотите выполнить данное действие с %d файлом(ами)?"
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"Не удается открыть следующий файл:\n"
-"\n"
-"%s\n"
-"\n"
-"Ошибка: %s (%d).\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Недопустимое имя!"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "Введите имя транслита:"
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "Сохранить транслит"
-
-#: mystrings.msg_undoconfirmfiles
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr ""
-"Вы действительно хотите отменить операцию переименования для %d файла(ов)?\n"
-"\n"
-"Подсказка: Вы можете проверить пути файлов для возврата при помощи столбца \"Старый путь\".\n"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "Ничего нет для отмены!"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"Результаты отмены:\n"
-"\n"
-"%d из %d файла(ов) успешно восстановлены!\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"Похоже, что ReNamer уже запущен.\n"
-"Закройте программу, прежде чем продолжить...\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "%d из них дублируются в списке."
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%d из них превышают MAX_PATH лимит Windows."
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "%d из них конфликтуют с существующими путями."
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "Внимание, найдено %d недопустимых имен файлов!"
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "Успешно проверено!"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"В списке %s файл(а,ов).\n"
-"Вы действительно хотите проверить их?\n"
-"\n"
-"Эта операция может занять несколько минут...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr "Проверка не удалась из-за проблем с %d файл(ом,ами)."
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "Добавить правило"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "Нажмите здесь для добавления правила"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "Добавить в ReNamer"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "Строка = %d, Слева = %d, Справа = %d, Выделенное = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "Обзор скриптов..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "Обзор алфавитов..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "Отменить сортировку"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "Перетащите сюда ваши файлы"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "Редактировать правило"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s файлов"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s файлов (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "Фильтры"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "Загрузить с пресетом"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "Маркировать по маске"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Несколько масок разделяйте точкой с запятой. Пример: *.jpg;*.doc\n"
-"\n"
-"Маски:\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "Перезаписать"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "Переименовать"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "Переименовать используя пресет"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "Регистр"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "Очистка"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "Удалить"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "Расширение"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "Вставить"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "Скрипт (Pascal)"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "Переставить"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "Рег. выражения"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "Убрать"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "Заменить"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "Индексация"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "Вырезать"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "Транслит"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "Список имен"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "Сохранить правило"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "Сохранить скрипт..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "Сохранить алфавит..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "Выбрать по расширению"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"Несколько расширений разделяйте точкой с запятой. Пример: jpg;doc\n"
-"\n"
-"Расширения (без точек):\n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "Выбрать по длине имени"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "Больше N символов:"
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "Выбрать по маске"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Несколько масок разделяйте точкой с запятой. Пример: *.jpg;*.doc\n"
-"\n"
-"Маски:\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "Отменить"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr "Отменить переименование %d файл(а,ов)"
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr "Все файлы"
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr "Любой файл"
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr "Архивы"
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "Пакетный файл"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr "разделенные запятой"
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr "Документы"
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr "Музыка"
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr "Изображения"
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr "Плей-лист"
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr "разделенные табуляцией"
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr "Текстовые файлы"
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
-msgstr "Текстовый список"
 
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
@@ -2174,11 +711,17 @@ msgstr "Переместить вверх"
 msgid "Mark All"
 msgstr "Маркировать все"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Выбрать все"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "Снять все маркеры"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "Выбрать все"
 
@@ -2234,7 +777,7 @@ msgid "Shell"
 msgstr "Оболочка"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "Снять маркировку"
 
 #: tform_main.mi_addpresets.caption
@@ -2770,8 +1313,6 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Добавить в контекстное меню \"Отправить\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-#, fuzzy
-#| msgid "Always on top (main window only, requires a restart)"
 msgid "Stay on top of other windows"
 msgstr "Поверх других окон"
 
@@ -3282,6 +1823,45 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Вставить мета-тег (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Пропускать расширение"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "Длинные имена месяцев:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "Короткие имена месяцев:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "Искать как слова целиком"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "Найти форматы даты/времени:"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "Преобразовать в формат даты/времени:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Разделить несколько элементов"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "Помощь по формату даты и времени (онлайн)"
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "Учитывать регистр"
@@ -3332,10 +1912,10 @@ msgstr "Пропускать расширение"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "Воспринимать символы '?', '*', '[', ']' как шаблоны?"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Внимание: параметр 'Совпадения' будет проигнорирован!"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Только слово целиком"
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3380,10 +1960,10 @@ msgstr "Пропускать расширение"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "Воспринимать '?', '*', '[', ']' как шаблоны, а '$n' как ссылки?"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Внимание: параметр 'Совпадения' будет проигнорирован!"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "Только слово целиком"
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3631,6 +2211,537 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Опции"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr ""
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr ""
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr ""
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Длительность аудио"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Длительность аудио в минутах"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Длительность аудио в секундах"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "Длина AVI в формате Ч:М:С"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "Длина AVI в минутах"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "Длина AVI в секундах"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "Количество кадров в секунду в AVI"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "Высота AVI в пикселях"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "Количество кадров в AVI"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "Видеокодек AVI"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "Ширина AVI в пикселях"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "Размер AVI в формате WxH"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Двоичные сведения: Описание"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Двоичная подпись : Расширение"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Текущая дата"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Общие сведения: Автор"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Общие сведения: Число страниц"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Общие сведения: Тема"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Общие сведения: Название"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Дата отправки Email в местном часовом поясе"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Дата отправки Email в оригинальном часовом поясе"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Дата отправки Email в UTC часовом поясе"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Получатель"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Тема Email"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "Исходная дата EXIF"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "Описание изображения EXIF"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "Производитель камеры EXIF"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "Модель камеры EXIF"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Базовое имя"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Дата создания"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Дата изменения"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Короткое имя в формате 8.3"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Расширение"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Полное имя"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Полный путь"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Имя родительской папки"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Размер в байтах"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Размер в Кб"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Размер в Мб"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC альбом"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC артист альбома"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC артист"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC № диска"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC количество дисков"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC жанр"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC название"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC № дорожки"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC количество дорожек"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC год"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 сумма файла"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 хэш файла"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 хэш файла"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 хэш файла"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 хэш файла"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Содержание TITLE тэга из HTML файла"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Соотношение сторон"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Высота в пикселях"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Сумма пикселей"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Ширина в пикселях"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Ширина и высота в пикселях"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC название изображения"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC город"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC заголовок изображения"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC имя местоположения"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC имя объекта"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 альбом"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 артист альбома"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 артист"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 № диска"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 количество дисков"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 жанр"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 название"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 № дорожки"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 количество дорожек"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 год"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook Сообщения: Основной текст"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в местном часовом поясе"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в исходном часовом поясе"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook Сообщение: Дата отправки из заголовка сообщения в часовом поясе UTC"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook Сообщение: Дата отправки в местном часовом поясе"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook Сообщение: Дата отправки в часовом поясе UTC"
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr "Outlook Сообщение: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook Сообщение: Отправитель"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook Сообщение: Тема"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF дата"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF описание"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF снимок"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF модель"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Торрент: Анонс URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Торрент: Комментарий"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Торрент: Количество файлов"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Торрент: Дата создания по местному времени"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Торрент: Дата создания в часовом поясе UTC"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Торрент: Хэш"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Торрент: Название"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Торрент: Издатель"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Торрент: Общий размер в байтах"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Торрент: Общий размер в Гб"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Торрент: Общий размер в Кб"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Торрент: Общий размер в Мб"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Сведения о версии: Комментарии"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Сведения о версии: Компания"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Сведения о версии: Авторские права"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Сведения о версии: Описание"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Сведения о версии: Версия файла"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Сведения о версии: Продукт"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Сведения о версии: Версия продукта"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA альбом"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA артист альбома"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA артист"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA № диска"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA количество дисков"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA жанр"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA название"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA № дорожки"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA количество дорожек"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA год"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr "байт"
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr "ГБ"
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr "КБ"
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr "МБ"
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr "ТБ"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Компиляция сценария Pascal"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Исключение"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Выполнение сценария Pascal"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Строка"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Неизвестная ошибка (проверьте узлы и библиотеки)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Пресет файл не найден:"
+
 #: uregistration.s_cannot_create_license_dir
 msgctxt "uregistration.s_cannot_create_license_dir"
 msgid "Not able to create a directory for a license file."
@@ -3741,4 +2852,1009 @@ msgstr "Успешная регистрация!"
 msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "Дата истечения обновлений"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr "Не удалось удалить ключ: \"%s\""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "Ок"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Дубликат в списке"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Новый путь превышает ограничение длины"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Новый путь уже занят"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Содержит недопустимые символы"
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "Ок"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "после"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "все"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "все кроме"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Все нижний регистр"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Все верхний регистр"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "и заполнить по длине"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "добавить"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Добавить новое расширение"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "как префикс"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "как суффикс"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "в позиции"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "перед"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Заглавные сохраняя регистр"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Каждое слово с заглавной"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "учитывать регистр"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Изменить расширение на"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "буквы"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "Преобразовать в %s из %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "Особые длинные имена месяцев"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "Особые короткие имена месяцев"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Удалить"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Удалить текущее имя"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "разделители"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Обнаружить с помощью двоичной подписи"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "везде"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "точный шаблон разделителей"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Расширение нижнего регистра"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Расширение верхнего регистра"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "файл(ы)"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "файл(а,ов) на"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "файл(а,ов) с"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "первый"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Первая заглавная"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Почистить пробелы"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Регистр фрагментов"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "от разделителя"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "от позиции"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Вставить"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Вставить пробел перед заглавной"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Инвертировать регистр"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "последний"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "в начале"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "оставить разделитель"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "новые имена не определены"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Новый шаблон"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Нормализовать пробелы"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "части"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "позиции"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Префикс имен"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Подготовка для SharePoint"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Убрать"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Удалить расширение"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "повтор"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Заменить"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Замена выражения"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Заменить пробелами"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "заменяя текущее имя"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "сбросить каждый"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "сбросить при смене папки"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "справа налево"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr "Добавочная индексация от"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr "Случайная индексация с длиной"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Установить имена"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Пропускать расширение"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "пропустить расширение"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "пропустить версии"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Разделить по"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "шаг"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Вырезать"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Вырезать содержимое скобок"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Суффикс имен"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "в конце"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Транслитерация"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "желательно уникальные"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "до достижения счетчика"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "до разделителя"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "до конца"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "используя подстановку"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "Только слово целиком"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "целые слова"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "на"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Выбранная папка не существует!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Поддержка мета-тегов отключена!\n"
+"\n"
+"Хотите включить ее?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Хотите открыть Краткое руководство?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Папки: %d проверено, %d выбрано."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Перейти к папке"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Введите полный путь к папке для перехода:"
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Функции \"Копировать\" и \"Вырезать\" поместят выделенные файлы в Буфер обмена для последующего использования.\n"
+"Внимание: Все файлы будут вставлены в одну папку, независимо от того, где они располагались прежде!\n"
+"\n"
+"Продолжить?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "НЕВЕРНЫЙ ФОРМАТ"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Файл уже существует!\n"
+"Заменить его?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Всего: %d\n"
+"Маркировано: %d\n"
+"Выбрано: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"В списке %s файл(а,ов).\n"
+"Вы действительно хотите исправить конфликтные новые имена?\n"
+"\n"
+"Эта операция может занять несколько минут...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Перейти к строке"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Введите номер строки:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Подсказка: Вы можете проверить детали включив столбец \"Ошибка\"."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Вы запустили ReNamer в первый раз."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d новых имен файлов из %d в списке были изменены!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Нет ничего для переименования!"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Исходный путь: %s\n"
+"Новый путь: %s\n"
+"\n"
+"Новое имя уже используется другим файлом, удалить этот файл безвозвратно?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Успешно скомпилировано!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Не найдено сохраненных скриптов!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Недопустимое имя!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Введите имя скрипта:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Сохранить скрипт"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "Недопустимое имя!"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Удалить \"%s\" пресет?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Вы собираетесь изменить файл(ы) пресета вручную!\n"
+"Если вы не уверены в том, что вы делаете - нажмите кнопку  \"Отмена\".\n"
+"\n"
+"Продолжить?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Не удалось скопировать \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Не удалось удалить \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Не удается переименовать \"%s\" пресет!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Новое имя:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Переименовать пресет"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Процесс просмотра был прерван из-за критической ошибки:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d файл(а,ов) не удалось переименовать!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Все новые имена пусты!\n"
+"\n"
+"Подсказка: Настройте правила и нажмите кнопку Просмотр.\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "%d файл(а,ов) пропущено."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d файл(а,ов) успешно переименовано."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Это правило позволяет изменить регистр имени файла."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Это правило позволяет очистить имена файлов."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Это правило позволяет удалить часть имени файла."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Это правило позволяет изменить расширение файла."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Это правило позволяет вставить текст в имя файла."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Это правило позволяет пользователю выполнять манипуляции с именем файла с помощью скрипта."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Это правило позволяет отделить части имени файла и перестроить их по заданному шаблону."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "Это правило используется для изменения формата значений даты и времени в имени файла."
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Это правило позволяет заменить текст в имени файла с помощью регулярных выражений."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Это правило позволяет удалить текст из имени файла."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Это правило позволяет заменить текст в имени файла."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "Это правило позволяет индексировать имена файлов (добавить последовательную или произвольную нумерацию)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Это правило позволяет удалить наборы симфолов из имени файла."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Это правило позволяет транслитерировать буквы в имени файла из одного языка в другой."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Это правило позволяет задать новые имена файлов в виде списка."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Выберите папку:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Вы уверены что хотите выполнить данное действие с %d файлом(ами)?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Не удается открыть следующий файл:\n"
+"\n"
+"%s\n"
+"\n"
+"Ошибка: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Недопустимое имя!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Введите имя транслита:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Сохранить транслит"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Вы действительно хотите отменить операцию переименования для %d файла(ов)?\n"
+"\n"
+"Подсказка: Вы можете проверить пути файлов для возврата при помощи столбца \"Старый путь\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Ничего нет для отмены!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Результаты отмены:\n"
+"\n"
+"%d из %d файла(ов) успешно восстановлены!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Похоже, что ReNamer уже запущен.\n"
+"Закройте программу, прежде чем продолжить...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d из них дублируются в списке."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "%d из них превышают MAX_PATH лимит Windows."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d из них конфликтуют с существующими путями."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "Внимание, найдено %d недопустимых имен файлов!"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Успешно проверено!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"В списке %s файл(а,ов).\n"
+"Вы действительно хотите проверить их?\n"
+"\n"
+"Эта операция может занять несколько минут...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Проверка не удалась из-за проблем с %d файл(ом,ами)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Добавить правило"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Нажмите здесь для добавления правила"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Добавить в ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Строка = %d, Слева = %d, Справа = %d, Выделенное = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Обзор скриптов..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Обзор алфавитов..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Отменить сортировку"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Перетащите сюда ваши файлы"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Редактировать правило"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s файлов"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s файлов (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Фильтры"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Загрузить с пресетом"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Маркировать по маске"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Несколько масок разделяйте точкой с запятой. Пример: *.jpg;*.doc\n"
+"\n"
+"Маски:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Перезаписать"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Переименовать"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Переименовать используя пресет"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Регистр"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "Очистка"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Удалить"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Расширение"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Вставить"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "Скрипт (Pascal)"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Переставить"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "Форматировать дату"
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "Рег. выражения"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Убрать"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Заменить"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Индексация"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Вырезать"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Транслит"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "Список имен"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Сохранить правило"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Сохранить скрипт..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Сохранить алфавит..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Выбрать по расширению"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Несколько расширений разделяйте точкой с запятой. Пример: jpg;doc\n"
+"\n"
+"Расширения (без точек):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Выбрать по длине имени"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Больше N символов:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Выбрать по маске"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Несколько масок разделяйте точкой с запятой. Пример: *.jpg;*.doc\n"
+"\n"
+"Маски:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Отменить"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Отменить переименование %d файл(а,ов)"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Все файлы"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Любой файл"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Архивы"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Пакетный файл"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "разделенные запятой"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Документы"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Музыка"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Изображения"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Плей-лист"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "разделенные табуляцией"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Текстовые файлы"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Текстовый список"
 

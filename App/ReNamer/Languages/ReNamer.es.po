@@ -13,7 +13,7 @@ msgstr ""
 "X-Country-Name: Spain\n"
 "X-Language-Name: Spanish\n"
 "X-Language-Name-Native: Español\n"
-"X-Translators: SafetyCar\n"
+"X-Translators: Andrés Pires Magalhaes (SafetyCar) <kangarrou@gmail.com>\n"
 "X-Generator: Poedit 1.6.7\n"
 
 #: mainform.ssavecurrentpresetconfirm
@@ -73,1481 +73,6 @@ msgstr ""
 
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
-msgstr ""
-
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr ""
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr ""
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr ""
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "Duración de un archivo de Audio"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "Duración de un archivo de Audio en minutos"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "Duración de un archivo de Audio en segundos"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "AVI Duración en formato H:M:S"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "AVI Duración en Minutos"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "AVI Duración en Segundos"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "AVI Fotogramas por segundo"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "AVI Altura en Pixeles"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "AVI Cantidad de fotogramas"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "AVI Codec del video"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "AVI Anchura en Pixeles"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "AVI Dimensiones en Alto*Ancho"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "Información de Archivo Binario: Descripción"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "Firma de Archivo Binario: Extensión"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "Fecha actual"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "Información de Resumen: Autor"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "Información de Resumen: Número de páginas"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "Información de Resumen: Asunto"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "Información de Resumen: Título"
-
-#: mymetatags.s_metatag_email_datesent
-#, fuzzy
-#| msgid "Email date sent"
-msgid "Email date sent in local time zone"
-msgstr "Fecha de envío de Email"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Emisor del mensaje"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Asunto de Email"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "EXIF Fecha original"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "EXIF Descripción de imagen"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "EXIF Marca de la cámara"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "EXIF Modelo de la cámara"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "Nombre base del archivo"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "Fecha de creación"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "Fecha de modificación"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "Nombre corto en el formato 8.3"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "Extensión del archivo"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "Nombre completo del archivo"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "Ruta completa del archivo"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "Nombre de la carpeta padre"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "Tamaño de archivo en Bytes"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "Tamaño de archivo en KB"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "Tamaño de archivo en MB"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "FLAC Álbum"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "FLAC Artista"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr ""
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr ""
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "FLAC Género"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "FLAC Título"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "FLAC Número de pista"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "FLAC Año"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "Checksum CRC32 de un archivo"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "Hash MD5 de un archivo"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "Hash SHA1 de un archivo"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "Hash SHA256 de un archivo"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "Hash SHA512 de un archivo"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "Etiqueta de título extraída de un archivo HTML"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "Relación de aspecto de una imagen"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "Altura de una imagen en pixeles"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "Cantidad de pixeles en la imagen"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "Anchura de una imagen en pixeles"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "Anchura y Altura de una imagen en pixeles"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "IPTC Captura de imagen"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "IPTC Ciudad"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "IPTC Encabezado de imagen"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "IPTC Nombre del lugar"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "IPTC Nombre de objeto"
-
-#: mymetatags.s_metatag_mp3_album
-#, fuzzy
-#| msgid "ID3 Album"
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "ID3 Álbum"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_artist
-#, fuzzy
-#| msgid "ID3 Artist"
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "ID3 Artista"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_genre
-#, fuzzy
-#| msgid "ID3 Genre"
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "ID3 Género"
-
-#: mymetatags.s_metatag_mp3_partofset
-#, fuzzy
-#| msgid "ID3 Part Of Set"
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "ID3 Parte de un grupo"
-
-#: mymetatags.s_metatag_mp3_title
-#, fuzzy
-#| msgid "ID3 Title"
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "ID3 Título"
-
-#: mymetatags.s_metatag_mp3_trackno
-#, fuzzy
-#| msgid "ID3 Track Number"
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "ID3 Número de pista"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_year
-#, fuzzy
-#| msgid "ID3 Year"
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "ID3 Año"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr ""
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr ""
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "TIFF Fecha"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "TIFF Descripción"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "TIFF Marca"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "TIFF Modelo"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "Información de versión: Comentarios"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "Información de Versión: Compañía"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "Información de Versión: Copyright"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "Información de Versión: Descripción"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "Información de Versión: Versión de archivo"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "Información de Versión: Producto"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "Información de Versión: Producto"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "WMA Álbum"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "WMA Artista"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "WMA Género"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "WMA Título"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "WMA Número de pista"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "WMA Año"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr ""
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr ""
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr ""
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr ""
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr ""
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "Compilar Pascal Script"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "Excepción"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "Ejecutar Pascal Script"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "Línea"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "Error desconocido (compruebe unidades y librerías)"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr ""
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr ""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr "OK"
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr ""
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr ""
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr ""
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr ""
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr ""
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "Todas"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr ""
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "todo en minúsculas"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "TODO EN MAYÚSCULA"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr ""
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "Adjuntar"
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr ""
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr ""
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr ""
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr ""
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr ""
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr ""
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "Palabras Empiezan Con Mayús"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "Distinguir mayús/minús"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr ""
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr ""
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "Eliminar"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr ""
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "Delimitadores"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr ""
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr ""
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "Delimitadores en orden exacto"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr ""
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr ""
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "Archivos"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr ""
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr ""
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "Primera"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "Primera letra en mayúscula"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr ""
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr ""
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr ""
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr ""
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "Insertar"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr ""
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "iNVERTIR mayús/MINÚS"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "Última"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr ""
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr ""
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr ""
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr ""
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr ""
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr ""
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "Posiciones"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr ""
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr ""
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "Borrar"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr ""
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr ""
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "Reemplazar"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr ""
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr ""
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr ""
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr ""
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr ""
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "De atrás adelante"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr ""
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr ""
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr ""
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "Ignorar extensión"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr ""
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr ""
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr ""
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "Quitar"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr ""
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr ""
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr ""
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr ""
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr ""
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr ""
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr ""
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr ""
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr ""
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr ""
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"¡El soporte para Meta-Tags está deshabilitado!\n"
-"\n"
-"¿Desea habilitarlo?\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "¿Desea abrir un manual de guía rápida?"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "Carpetas: %d escaneada/s, %d seleccionada/s."
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "Ir A Carpeta"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "Introduzca la ruta a la carpeta a la que quiera ir:"
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"La operación de copiado y pegado enviarán el archivo al portapapeles para un posterior uso.\n"
-"Nota: ¡Todos los archivos serán pegados en la misma carpeta, sin importar la localización inicial!\n"
-"\n"
-"¿Está seguro de que desea continuar?\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "FORMATO NO VÁLIDO"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"¡Ya existe un archivo con el mismo nombre!\n"
-"¿Desea sobreescribirlo?\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"Total: %d\n"
-"Marcado/s: %d\n"
-"Seleccionado/s: %d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Hay %s archivo/s en la tabla,\n"
-"¿Está seguro que desea solucionar los nombres conflictivos?\n"
-"\n"
-"Esta operación podría tardar varios minutos...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "Ir A Línea"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "Introduzca el número de la línea:"
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr ""
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "Estás iniciando ReNamer por primera vez."
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr ""
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "¡Nada para Renombrar!"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"Ruta original: %s\n"
-"Ruta nueva: %s\n"
-"\n"
-"El nuevo nombre está ya ocupado por otro archivo. ¿Desea eliminar dicho archivo permanentemente?\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "¡Compilado correctamente!"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr ""
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "¡Nombre incorrecto!"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "Introduzca un nombre para el script:"
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "Guardar Script"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "¡Nombre incorrecto!"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "¿Desea eliminar el Preferido \"%s\"?"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"Está a punto de editar un nombre manualmente.\n"
-"Si no estás seguro de lo que estás haciendo, dale a cancelar.\n"
-"\n"
-"¿Desea continuar?\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "¡No se pudo copiar el Preferido \"%s\"!"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "¡No se pudo borrar el Preferido \"%s\"!"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "¡No se pudo renombrar el Preferido \"%s\"!"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "Nombre Nuevo:"
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "Renombrar Preferido"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"La previsualización se fue abortada a causa de un error crítico:\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "¡Falló el renombrado de %d archivo/s!"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"¡Todos los nuevos nombres están vacíos!\n"
-"\n"
-"Consejo: Configure las reglas y pinche en el botón Previsualizar.\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "%d archivo/s fueron ignorados."
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "%d archivos/s renombrados correctamente."
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "Esta regla sirve para modificar las mayús/minús en el nombre."
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "Esta regla sirve para hacer una limpieza general del nombre."
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "Esta regla sirve para eliminar texto según su posición."
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "Esta regla sirve para cambiar la extensión del archivo."
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "Esta regla sirve para insertar texto en el nombre del archivo."
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "Esta regla sirve para definir scripts que manipulen el nombre."
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "Esta regla sirve para separar partes del nombre y reordenarlas de nuevo."
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "Esta regla sirve para reemplazar texto utilizando expresiones regulares."
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "Esta regla sirve para borrar texto según su contenido."
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "Esta regla sirve para reemplazar texto en el nombre del archivo."
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Esta regla sirve para numerar los nombres."
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "Esta regla sirve para quitar caracteres del nombre."
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "Esta regla sirve para transliterar letras de un idioma a otro."
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "Esta regla sirve para asignar nombres de archivo a líneas de texto."
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "Por favor, seleccione una carpeta:"
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr ""
-"Está a punto de ejecutar una acción externa sobre %d archivo/s.\n"
-"¿Está seguro que desea continuar?\n"
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"No se pudo abrir el siguiente archivo:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "¡Nombre incorrecto!"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "Introduzca un nombre para el diccionario:"
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "Guardar diccionario"
-
-#: mystrings.msg_undoconfirmfiles
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr "¿Está usted seguro que desea deshacer la operación de renombrado para %d archivo/s?"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "¡Nada para deshacer!"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"Deshacer resultado de la operación:\n"
-"\n"
-"¡%d de %d archivos se restauraron correctamente!\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"Parece ser que ReNamer ya está abierto.\n"
-"Por favor, ciérrelo antes de continuar...\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "%d de los cuales tiene un duplicado en la lista."
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%d de los cuales la ruta sobrepasó el límite de longitud de Windows (MAX_PATH: 260)."
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "%d de los cuales están en conflicto con rutas (archivos) ya existentes."
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "Aviso: ¡Se encontraron %d nombres no válidos!"
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "¡Validado correctamente!"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Hay %s archivo/s en la tabla,\n"
-"¿Está seguro que desea validarlos?\n"
-"\n"
-"Esta operación podría tardar varios minutos...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr ""
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "Añadir Regla"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "Haga click para añadir una regla"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "Añadir a ReNamer"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "Línea = %d, Izquierda = %d, Derecha = %d, Seleccionado = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "Explorar Scripts..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "Explorar Diccionarios..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "Cancelar"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "Arrastre sus archivos aquí"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "Editar Regla"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s archivos"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s archivos (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "Filtros"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "Cargar solamente"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "Marcar por Máscara"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Las máscaras pueden separarse mediante punto y coma. Ejemplo: *.jpg;*.doc\n"
-"\n"
-"Máscaras:\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "Sobrescribir"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "Renombrar"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "Renombrar directamente"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "Mayús/Minús"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "Limpiar"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "Eliminar"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "Extensión"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "Insertar"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "PascalScript"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "Reordenar"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "RegEx"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "Borrar"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "Reemplazar"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "Numerar"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "Quitar"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "Transliterar"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "Lista de nombres"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "Guardar Regla"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "Guardar Script..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "Guardar Diccionario..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "Seleccionar por Extensión"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"Las extensiones pueden separarse mediante punto y coma. Ejemplo: jpg;doc\n"
-"\n"
-"Extensiones:\n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "Seleccionar por longitud del nombre"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "Más de N caracteres:"
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "Seleccionar por Máscara"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Las máscaras pueden separarse mediante punto y coma. Ejemplo: *.jpg;*.doc\n"
-"\n"
-"Máscaras:\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "Deshacer"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr ""
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr ""
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr ""
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr ""
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "Archivo por lotes"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr ""
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr ""
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr ""
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr ""
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr ""
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr ""
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr ""
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
 msgstr ""
 
 #: presetsmanagerform.sduplicatepresetsuffix
@@ -2183,11 +708,17 @@ msgstr "Mover Arriba"
 msgid "Mark All"
 msgstr "Marcar Todo"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Seleccionar Todo"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "Desmarcar Todo"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "Seleccionar Todo"
 
@@ -2243,7 +774,7 @@ msgid "Shell"
 msgstr "Menú contextual"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "Desmarcar"
 
 #: tform_main.mi_addpresets.caption
@@ -3293,6 +1824,47 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Insertar Meta-Tag (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Ignorar extensión"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr ""
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr ""
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Separar múltiples elementos"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr ""
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "Distinguir mayús/minús"
@@ -3343,10 +1915,10 @@ msgstr "Ignorar extensión"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "¿Usar comodines (\"?\", \"*\", \"[\", \"]\")?"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Nota: ¡El parámetro \"Coincidencias\" será ignorado!"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3391,10 +1963,10 @@ msgstr "Ignorar extensión"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "¿Usar comodines (\"?\", \"*\", \"[\", \"]\") y referencias ($n)?"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Nota: ¡El parámetro \"Coincidencias\" será ignorado!"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3642,6 +2214,551 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Opciones"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr ""
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr ""
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr ""
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Duración de un archivo de Audio"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Duración de un archivo de Audio en minutos"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Duración de un archivo de Audio en segundos"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI Duración en formato H:M:S"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI Duración en Minutos"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI Duración en Segundos"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI Fotogramas por segundo"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI Altura en Pixeles"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI Cantidad de fotogramas"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI Codec del video"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI Anchura en Pixeles"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI Dimensiones en Alto*Ancho"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Información de Archivo Binario: Descripción"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Firma de Archivo Binario: Extensión"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Fecha actual"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Información de Resumen: Autor"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Información de Resumen: Número de páginas"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Información de Resumen: Asunto"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Información de Resumen: Título"
+
+#: umetatags.s_metatag_email_datesent
+#, fuzzy
+#| msgid "Email date sent"
+msgid "Email date sent in local time zone"
+msgstr "Fecha de envío de Email"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr ""
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Emisor del mensaje"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Asunto de Email"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF Fecha original"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF Descripción de imagen"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF Marca de la cámara"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF Modelo de la cámara"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Nombre base del archivo"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Fecha de creación"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Fecha de modificación"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Nombre corto en el formato 8.3"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Extensión del archivo"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Nombre completo del archivo"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Ruta completa del archivo"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Nombre de la carpeta padre"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Tamaño de archivo en Bytes"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Tamaño de archivo en KB"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Tamaño de archivo en MB"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC Álbum"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr ""
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC Artista"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr ""
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr ""
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC Género"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC Título"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC Número de pista"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC Año"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "Checksum CRC32 de un archivo"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "Hash MD5 de un archivo"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "Hash SHA1 de un archivo"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "Hash SHA256 de un archivo"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "Hash SHA512 de un archivo"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Etiqueta de título extraída de un archivo HTML"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Relación de aspecto de una imagen"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Altura de una imagen en pixeles"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Cantidad de pixeles en la imagen"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Anchura de una imagen en pixeles"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Anchura y Altura de una imagen en pixeles"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC Captura de imagen"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC Ciudad"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC Encabezado de imagen"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC Nombre del lugar"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC Nombre de objeto"
+
+#: umetatags.s_metatag_mp3_album
+#, fuzzy
+#| msgid "ID3 Album"
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "ID3 Álbum"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_artist
+#, fuzzy
+#| msgid "ID3 Artist"
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "ID3 Artista"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_genre
+#, fuzzy
+#| msgid "ID3 Genre"
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "ID3 Género"
+
+#: umetatags.s_metatag_mp3_title
+#, fuzzy
+#| msgid "ID3 Title"
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "ID3 Título"
+
+#: umetatags.s_metatag_mp3_trackno
+#, fuzzy
+#| msgid "ID3 Track Number"
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "ID3 Número de pista"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_year
+#, fuzzy
+#| msgid "ID3 Year"
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "ID3 Año"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr ""
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr ""
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF Fecha"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF Descripción"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF Marca"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF Modelo"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr ""
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Información de versión: Comentarios"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Información de Versión: Compañía"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Información de Versión: Copyright"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Información de Versión: Descripción"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Información de Versión: Versión de archivo"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Información de Versión: Producto"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Información de Versión: Producto"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA Álbum"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr ""
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA Artista"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr ""
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr ""
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA Género"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA Título"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA Número de pista"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA Año"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr ""
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr ""
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr ""
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr ""
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr ""
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Compilar Pascal Script"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Excepción"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Ejecutar Pascal Script"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Línea"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Error desconocido (compruebe unidades y librerías)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr ""
+
 #: uregistration.s_cannot_create_license_dir
 msgctxt "uregistration.s_cannot_create_license_dir"
 msgid "Not able to create a directory for a license file."
@@ -3752,4 +2869,1006 @@ msgstr "¡El registro se completo exitosamente!"
 msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "Ampliar expiración"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr ""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr ""
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr ""
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr ""
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr ""
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "OK"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr ""
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "Todas"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr ""
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "todo en minúsculas"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "TODO EN MAYÚSCULA"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr ""
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "Adjuntar"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr ""
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr ""
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr ""
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr ""
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr ""
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr ""
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Palabras Empiezan Con Mayús"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "Distinguir mayús/minús"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr ""
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr ""
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr ""
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr ""
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr ""
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "Delimitadores"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr ""
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr ""
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "Delimitadores en orden exacto"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr ""
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr ""
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "Archivos"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr ""
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr ""
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "Primera"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Primera letra en mayúscula"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr ""
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr ""
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr ""
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr ""
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Insertar"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr ""
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "iNVERTIR mayús/MINÚS"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "Última"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr ""
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr ""
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr ""
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr ""
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr ""
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr ""
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "Posiciones"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr ""
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr ""
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Borrar"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr ""
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr ""
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Reemplazar"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr ""
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr ""
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr ""
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr ""
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "De atrás adelante"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr ""
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr ""
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr ""
+
+#: urulesex.s_rules_skipextension
+#, fuzzy
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Ignorar extensión"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "Ignorar extensión"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr ""
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr ""
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr ""
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Quitar"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr ""
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr ""
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr ""
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr ""
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr ""
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr ""
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr ""
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr ""
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr ""
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr ""
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr ""
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr ""
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"¡El soporte para Meta-Tags está deshabilitado!\n"
+"\n"
+"¿Desea habilitarlo?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "¿Desea abrir un manual de guía rápida?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Carpetas: %d escaneada/s, %d seleccionada/s."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ir A Carpeta"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Introduzca la ruta a la carpeta a la que quiera ir:"
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"La operación de copiado y pegado enviarán el archivo al portapapeles para un posterior uso.\n"
+"Nota: ¡Todos los archivos serán pegados en la misma carpeta, sin importar la localización inicial!\n"
+"\n"
+"¿Está seguro de que desea continuar?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "FORMATO NO VÁLIDO"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"¡Ya existe un archivo con el mismo nombre!\n"
+"¿Desea sobreescribirlo?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Total: %d\n"
+"Marcado/s: %d\n"
+"Seleccionado/s: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Hay %s archivo/s en la tabla,\n"
+"¿Está seguro que desea solucionar los nombres conflictivos?\n"
+"\n"
+"Esta operación podría tardar varios minutos...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ir A Línea"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Introduzca el número de la línea:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr ""
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Estás iniciando ReNamer por primera vez."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr ""
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "¡Nada para Renombrar!"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Ruta original: %s\n"
+"Ruta nueva: %s\n"
+"\n"
+"El nuevo nombre está ya ocupado por otro archivo. ¿Desea eliminar dicho archivo permanentemente?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "¡Compilado correctamente!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr ""
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "¡Nombre incorrecto!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Introduzca un nombre para el script:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Guardar Script"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "¡Nombre incorrecto!"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "¿Desea eliminar el Preferido \"%s\"?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Está a punto de editar un nombre manualmente.\n"
+"Si no estás seguro de lo que estás haciendo, dale a cancelar.\n"
+"\n"
+"¿Desea continuar?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "¡No se pudo copiar el Preferido \"%s\"!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "¡No se pudo borrar el Preferido \"%s\"!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "¡No se pudo renombrar el Preferido \"%s\"!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Nombre Nuevo:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Renombrar Preferido"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"La previsualización se fue abortada a causa de un error crítico:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "¡Falló el renombrado de %d archivo/s!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"¡Todos los nuevos nombres están vacíos!\n"
+"\n"
+"Consejo: Configure las reglas y pinche en el botón Previsualizar.\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "%d archivo/s fueron ignorados."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d archivos/s renombrados correctamente."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Esta regla sirve para modificar las mayús/minús en el nombre."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Esta regla sirve para hacer una limpieza general del nombre."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Esta regla sirve para eliminar texto según su posición."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Esta regla sirve para cambiar la extensión del archivo."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Esta regla sirve para insertar texto en el nombre del archivo."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Esta regla sirve para definir scripts que manipulen el nombre."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Esta regla sirve para separar partes del nombre y reordenarlas de nuevo."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr ""
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Esta regla sirve para reemplazar texto utilizando expresiones regulares."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Esta regla sirve para borrar texto según su contenido."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Esta regla sirve para reemplazar texto en el nombre del archivo."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "Esta regla sirve para numerar los nombres."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Esta regla sirve para quitar caracteres del nombre."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Esta regla sirve para transliterar letras de un idioma a otro."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Esta regla sirve para asignar nombres de archivo a líneas de texto."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Por favor, seleccione una carpeta:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr ""
+"Está a punto de ejecutar una acción externa sobre %d archivo/s.\n"
+"¿Está seguro que desea continuar?\n"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"No se pudo abrir el siguiente archivo:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "¡Nombre incorrecto!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Introduzca un nombre para el diccionario:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Guardar diccionario"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr "¿Está usted seguro que desea deshacer la operación de renombrado para %d archivo/s?"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "¡Nada para deshacer!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Deshacer resultado de la operación:\n"
+"\n"
+"¡%d de %d archivos se restauraron correctamente!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Parece ser que ReNamer ya está abierto.\n"
+"Por favor, ciérrelo antes de continuar...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d de los cuales tiene un duplicado en la lista."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "%d de los cuales la ruta sobrepasó el límite de longitud de Windows (MAX_PATH: 260)."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d de los cuales están en conflicto con rutas (archivos) ya existentes."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "Aviso: ¡Se encontraron %d nombres no válidos!"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "¡Validado correctamente!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Hay %s archivo/s en la tabla,\n"
+"¿Está seguro que desea validarlos?\n"
+"\n"
+"Esta operación podría tardar varios minutos...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr ""
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Añadir Regla"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Haga click para añadir una regla"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Añadir a ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Línea = %d, Izquierda = %d, Derecha = %d, Seleccionado = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Explorar Scripts..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Explorar Diccionarios..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Cancelar"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Arrastre sus archivos aquí"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Editar Regla"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s archivos"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s archivos (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Filtros"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Cargar solamente"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Marcar por Máscara"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Las máscaras pueden separarse mediante punto y coma. Ejemplo: *.jpg;*.doc\n"
+"\n"
+"Máscaras:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Sobrescribir"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Renombrar"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Renombrar directamente"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Mayús/Minús"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "Limpiar"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Extensión"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Insertar"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "PascalScript"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Reordenar"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr ""
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "RegEx"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Borrar"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Reemplazar"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Numerar"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Quitar"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Transliterar"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "Lista de nombres"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Guardar Regla"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Guardar Script..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Guardar Diccionario..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Seleccionar por Extensión"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Las extensiones pueden separarse mediante punto y coma. Ejemplo: jpg;doc\n"
+"\n"
+"Extensiones:\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Seleccionar por longitud del nombre"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Más de N caracteres:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Seleccionar por Máscara"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Las máscaras pueden separarse mediante punto y coma. Ejemplo: *.jpg;*.doc\n"
+"\n"
+"Máscaras:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Deshacer"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr ""
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr ""
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr ""
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr ""
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Archivo por lotes"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr ""
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr ""
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr ""
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr ""
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr ""
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr ""
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr ""
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr ""
 

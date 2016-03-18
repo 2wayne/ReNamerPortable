@@ -1,3 +1,64 @@
+ReNamer 6.4 (2016-02-27)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Updated Slovak language file. Thanks to Slavo Gbúr.
+
+6.3.0.8 Beta (2016-02-23)
+* Change font size (zoom) inside of PascalScript window using Ctrl+Wheel.
+* Added Slovak translit file. Thanks to Slavo Gbur.
+* Added Slovak language file. Thanks to Slavo Gbur.
+
+6.3.0.7 Beta (2016-01-24)
+* Upgraded development environment and external components.
+* Fixed graphical glitches in rules list on Windows XP.
+* Fixed incorrectly used system font colors in files table.
+
+6.3.0.6 Beta (2016-01-23)
+* Updated Japanese language file. Thanks to Tilt.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+* Refactored layout and components of Reformat Date rule.
+
+6.3.0.5 Beta (2016-01-03)
+* Added a new rule "Reformat Date" for changing format of date/time values in the filename.
+* Fixed potentially mangled content of PascalScript rule configuration.
+* Adjusted the size of rule configuration components to better fit translated text.
+* Updated Russian language file.
+* Internal optimizations and cleanup.
+
+6.3.0.4 Beta (2015-12-21)
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+* Added Italian language file. Thanks to Victor.
+* Fixed loading of translated text in the RegEx rule context menu.
+* Resolve environment variables in custom storage path in Storage.ini.
+
+6.3.0.3 Beta (2015-12-13)
+* Scroll into view first matching file via "Select by..." context menu commands.
+* Auto size columns in files table when they get enabled via context menu.
+* Refactored replacement code in Case, Remove and Replace rules.
+* Added "Whole words only" option to Remove and Replace rules.
+* Updated Russian language file.
+
+6.3.0.2 Beta (2015-12-02)
+* Corrected spelling of "UnMark" to "Unmark".
+* Added icons to the Rules table context menu.
+* Updated bundled copy of User Manual.
+* Corrected spelling of DiscNo and DiscTotal meta tags ("Disk" vs "Disc").
+* Updated French translation file. Thanks to Ozzii.
+* Updated Japanese translation file. Thanks to Tilt.
+* Internal optimizations and refactoring.
+
+6.3.0.1 Beta (2015-11-22)
+* Fixed inconsistently changing state of "save filters with preset" option.
+* Refactored code for managing user settings and preset configuration.
+* Added hints for Torrent meta tags.
+* Added German language file. Thanks to Max Mehl.
+* Added context menu option for selecting all rules (Ctrl+A).
+* Added rules multi-selection ability with group remove, activate and deactivate actions.
+* Fixed a problem with meta tags being inserted at incorrect position in Unicode text.
+* Updated Russian language file.
+* Internal optimizations.
+
+
 ReNamer 6.3 (2015-11-04)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

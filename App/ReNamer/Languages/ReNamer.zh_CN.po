@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: ReNamer\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: WanderMax <hmptwm@gmail.com>\n"
+"Last-Translator: WanderMax <hmptwm@hotmail.com>\n"
 "Language-Team: den4b Team <support@den4b.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,8 +13,8 @@ msgstr ""
 "X-Country-Name: China\n"
 "X-Language-Name: Chinese Simplified\n"
 "X-Language-Name-Native: 简体中文\n"
-"X-Translators: WanderMax <hmptwm@gmail.com>\n"
-"X-Generator: Poedit 1.8\n"
+"X-Translators: WanderMax <hmptwm@hotmail.com>\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -75,1467 +75,6 @@ msgstr "已载入预设"
 msgid "Loaded preset (modified)"
 msgstr "已载入预设（修改）"
 
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "错误的数字大小 %s"
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "无效的数据或缓冲区大小"
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "不支持的哈希类型： %s"
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "音频文件持续时间"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "以分钟显示音频文件持续时间"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "以秒钟显示音频文件持续时间"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "以 H:M:S 格式显示 AVI 持续时间"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "以分钟显示 AVI 持续时间"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "以秒钟显示 AVI 持续时间"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "AVI 帧率"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "AVI 像素高度"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "AVI 总帧数"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "AVI 视频编码"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "AVI 像素宽度"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "以 WxH 格式显示 AVI 分辨率"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "二进制文件信息：描述"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "二进制文件信息：签名"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "当前日期"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "概要信息：作者"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "概要信息：页数"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "概要信息：主题"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "概要信息：标题"
-
-#: mymetatags.s_metatag_email_datesent
-msgid "Email date sent in local time zone"
-msgstr "当地时区 Email 发送时间"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr "原始时区 Email 发送时间"
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr "UTC 时区 Email 发送时间"
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Email 发件人"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Email 主题"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "EXIF 原始日期"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "EXIF 图像描述"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "EXIF 照相机制造商"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "EXIF 照相机型号"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "文件的基名称"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "文件创建日期"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "文件修改日期"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "以 8.3 格式简化名称"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "文件扩展名"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "文件完整名称"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "文件完整路径"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "父文件夹的名称"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "文件大小以 bytes 显示"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "文件大小以 KB 显示"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "文件大小以 MB 显示"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "FLAC 专辑名"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr "FLAC 专辑艺术家"
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "FLAC 艺术家"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr "FLAC 碟号"
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr "FLAC 总碟数"
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "FLAC 流派"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "FLAC 标题"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "FLAC 音轨号"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr "FLAC 总音轨数"
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "FLAC 年代"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "文件的 CRC32 校验和"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "文件的 MD5 哈希值"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "文件的 SHA1 哈希值"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "文件的 SHA256 哈希值"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "文件的 SHA512 哈希值"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "HTML 文件的标题标签信息"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "图片文件分辨率"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "图片文件像素高度"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "图片文件总像素"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "图片文件像素宽度"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "图片文件的像素宽度和高度"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "IPTC 图像标题"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "IPTC 城市"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "IPTC 图像标题"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "IPTC 位置名称"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "IPTC 对象名"
-
-#: mymetatags.s_metatag_mp3_album
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "MP3 专辑名"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr "MP3 专辑艺术家"
-
-#: mymetatags.s_metatag_mp3_artist
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "MP3 艺术家"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr "MP3 碟号"
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr "MP3 总碟数"
-
-#: mymetatags.s_metatag_mp3_genre
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "MP3 流派"
-
-#: mymetatags.s_metatag_mp3_partofset
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "MP3 套部分"
-
-#: mymetatags.s_metatag_mp3_title
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "MP3 标题"
-
-#: mymetatags.s_metatag_mp3_trackno
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "MP3 音轨号"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr "MP3 总音轨数"
-
-#: mymetatags.s_metatag_mp3_year
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "MP3 年代"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr "Outlook 消息：正文文本"
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Outlook 消息：当地时区的邮件头发送日期"
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr "Outlook 消息：原始时区的邮件头发送日期"
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr "Outlook 消息：UTC 时区的邮件头发送日期"
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr "Outlook 消息：当地时区的发送日期"
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr "Outlook 消息：UTC 时区的发送日期"
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr "Outlook 消息：ID"
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr "Outlook 消息：发件人"
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr "Outlook 消息：主题"
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "TIFF 日期"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "TIFF 描述"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "TIFF 制造商"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "TIFF 型号"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "版本信息：注释"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "版本信息：公司"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "版本信息：版权"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "版本信息：描述"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "版本信息：文件版本"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "版本信息：产品"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "版本信息：产品版本"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "WMA 专辑名"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr "WMA 专辑艺术家"
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "WMA 艺术家"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr "WMA 碟号"
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr "WMA 总碟数"
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "WMA 流派"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr "WAM 套部分"
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "WMA 标题"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "WMA 音轨号"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr "WMA 总音轨数"
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "WMA 年代"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr "bytes"
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr "GB"
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr "KB"
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr "MB"
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr "TB"
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "编译 Pascal 脚本"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "例外"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "执行 Pascal 脚本"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "行号"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "未知的错误（检查单位和库文件）"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr "未找到预设文件："
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "无法删除： \"%s\""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr "确定"
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr "复制此列表"
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr "新路径超出长度限定"
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr "目标文件已存在"
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr "包含无效字符"
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "确定"
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr "在以下之后"
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "全部"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr "全部字符除了"
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "全部小写"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "全部大写"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr "补足长度为"
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "添加"
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr "添加新扩展名"
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr "作为前缀"
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr "作为后缀"
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr "在位置"
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr "在以下之前"
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr "大写并保持"
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "每个单词大写"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "区分大小写"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr "更改扩展名为"
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr "字符"
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "删除"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr ""
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "分隔符"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr "检测使用二进制签名"
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr "任意位置"
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "精确分隔符模式"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr "扩展名小写"
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr "扩展名大写"
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "个文件"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr "个文件去"
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr "个文件用"
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "首个"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "首字母大写"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr "修正空格"
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr "强制大小写部分"
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr "从分隔符"
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr "从位置"
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "插入"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr "在首字母前插入空格"
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "反转大小写"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "末个"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr "载入中"
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr "保持分隔符"
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr "未定义新名称"
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr "新模版"
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr "归一化空格"
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr "部分"
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "位置"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr "前缀名"
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr "准备到 SharePoint"
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "移除"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr "移除扩展名"
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr "重复"
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "替换"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr "替换扩展名"
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr "用空格替换"
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr ""
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr "重置间隔为"
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr "文件夹变更时重置"
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "从右到左"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "增量序列化 起始于"
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "随机序列化 长度限制在"
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr "设置其名称"
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "忽略扩展名"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr "忽略扩展名"
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr "分隔符为"
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr "增量"
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "移除"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr "移除括号中的内容"
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr "后缀名"
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr "尾随"
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr "音译"
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr "尽量统一"
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr "直到满足计数"
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr "直到分隔符"
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr "直到末尾"
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr "使用通配符"
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr "替换为"
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-"选定文件夹不存在！\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"元数据标签当前被禁用。\n"
-"\n"
-"是否启用？\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "您是否开始新手教学？"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "文件夹：%d 个已扫描，%d 个已选择。"
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "跳转到文件夹"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "输入您想要跳转文件夹的完整路径："
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"文件复制和剪切操作会将选定文件放入剪贴板以备后用。\n"
-"注释：所有文件不论其初始位置，都将放入同一个目录！\n"
-"\n"
-"是否继续操作？\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "无效格式"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"文件已存在！\n"
-"是否覆盖？\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"总共：%d\n"
-"已标记：%d\n"
-"已选择：%d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"是否修复以下 %s 个文件的冲突文件名？\n"
-"\n"
-"此操作可能需要数分钟...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "跳转到行"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "输入行号："
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr "提示：您可以在启用\"错误\"栏后检查操作详情。"
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "您第一次打开 ReNamer。"
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr "列表中 %d 个新文件名已更改，总共 %d 个！"
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "没有重命名文件！"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"原始路径： %s\n"
-"新路径： %s\n"
-"\n"
-"新名称已被其他文件使用，是否永久删除此文件？\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "编译成功！"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr "没有找到保存的脚本文件！"
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "名称不正确！"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "输入脚本的名称："
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "保存脚本"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "名称不正确！"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "是否删除预设 \"%s\" ？"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"您将要手动编辑预设文件！\n"
-"如果您不确定，请点击取消。\n"
-"\n"
-"是否继续进行编辑？\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "无法复制预设 \"%s\" ！"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "无法删除预设 \"%s\" ！"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "无法重命名预设 \"%s\" ！"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "新名称："
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "重命名预设"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"预览操作由于以下致命错误被终止：\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "%d 个文件重命名失败！"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"全部新名称为空！\n"
-"\n"
-"提示：请重新配置规则然后点击预览按钮。\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "已跳过 %d 个文件。"
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "%d 个文件重命名成功！"
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "使用此规则更改文件名的大小写。"
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "使用此规则清除文件名。"
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "使用此规则从文件名中删除部分文字。"
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "使用此规则更改文件名后缀。"
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "使用此规则插入文字到文件名。"
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "使用此规则来编写用户自定义文件名操作。"
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "使用此规则来分割文件名部分并以新的模式重排。"
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "使用此规则来使用正则表达式替换文件名中的指定文本。"
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "使用此规则移除文件名中的指定文本。"
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "使用此规则替换文件名中的指定文本。"
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "使用此规则来对文件名序列化（增量或者随机）。"
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "使用此规则来从文件名中移除指定的字符。"
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "使用此规则来转换文件名的音译到另一个语言。"
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "使用此规则来添加文件名到文本指定行。"
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "请选择一个文件夹："
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr "是否确定对以下 %d 个文件执行操作？"
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"无法打开以下文件：\n"
-"\n"
-"%s\n"
-"\n"
-"错误信息： %s (%d)。\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "名称错误！"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "输入音译文件名称："
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "保存音译"
-
-#: mystrings.msg_undoconfirmfiles
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr ""
-"是否撤销对 %d 个文件的重命名操作？\n"
-"\n"
-"提示：您可以在启用\"原始路径\"栏后检查撤销路径。\n"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "没有可撤销命令！"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"撤销操作结果：\n"
-"\n"
-"%d 个文件成功恢复，总共 %d 个！\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"ReNamer 正在运行中。\n"
-"请退出后继续...\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "其中 %d 个在列表中已存在重复项目。"
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "其中 %d 个已超过最大路径限定。"
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "其中 %d 个与已存在文件冲突。"
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "其中 %d 个包含有无效字符。"
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "验证成功！"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"是否验证 %s 个文件？\n"
-"\n"
-"此操作可能需要数分钟...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr "验证失败，存在 %d 个问题文件。"
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "添加规则"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "点击此处来添加规则"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "添加到 ReNamer"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "行号 = %d，位置 = %d，列号 = %d，选区 = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "浏览脚本..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "浏览音译..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "取消排序"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "拖拽文件到此处"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "编辑规则"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s 个文件"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s 个文件 (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "筛选器"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "同时载入预设"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "用模版标记"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"可以用分号分隔多个模版。例如： *.jpg;*.doc\n"
-"\n"
-"模版：\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "覆盖"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "重命名"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "用预设重命名"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "大小写"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "去除"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "删除"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "扩展名"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "插入"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "Pascal 脚本"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "重排"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "正则"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "移除"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "替换"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "序列化"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "去除"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "音译"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "用户输入"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "保存规则"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "保存脚本..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "保存音译..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "以扩展名选择"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"可以用分号间隔多个扩展名。例如：jpg;doc\n"
-"\n"
-"扩展名 (无需.)：\n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "由文件名长度选择"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "超过 N 个字符："
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "以模版选择"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"可以用分号间隔多个模版。例如： *.jpg;*.doc\n"
-"\n"
-"模版：\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "撤销"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr "撤销 %d 个文件"
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr "全部文件"
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr "任意文件"
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr "文件"
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "批处理文件"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr "逗号分隔"
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr "文档"
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr "音乐"
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr "图片"
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr "播放列表"
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr "Tab 分隔"
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr "文本文件"
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
-msgstr "文本列表"
-
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
 msgstr "复制"
@@ -1546,7 +85,7 @@ msgstr "在此处添加代码"
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
-msgstr ""
+msgstr "点击 %s 以代码完成"
 
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
@@ -2172,11 +711,17 @@ msgstr "上移"
 msgid "Mark All"
 msgstr "标记全部"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "全选"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "取消全部标记"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "全选"
 
@@ -2232,7 +777,7 @@ msgid "Shell"
 msgstr "扩展外壳"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "取消标记"
 
 #: tform_main.mi_addpresets.caption
@@ -2768,8 +1313,6 @@ msgid "Add to \"Send To\" context menu"
 msgstr "添加到\"发送到\"菜单"
 
 #: tform_settings.checkbox_alwaysontop.caption
-#, fuzzy
-#| msgid "Always on top (main window only, requires a restart)"
 msgid "Stay on top of other windows"
 msgstr "窗口置顶"
 
@@ -3083,7 +1626,7 @@ msgstr "去除括号内容："
 #: tframe_ruledelete.checkbox_deletecurrentname.caption
 msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
 msgid "Delete current name"
-msgstr ""
+msgstr "删除当前名称"
 
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
@@ -3190,7 +1733,7 @@ msgstr "后缀"
 #: tframe_ruleinsert.radiobutton_replacecurrentname.caption
 msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
-msgstr ""
+msgstr "替换当签名称"
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -3280,6 +1823,45 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "插入元信息标签 (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "自定义月份全称："
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "自定义月份简称："
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "仅匹配全字"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "日期 / 时间查找格式："
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "转换到日期 / 时间格式："
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "分割多个文件"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "日期 / 时间格式参考（在线）"
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "区分大小写"
@@ -3330,10 +1912,10 @@ msgstr "忽略扩展名"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "设定中止符 '?' ， '*' ， '[' ， ']' 为通配符？"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "注释：操作序数参数将会被忽略！"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "仅全字"
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3378,10 +1960,10 @@ msgstr "忽略扩展名"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "设定 '?' ， '*' ， '[' ， ']' 为通配符且 '$n' 为反向引用标记？"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "注释：操作序数参数将会被忽略！"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "仅全字"
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3629,6 +2211,537 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "选项"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "错误的数字大小 %s"
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "无效的数据或缓冲区大小"
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "不支持的哈希类型： %s"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "音频文件持续时间"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "以分钟显示音频文件持续时间"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "以秒钟显示音频文件持续时间"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "以 H:M:S 格式显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "以分钟显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "以秒钟显示 AVI 持续时间"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI 帧率"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI 像素高度"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI 总帧数"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI 视频编码"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI 像素宽度"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "以 WxH 格式显示 AVI 分辨率"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "二进制文件信息：描述"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "二进制文件信息：签名"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "当前日期"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "概要信息：作者"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "概要信息：页数"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "概要信息：主题"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "概要信息：标题"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "当地时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "原始时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "UTC 时区 Email 发送时间"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Email 发件人"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Email 主题"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF 原始日期"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF 图像描述"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF 照相机制造商"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF 照相机型号"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "文件的基名称"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "文件创建日期"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "文件修改日期"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "以 8.3 格式简化名称"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "文件扩展名"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "文件完整名称"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "文件完整路径"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "父文件夹的名称"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "文件大小（字节）"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "文件大小（KB）"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "文件大小（MB）"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC 专辑名"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC 专辑艺术家"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC 艺术家"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC 碟号"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC 总碟数"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC 流派"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC 标题"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC 音轨号"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC 总音轨数"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC 年代"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "文件的 CRC32 校验和"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "文件的 MD5 哈希值"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "文件的 SHA1 哈希值"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "文件的 SHA256 哈希值"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "文件的 SHA512 哈希值"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTML 文件的标题标签信息"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "图片文件分辨率"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "图片文件像素高度"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "图片文件总像素"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "图片文件像素宽度"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "图片文件的像素宽度和高度"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC 图像标题"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC 城市"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC 图像标题"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC 位置名称"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC 对象名"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 专辑名"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 专辑艺术家"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 艺术家"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 碟号"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 总碟数"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 流派"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 标题"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 音轨号"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 总音轨数"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 年代"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook 消息：正文文本"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook 消息：当地时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook 消息：原始时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook 消息：UTC 时区的邮件头发送日期"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook 消息：当地时区的发送日期"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook 消息：UTC 时区的发送日期"
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr "Outlook 消息：ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook 消息：发件人"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook 消息：主题"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF 日期"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF 描述"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF 制造商"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF 型号"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent 发布链接"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent 注释"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent 文件数"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent 本地创建时间"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent UTC 创建时间"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent 哈希值"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent 名称"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent 发布者"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent 总大小（字节）"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent 总大小（GB）"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent 总大小（KB）"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent 总大小（MB）"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "版本信息：注释"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "版本信息：公司"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "版本信息：版权"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "版本信息：描述"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "版本信息：文件版本"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "版本信息：产品"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "版本信息：产品版本"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA 专辑名"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA 专辑艺术家"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA 艺术家"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA 碟号"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA 总碟数"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA 流派"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA 标题"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA 音轨号"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA 总音轨数"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA 年代"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr "bytes"
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr "GB"
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr "KB"
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr "MB"
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr "TB"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "编译 Pascal 脚本"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "例外"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "执行 Pascal 脚本"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "行号"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "未知的错误（检查单位和库文件）"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "未找到预设文件："
+
 #: uregistration.s_cannot_create_license_dir
 msgid "Not able to create a directory for a license file."
 msgstr "无法创建授权文件保存目录。"
@@ -3711,11 +2824,11 @@ msgstr "注册码无效。"
 
 #: uregistration.s_registration_file_not_found
 msgid "Registration file not found."
-msgstr ""
+msgstr "未找到授权文件。"
 
 #: uregistration.s_registration_file_read_failed
 msgid "Failed to read registration file."
-msgstr ""
+msgstr "读取授权文件失败。"
 
 #: uregistration.s_registration_ok
 msgid "Registration has been successful!"
@@ -3724,4 +2837,1007 @@ msgstr "注册成功！"
 #: uregistration.s_upgrade_expiry
 msgid "Upgrade expiry"
 msgstr "更新有效期"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr "无法删除： \"%s\""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "确定"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "复制此列表"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新路径超出长度限定"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "目标文件已存在"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "包含无效字符"
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "确定"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "在以下之后"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "全部"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "全部字符除了"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "全部小写"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "全部大写"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "补足长度为"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "添加"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "添加新扩展名"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "作为前缀"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "作为后缀"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "在位置"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "在以下之前"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "大写并保持"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "每个单词大写"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "区分大小写"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "更改扩展名为"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "字符"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "转换到 %s 从 %s"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "自定义月份全称"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "自定义月份简称"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "删除"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "删除当前名称"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "分隔符"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "检测使用二进制签名"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "任意位置"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "精确分隔符模式"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "扩展名小写"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "扩展名大写"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "个文件"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "个文件去"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "个文件用"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "首个"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "首字母大写"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "修正空格"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "强制大小写部分"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "从分隔符"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "从位置"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "插入"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "在首字母前插入空格"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "反转大小写"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "末个"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "载入中"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "保持分隔符"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "未定义新名称"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "新模版"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "归一化空格"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "部分"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "位置"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "前缀名"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "准备到 SharePoint"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "移除"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "移除扩展名"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "重复"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "替换"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "替换扩展名"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "用空格替换"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "正在替换当前名称"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "重置间隔为"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "文件夹变更时重置"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "从右到左"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr "增量序列化 起始于"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr "随机序列化 长度限制在"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "设置其名称"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "忽略扩展名"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "分隔符为"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "增量"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "移除"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "移除括号中的内容"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "后缀名"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "尾随"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "音译"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "尽量统一"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "直到满足计数"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "直到分隔符"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "直到末尾"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "使用通配符"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "仅全字"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "全字"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "替换为"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"选定文件夹不存在！\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"元数据标签当前被禁用。\n"
+"\n"
+"是否启用？\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "您是否开始新手教学？"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "文件夹：%d 个已扫描，%d 个已选择。"
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "跳转到文件夹"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "输入您想要跳转文件夹的完整路径："
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"文件复制和剪切操作会将选定文件放入剪贴板以备后用。\n"
+"注释：所有文件不论其初始位置，都将放入同一个目录！\n"
+"\n"
+"是否继续操作？\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "无效格式"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"文件已存在！\n"
+"是否覆盖？\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"总共：%d\n"
+"已标记：%d\n"
+"已选择：%d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"是否修复以下 %s 个文件的冲突文件名？\n"
+"\n"
+"此操作可能需要数分钟...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "跳转到行"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "输入行号："
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "提示：您可以在启用\"错误\"栏后检查操作详情。"
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "您第一次打开 ReNamer。"
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "列表中 %d 个新文件名已更改，总共 %d 个！"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "没有重命名文件！"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"原始路径： %s\n"
+"新路径： %s\n"
+"\n"
+"新名称已被其他文件使用，是否永久删除此文件？\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "编译成功！"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "没有找到保存的脚本文件！"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "名称不正确！"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "输入脚本的名称："
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "保存脚本"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "名称不正确！"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "是否删除预设 \"%s\" ？"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"您将要手动编辑预设文件！\n"
+"如果您不确定，请点击取消。\n"
+"\n"
+"是否继续进行编辑？\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "无法复制预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "无法删除预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "无法重命名预设 \"%s\" ！"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "新名称："
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "重命名预设"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"预览操作由于以下致命错误被终止：\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d 个文件重命名失败！"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"全部新名称为空！\n"
+"\n"
+"提示：请重新配置规则然后点击预览按钮。\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "已跳过 %d 个文件。"
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d 个文件重命名成功！"
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "使用此规则更改文件名的大小写。"
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "使用此规则清除文件名。"
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "使用此规则从文件名中删除部分文字。"
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "使用此规则更改文件名后缀。"
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "使用此规则插入文字到文件名。"
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "使用此规则来编写用户自定义文件名操作。"
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "使用此规则来分割文件名部分并以新的模式重排。"
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "使用此规则来更改文件名中日期 / 时间格式。"
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "使用此规则来使用正则表达式替换文件名中的指定文本。"
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "使用此规则移除文件名中的指定文本。"
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "使用此规则替换文件名中的指定文本。"
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "使用此规则来对文件名序列化（增量或者随机）。"
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "使用此规则来从文件名中移除指定的字符。"
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "使用此规则来转换文件名的音译到另一个语言。"
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "使用此规则来添加文件名到文本指定行。"
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "请选择一个文件夹："
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "是否确定对以下 %d 个文件执行操作？"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"无法打开以下文件：\n"
+"\n"
+"%s\n"
+"\n"
+"错误信息： %s (%d)。\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "名称错误！"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "输入音译文件名称："
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "保存音译"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"是否撤销对 %d 个文件的重命名操作？\n"
+"\n"
+"提示：您可以在启用\"原始路径\"栏后检查撤销路径。\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "没有可撤销命令！"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"撤销操作结果：\n"
+"\n"
+"%d 个文件成功恢复，总共 %d 个！\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"ReNamer 正在运行中。\n"
+"请退出后继续...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "其中 %d 个在列表中已存在重复项目。"
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "其中 %d 个已超过最大路径限定。"
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "其中 %d 个与已存在文件冲突。"
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "其中 %d 个包含有无效字符。"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "验证成功！"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"是否验证 %s 个文件？\n"
+"\n"
+"此操作可能需要数分钟...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "验证失败，存在 %d 个问题文件。"
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "添加规则"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "点击此处来添加规则"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "添加到 ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "行号 = %d，位置 = %d，列号 = %d，选区 = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "浏览脚本..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "浏览音译..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "取消排序"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "拖拽文件到此处"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "编辑规则"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s 个文件"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s 个文件 (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "筛选器"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "同时载入预设"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "用模版标记"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"可以用分号分隔多个模版。例如： *.jpg;*.doc\n"
+"\n"
+"模版：\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "覆盖"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "重命名"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "用预设重命名"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "大小写"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "去除"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "扩展名"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "插入"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "Pascal 脚本"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "重排"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "日期格式重转"
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "正则"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "移除"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "替换"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "序列化"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "去除"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "音译"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "用户输入"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "保存规则"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "保存脚本..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "保存音译..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "以扩展名选择"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"可以用分号间隔多个扩展名。例如：jpg;doc\n"
+"\n"
+"扩展名 (无需.)：\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "由文件名长度选择"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "超过 N 个字符："
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "以模版选择"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"可以用分号间隔多个模版。例如： *.jpg;*.doc\n"
+"\n"
+"模版：\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "撤销"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "撤销 %d 个文件"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "全部文件"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "任意文件"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "文件"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "批处理文件"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "逗号分隔"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "文档"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "音乐"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "图片"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "播放列表"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "Tab 分隔"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "文本文件"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "文本列表"
 

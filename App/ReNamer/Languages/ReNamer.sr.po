@@ -13,7 +13,7 @@ msgstr ""
 "X-Country-Name: Serbia\n"
 "X-Language-Name: Serbian\n"
 "X-Language-Name-Native: Српски\n"
-"X-Translators: eR@SeR\n"
+"X-Translators: Никола Алексић (eR@SeR) <nalexic@gmail.com>\n"
 "X-Generator: Poedit 1.8.1\n"
 
 #: mainform.ssavecurrentpresetconfirm
@@ -74,1467 +74,6 @@ msgstr "Учитана поставка"
 #: mainform.s_statusbar_hint_presets_modified
 msgid "Loaded preset (modified)"
 msgstr "Учитана поставка (измењена)"
-
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "Нетачан приказ величина за %s"
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "Неважећи податак или величина бафера"
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "Неподржан hash тип: %s"
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "Трајање Аудио фајла"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "Трајање Аудио фајла у минутима"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "Трајање Аудио фајла у секундама"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "AVI Трајање у формату С:М:С"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "AVI Трајање у Минутима"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "AVI Трајање у Секундама"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "AVI Фрејмова (рамова) по Секунди"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "AVI Висина у Пикселима"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "AVI укупан број Фрејмова (рамова)"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "AVI Видео Кодек"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "AVI Ширина у Пикселима"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "AVI Димензије у формату ШхВ"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "Бинарна Информација Фајла: Опис"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "Бинарни Потпис Фајла: Екстензија"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "Тренутни датум"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "Документ: Аутор"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "Документ: Број Страна"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "Документ: Субјекат"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "Документ: Наслов"
-
-#: mymetatags.s_metatag_email_datesent
-#, fuzzy
-#| msgid "Email date sent"
-msgid "Email date sent in local time zone"
-msgstr "Датум слања имејла у локалној временској зони"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr "Датум слања имејла у оригиналној временској зони"
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr "Датум слања имејла у UTC временској зони"
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Пошиљалац имејла"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Субјекат имејла"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "EXIF Оригиналан Датум"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "EXIF Опис Слике"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "EXIF Произвођач Фотоапарата"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "EXIF Модел Фотоапарата"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "Назив фајла без екстензије"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "Датум креирања фајла"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "Датум последње измене фајла"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "Кратак назив у 8.3 формату"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "Екстензија фајла"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "Цео назив фајла"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "Цела путања фајла"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "Назив матичног фолдера"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "Величина фајла у бајтима"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "Величина фајла у КБ"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "Величина фајла у МБ"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "FLAC Албум"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr "FLAC Албум Уметника"
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "FLAC Уметник"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr "FLAC Број Диска"
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr "FLAC Укупно Дискова"
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "FLAC Жанр"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "FLAC Наслов"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "FLAC Број Песме"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr "FLAC Укупно Песама"
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "FLAC Година"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "CRC32 Checksum фајла"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "MD5 Hash фајла"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "SHA1 Hash фајла"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "SHA256 Hash фајла"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "SHA512 Hash фајла"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "Наслов извучен из HTML фајла"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "Однос Димензија Слике"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "Висина слике у пикселима"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "Број пиксела у слици"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "Ширина слике у пикселима"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "Ширина и Висина слике у пикселима"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "IPTC Заглавље Слике"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "IPTC Град"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "IPTC Наслов Слике"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "IPTC Назив Локације"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "IPTC Назив Објекта"
-
-#: mymetatags.s_metatag_mp3_album
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "MP3 Албум"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr "MP3 Албум Уметника"
-
-#: mymetatags.s_metatag_mp3_artist
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "MP3 Уметник"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr "MP3 Број Диска"
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr "MP3 Укупно Дискова"
-
-#: mymetatags.s_metatag_mp3_genre
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "MP3 Жанр"
-
-#: mymetatags.s_metatag_mp3_partofset
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "MP3 Део Поставке"
-
-#: mymetatags.s_metatag_mp3_title
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "MP3 Наслов"
-
-#: mymetatags.s_metatag_mp3_trackno
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "MP3 Број Песме"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr "MP3 Укупно Песама"
-
-#: mymetatags.s_metatag_mp3_year
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "MP3 Година"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr "Outlook порука: Тело Текста"
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Outlook порука: Датум слања из имејл заглавља у локалној временској зони"
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr "Outlook порука: Датум слања из имејл заглавља у оригиналној временској зони"
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr "Outlook порука: Датум слања из имејл заглавља у UTC временској зони"
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr "Outlook порука: Датум слања у локалној временској зони"
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr "Outlook порука: Датум слања у UTC временској зони"
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr "Outlook порука: ИД"
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr "Outlook порука: Пошиљалац"
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr "Outlook порука: Тема"
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "TIFF Датум"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "TIFF Опис"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "TIFF Произвођач"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "TIFF Модел"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "Информација о Верзији: Коментари"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "Информација о Верзији: Компанија"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "Информација о Верзији: Ауторско право"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "Информација о Верзији: Опис"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "Информација о Верзији: Верзија"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "Информација о Верзији: Производ"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "Информација о Верзији: Верзија Производа"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "WMA Албум"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr "WMA Албум Уметника"
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "WMA Уметник"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr "WMA Број Диска"
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr "WMA Укупно Дискова"
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "WMA Жанр"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr "WMA Део Сета"
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "WMA Наслов"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "WMA Број Песме"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr "WMA Укупно Песама"
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "WMA Година"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr "бајтова"
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr "ГБ"
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr "КБ"
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr "МБ"
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr "ТБ"
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "Саставити Pascal Скрипту"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "Изузетак"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "Извршити Pascal Скрипту"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "Линија"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "Непозната грешка (проверити јединице и библиотеке)"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr "Фајл поставке није пронађен:"
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Неуспело брисање кључа: \"%s\""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr "У реду"
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr "Дупликат у листи"
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr "Нова путања премашује ограничење дужине"
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr "Одредишни фајл већ постоји"
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr "Садржи неважеће карактере"
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "У реду"
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr "после"
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "Сва"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr "сви карактери осим"
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "све малим словима"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "СВЕ ВЕЛИКИМ СЛОВИМА"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr "и продужити до дужине"
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "Придод."
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr "Придодати нову екстензију"
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr "као Префикс"
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr "као Суфикс"
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr "на Позицији"
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr "пре"
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr "Увеличати и одржати"
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "Свака Реч Велико Слово"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "Осетљив на величину слова"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr "Променити екстензију на"
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr "карактера"
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "Избрисати"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr "Избрисати тренутни назив"
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "Граничнике"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr "Открити употребом бинарног потписа"
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr "свуда"
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "Тачан шаблон граничника"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr "Екстензија мало слово"
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr "Екстензија велико слово"
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "фајл(а)(ова)"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr "фајл(а)(ова) до"
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr "фајл(а)(ова) са"
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "Прва"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "Прво слово велико"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr "Поправити размаке"
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr "Присилити слова са делове"
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr "од Граничника"
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr "од Позиције"
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "Убацити"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr "Убацити размак испред великих слова"
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "пРЕОКРЕНУТИ сЛОВА"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "последње"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr "водеће"
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr "оставити граничник"
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr "нови називи нису одређени"
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr "Нов шаблон"
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr "Нормализовати размаке"
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr "делови"
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "места"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr "Префикс назива од"
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr "Припремити за \"SharePoint\""
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "Уклонити"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr "Уклонити екстензију"
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr "поновити"
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "Заменити"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr "Заменити екстензију"
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr "Заменити са размацима"
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr "замењује тренутни назив"
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr "ресетовати попис сваких"
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr "ресетовати попис ако се фолдер промени"
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "С десна на лево"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "Нумерисати Постепено од"
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "Нумерисати Насумично са дужином"
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr "Поставити називе од"
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "Прескочити екстензију"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr "прескочити верзије"
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr "Разделити по"
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr "корак"
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "Одстранити"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr "Одстранити садржај заграда"
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr "Суфиксовати назив од"
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr "пратеће"
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr "Превести"
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr "покушати јединствено"
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr "док Бројање достигне"
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr "до Граничника"
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr "до Краја"
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr "користећи џокере"
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr "са"
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-"Изабрани фолдер не постоји!\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"Подршка Етикета је искључена!\n"
-"\n"
-"Желите ли да је укључите?\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "Желите ли да отворите упутство?"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "Фолдери: %d скениран(а), %d изабран(а)."
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "Ићи На Фолдер"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "Унети целу путању ка фолдеру ком желите да приступите:"
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"Операција Копирања и Сечења Фајлова поставиће изабране фајлове у Клипборд за каснију употребу.\n"
-"Важно: Сви фајлови ће бити прилепљени у исти директоријум без обзира где су се првобитно налазили!\n"
-"\n"
-"Да ли сте сигурни да желите да наставите?\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "НЕВАЖЕЋИ ФОРМАТ"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"Фајл већ постоји!\n"
-"Надписати га?\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"Укупно: %d\n"
-"Обележено: %d\n"
-"Изабрано: %d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Има %s фајл(а)(ова) на табели, сигурни сте да желите да поправите сукобљене нове називе?\n"
-"\n"
-"Овај поступак може потрајати неколико минута...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "Ићи До Реда"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "Унети број реда:"
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr "Савет: Могу се проверити детаљи укључујући \"Грешка\" колону"
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "Покреће се ReNamer по први пут."
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr "%d нових назива фајлова од %d у листи је измењено!"
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "Ништа за Преименовање!"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"Оригинална Путања: %s\n"
-"Нова Путања: %s\n"
-"\n"
-"Други фајл је већ узео нови назив, избрисати тај фајл заувек?\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "Успешно састављено!"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr "Нема Сачуваних Скрипти!"
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Неисправан Назив!"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "Унети назив за скрипту:"
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "Сачувати Скрипту"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "Неисправан Назив!"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "Избрисати \"%s\" поставку?"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"На корак сте да ручно уредите фајл(ове) Поставке!\n"
-"Ако нисте сигурни шта радите - притисните Откажи.\n"
-"\n"
-"Наставити са радњом?\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "Поставка \"%s\" се не може копирати!"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "Поставка \"%s\" се не може избрисати!"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "Поставка \"%s\" се не може преименовати!"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "Нови Назив:"
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "Преименовати Поставку"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Поступак прегледа је угашен због критичне грешке:\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "%d фајл(а)(ова) неуспешно преименован(а)(о)!"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"Сви Нови Називи су празни!\n"
-"\n"
-"Савет: Уобличите Правила и кликните на тастер Преглед.\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "Прескочен(а)(о) %d фајл(а)(ова)."
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "Успешно преименован(а)(о) %d фајл(а)(ова)."
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "Употребите ово правило да измените величину слова у називу фајла."
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "Употребите ово правило да очистите назив фајла."
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "Употребите ово правило да избришете текст из назива фајла."
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "Употребите ово правило да промените екстензију фајла."
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "Употребите ово правило да убаците текст у назив фајла."
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "Употребите ово правило да руководите са називом фајла."
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "Употребите ово правило да раздвојите делове назива фајла и преуредите их у нови шаблон."
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "Употребите ово правило да замените текст у називу фајла користећи званичне изразе."
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "Употребите ово правило да уклоните текст из назива фајла."
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "Употребите ово правило да замените текст у називу фајла."
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Употребите ово правило да нумеришете назив фајла (додати повећање или насумичне бројеве)."
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "Употребите ово правило да одстраните мноштво знакова из назива фајла."
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "Употребите ово правило да преведете слова из једног језика у други."
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "Употребите ово правило да доделите називе фајла редовима текста."
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "Изабрати фолдер:"
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr ""
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"Не може се отворити следећи фајл:\n"
-"\n"
-"%s\n"
-"\n"
-"Грешка: %s (%d).\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Неисправан Назив!"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "Унети назив за превод:"
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "Сачувати Превод"
-
-#: mystrings.msg_undoconfirmfiles
-#, fuzzy
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr "Да ли сте сигурни да желите да вратите последицу преименовања за %d фајл(а)(ова)?"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "Ништа за Поништавање!"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"Резултат последице поништења:\n"
-"\n"
-"%d од %d фајл(а)(ова) је успешно враћено!\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"Изгледа да ReNamer сада ради.\n"
-"Затворити га, пре наставка...\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "%d који су дупликат у листи."
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%d који премашују Windows MAX_PATH ограничење."
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "%d који се сукобљавају са постојећ(и)(о)м путањ(ама)(ом) фајла."
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "Упозорење, нађен(а)(о) %d неважећи(а)(х) назив(а) фајл(а)(ова)!"
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "Успешно проверено!"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Има %s фајл(а)(ова) на табели, сигурни сте да желите да их Потврдите?\n"
-"\n"
-"Овај поступак може потрајати неколико минута...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr "Провера није успела због проблема са %d фајл(ом)(а)(ова)."
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "Додати Правило"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "Кликнути овде за додавање правила"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "Додати у ReNamer"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "Ред = %d, Лево = %d, Десно = %d, Изабран = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "Пребирати Скрипте..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "Пребирати Преводе..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "Откажи Сортирање"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "Вуците ваше фајлове овде"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "Уредити Правило"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s фајл(а)(ова)"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s фајл(а)(ова) (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "Филтери"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "Учитати са Поставком"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "Обележити по Маски"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
-"\n"
-"Маске:\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "Надписати"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "Преименовати"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "Преименовати са Поставком"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "Величина слова"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "Очистити"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "Избрисати"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "Екстензија"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "Убацити"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "ПаскалСкрипта"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "Преуредити"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "Званични изрази"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "Уклонити"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "Заменити"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "Нумерисати"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "Одстранити"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "Превести"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "Унос по реду"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "Сачувати Правило"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "Сачувати Скрипту..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "Сачувати Превод..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "Изабрати по Екстензији"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"Спојене екстензије могу бити раздојене тачка-зарезом. На пример: jpg;doc\n"
-"\n"
-"Екстензије (без тачака):\n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "Изабрати по Дужини Назива фајла"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "Више од N знакова:"
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "Изабрати по Маски"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
-"\n"
-"Маске:\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "Поништити"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr "Поништити %d фајл(а)(ова)"
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr "Сви фајлови"
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr "Било који фајл"
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr "Архиве"
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "Низ фајла"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr "раздвојени зарезом"
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr "Документи"
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr "Музика"
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr "СЛике"
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr "Плејлиста"
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr "раздвојени табулатором"
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr "Текст фајлови"
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
-msgstr "Текст листа"
 
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
@@ -2172,11 +711,17 @@ msgstr "Помаћи Горе"
 msgid "Mark All"
 msgstr "Обележити Све"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Изабрати Све"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "НеОбележити Све"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "Изабрати Све"
 
@@ -2232,7 +777,7 @@ msgid "Shell"
 msgstr "Изван"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "НеОбележити"
 
 #: tform_main.mi_addpresets.caption
@@ -3282,6 +1827,47 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Убацити Етикету (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr ""
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr ""
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Одвојити спојене ставке"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr ""
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "Осетљив на величину слова"
@@ -3332,10 +1918,10 @@ msgstr "Прескочити екстензију"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "Тумачити симболе '?', '*', '[', ']' као џокере?"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Важно: Параметар \"Налазишта\" биће игнорисан!"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3380,10 +1966,10 @@ msgstr "Прескочити екстензију"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "Тумачити ?, *, [', '] као џокере и '$n' као повратну везу?"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Важно: Параметар \"Налазишта\" биће игнорисан!"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3631,6 +2217,539 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Опције"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "Нетачан приказ величина за %s"
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "Неважећи податак или величина бафера"
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "Неподржан hash тип: %s"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Трајање Аудио фајла"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Трајање Аудио фајла у минутима"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Трајање Аудио фајла у секундама"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI Трајање у формату С:М:С"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI Трајање у Минутима"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI Трајање у Секундама"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI Фрејмова (рамова) по Секунди"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI Висина у Пикселима"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI укупан број Фрејмова (рамова)"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI Видео Кодек"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI Ширина у Пикселима"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI Димензије у формату ШхВ"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Бинарна Информација Фајла: Опис"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Бинарни Потпис Фајла: Екстензија"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Тренутни датум"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Документ: Аутор"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Документ: Број Страна"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Документ: Субјекат"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Документ: Наслов"
+
+#: umetatags.s_metatag_email_datesent
+#, fuzzy
+#| msgid "Email date sent"
+msgid "Email date sent in local time zone"
+msgstr "Датум слања имејла у локалној временској зони"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Датум слања имејла у оригиналној временској зони"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Датум слања имејла у UTC временској зони"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Пошиљалац имејла"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Субјекат имејла"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF Оригиналан Датум"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF Опис Слике"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF Произвођач Фотоапарата"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF Модел Фотоапарата"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Назив фајла без екстензије"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Датум креирања фајла"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Датум последње измене фајла"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Кратак назив у 8.3 формату"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Екстензија фајла"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Цео назив фајла"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Цела путања фајла"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Назив матичног фолдера"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Величина фајла у бајтима"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Величина фајла у КБ"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Величина фајла у МБ"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC Албум"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC Албум Уметника"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC Уметник"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC Број Диска"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC Укупно Дискова"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC Жанр"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC Наслов"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC Број Песме"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC Укупно Песама"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC Година"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 Checksum фајла"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 Hash фајла"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 Hash фајла"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Наслов извучен из HTML фајла"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Однос Димензија Слике"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Висина слике у пикселима"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Број пиксела у слици"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Ширина слике у пикселима"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Ширина и Висина слике у пикселима"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC Заглавље Слике"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC Град"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC Наслов Слике"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC Назив Локације"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC Назив Објекта"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 Албум"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 Албум Уметника"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 Уметник"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 Број Диска"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 Укупно Дискова"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 Жанр"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 Наслов"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 Број Песме"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 Укупно Песама"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 Година"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook порука: Тело Текста"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у локалној временској зони"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у оригиналној временској зони"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook порука: Датум слања из имејл заглавља у UTC временској зони"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook порука: Датум слања у локалној временској зони"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook порука: Датум слања у UTC временској зони"
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr "Outlook порука: ИД"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook порука: Пошиљалац"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook порука: Тема"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF Датум"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF Опис"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF Произвођач"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF Модел"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr ""
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Информација о Верзији: Коментари"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Информација о Верзији: Компанија"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Информација о Верзији: Ауторско право"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Информација о Верзији: Опис"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Информација о Верзији: Верзија"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Информација о Верзији: Производ"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Информација о Верзији: Верзија Производа"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA Албум"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA Албум Уметника"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA Уметник"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA Број Диска"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA Укупно Дискова"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA Жанр"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA Наслов"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA Број Песме"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA Укупно Песама"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA Година"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr "бајтова"
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr "ГБ"
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr "КБ"
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr "МБ"
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr "ТБ"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Саставити Pascal Скрипту"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Изузетак"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Извршити Pascal Скрипту"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Линија"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Непозната грешка (проверити јединице и библиотеке)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Фајл поставке није пронађен:"
+
 #: uregistration.s_cannot_create_license_dir
 msgctxt "uregistration.s_cannot_create_license_dir"
 msgid "Not able to create a directory for a license file."
@@ -3741,4 +2860,1006 @@ msgstr "Регистација је успешна!"
 msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "Надоградити лиценцу"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr "Неуспело брисање кључа: \"%s\""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "У реду"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Дупликат у листи"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Нова путања премашује ограничење дужине"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Одредишни фајл већ постоји"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Садржи неважеће карактере"
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "У реду"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "после"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "Сва"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "сви карактери осим"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "све малим словима"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "СВЕ ВЕЛИКИМ СЛОВИМА"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "и продужити до дужине"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "Придод."
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Придодати нову екстензију"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "као Префикс"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "као Суфикс"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "на Позицији"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "пре"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Увеличати и одржати"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Свака Реч Велико Слово"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "Осетљив на величину слова"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Променити екстензију на"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "карактера"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr ""
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr ""
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr ""
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Избрисати"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "Избрисати тренутни назив"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "Граничнике"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Открити употребом бинарног потписа"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "свуда"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "Тачан шаблон граничника"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Екстензија мало слово"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Екстензија велико слово"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "фајл(а)(ова)"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "фајл(а)(ова) до"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "фајл(а)(ова) са"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "Прва"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Прво слово велико"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Поправити размаке"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Присилити слова са делове"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "од Граничника"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "од Позиције"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Убацити"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Убацити размак испред великих слова"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "пРЕОКРЕНУТИ сЛОВА"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "последње"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "водеће"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "оставити граничник"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "нови називи нису одређени"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Нов шаблон"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Нормализовати размаке"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "делови"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "места"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Префикс назива од"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Припремити за \"SharePoint\""
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Уклонити"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Уклонити екстензију"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "поновити"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Заменити"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Заменити екстензију"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Заменити са размацима"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "замењује тренутни назив"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "ресетовати попис сваких"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "ресетовати попис ако се фолдер промени"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "С десна на лево"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr "Нумерисати Постепено од"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr "Нумерисати Насумично са дужином"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Поставити називе од"
+
+#: urulesex.s_rules_skipextension
+#, fuzzy
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "Прескочити екстензију"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "прескочити верзије"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Разделити по"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "корак"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Одстранити"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Одстранити садржај заграда"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Суфиксовати назив од"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "пратеће"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Превести"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "покушати јединствено"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "док Бројање достигне"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "до Граничника"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "до Краја"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "користећи џокере"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr ""
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr ""
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "са"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Изабрани фолдер не постоји!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Подршка Етикета је искључена!\n"
+"\n"
+"Желите ли да је укључите?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Желите ли да отворите упутство?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Фолдери: %d скениран(а), %d изабран(а)."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ићи На Фолдер"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Унети целу путању ка фолдеру ком желите да приступите:"
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Операција Копирања и Сечења Фајлова поставиће изабране фајлове у Клипборд за каснију употребу.\n"
+"Важно: Сви фајлови ће бити прилепљени у исти директоријум без обзира где су се првобитно налазили!\n"
+"\n"
+"Да ли сте сигурни да желите да наставите?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "НЕВАЖЕЋИ ФОРМАТ"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Фајл већ постоји!\n"
+"Надписати га?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Укупно: %d\n"
+"Обележено: %d\n"
+"Изабрано: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Има %s фајл(а)(ова) на табели, сигурни сте да желите да поправите сукобљене нове називе?\n"
+"\n"
+"Овај поступак може потрајати неколико минута...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ићи До Реда"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Унети број реда:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Савет: Могу се проверити детаљи укључујући \"Грешка\" колону"
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Покреће се ReNamer по први пут."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d нових назива фајлова од %d у листи је измењено!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Ништа за Преименовање!"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Оригинална Путања: %s\n"
+"Нова Путања: %s\n"
+"\n"
+"Други фајл је већ узео нови назив, избрисати тај фајл заувек?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Успешно састављено!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Нема Сачуваних Скрипти!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неисправан Назив!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Унети назив за скрипту:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Сачувати Скрипту"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "Неисправан Назив!"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Избрисати \"%s\" поставку?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"На корак сте да ручно уредите фајл(ове) Поставке!\n"
+"Ако нисте сигурни шта радите - притисните Откажи.\n"
+"\n"
+"Наставити са радњом?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може копирати!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може избрисати!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Поставка \"%s\" се не може преименовати!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Нови Назив:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Преименовати Поставку"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Поступак прегледа је угашен због критичне грешке:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d фајл(а)(ова) неуспешно преименован(а)(о)!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Сви Нови Називи су празни!\n"
+"\n"
+"Савет: Уобличите Правила и кликните на тастер Преглед.\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "Прескочен(а)(о) %d фајл(а)(ова)."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "Успешно преименован(а)(о) %d фајл(а)(ова)."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Употребите ово правило да измените величину слова у називу фајла."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Употребите ово правило да очистите назив фајла."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Употребите ово правило да избришете текст из назива фајла."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Употребите ово правило да промените екстензију фајла."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Употребите ово правило да убаците текст у назив фајла."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Употребите ово правило да руководите са називом фајла."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Употребите ово правило да раздвојите делове назива фајла и преуредите их у нови шаблон."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr ""
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Употребите ово правило да замените текст у називу фајла користећи званичне изразе."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Употребите ово правило да уклоните текст из назива фајла."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Употребите ово правило да замените текст у називу фајла."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "Употребите ово правило да нумеришете назив фајла (додати повећање или насумичне бројеве)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Употребите ово правило да одстраните мноштво знакова из назива фајла."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Употребите ово правило да преведете слова из једног језика у други."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Употребите ово правило да доделите називе фајла редовима текста."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Изабрати фолдер:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr ""
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Не може се отворити следећи фајл:\n"
+"\n"
+"%s\n"
+"\n"
+"Грешка: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Неисправан Назив!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Унети назив за превод:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Сачувати Превод"
+
+#: ustrings.msg_undoconfirmfiles
+#, fuzzy
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr "Да ли сте сигурни да желите да вратите последицу преименовања за %d фајл(а)(ова)?"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Ништа за Поништавање!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Резултат последице поништења:\n"
+"\n"
+"%d од %d фајл(а)(ова) је успешно враћено!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Изгледа да ReNamer сада ради.\n"
+"Затворити га, пре наставка...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d који су дупликат у листи."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "%d који премашују Windows MAX_PATH ограничење."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d који се сукобљавају са постојећ(и)(о)м путањ(ама)(ом) фајла."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "Упозорење, нађен(а)(о) %d неважећи(а)(х) назив(а) фајл(а)(ова)!"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Успешно проверено!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Има %s фајл(а)(ова) на табели, сигурни сте да желите да их Потврдите?\n"
+"\n"
+"Овај поступак може потрајати неколико минута...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Провера није успела због проблема са %d фајл(ом)(а)(ова)."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Додати Правило"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Кликнути овде за додавање правила"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Додати у ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Ред = %d, Лево = %d, Десно = %d, Изабран = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Пребирати Скрипте..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Пребирати Преводе..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Откажи Сортирање"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Вуците ваше фајлове овде"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Уредити Правило"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s фајл(а)(ова)"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s фајл(а)(ова) (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Филтери"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Учитати са Поставком"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Обележити по Маски"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
+"\n"
+"Маске:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Надписати"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Преименовати"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Преименовати са Поставком"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Величина слова"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "Очистити"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Избрисати"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Екстензија"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Убацити"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "ПаскалСкрипта"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Преуредити"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr ""
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "Званични изрази"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Уклонити"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Заменити"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Нумерисати"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Одстранити"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Превести"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "Унос по реду"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Сачувати Правило"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Сачувати Скрипту..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Сачувати Превод..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Изабрати по Екстензији"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Спојене екстензије могу бити раздојене тачка-зарезом. На пример: jpg;doc\n"
+"\n"
+"Екстензије (без тачака):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Изабрати по Дужини Назива фајла"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Више од N знакова:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Изабрати по Маски"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Спојене маске могу бити раздојене тачка-зарезом. На пример: *.jpg;*.doc\n"
+"\n"
+"Маске:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Поништити"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Поништити %d фајл(а)(ова)"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Сви фајлови"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Било који фајл"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Архиве"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Низ фајла"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "раздвојени зарезом"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Документи"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Музика"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "СЛике"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Плејлиста"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "раздвојени табулатором"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "Текст фајлови"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Текст листа"
 

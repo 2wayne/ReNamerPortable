@@ -75,1467 +75,6 @@ msgstr "Preset termuat"
 msgid "Loaded preset (modified)"
 msgstr "Praset termuat (edit)"
 
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "Salah mencerna ukuran untuk %s"
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "Data tidak valid atau ukuran buffer"
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "Tidak mendukung tipe hash: %s"
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "Durasi dari berkas audio"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "Durasi dari berkas audio dalam menit"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "Durasi dari berkas audio dalam detik"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "Durasi AVI di format H:M:S"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "Durasi AVI dalam menit"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "Durasi AVI dalam detik"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "Bingkai AVI per detik"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "Tinggi AVI di Pixel"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "Jumlah total bingkai AVI"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "Kode video AVI"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "Lebar AVI di pixel"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "Dimensi AVI format LxT"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "Informasi binari berkas: Deskripsi"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "Tanda binari berkas: Ekstensi"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "Tanggal sekarang"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "Ringkasan informasi: Pembuat"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "Ringkasan informasi: Jumlah lembar"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "Ringkasan informasi: Subjek"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "Ringkasan informasi: Judul"
-
-#: mymetatags.s_metatag_email_datesent
-msgid "Email date sent in local time zone"
-msgstr "Tanggal kirim email di zona waktu lokal"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr "Tanggal kirim email di zona waktu asli"
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr "Tanggal kirim email di zona waktu UTC"
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Pengirim email"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Subjek email"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "Tanggal asli EXIF"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "Deskripsi gambar EXIF"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "Kamera pembuat EXIF"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "Model kamera EXIF"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "Berdasar nama berkas"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "Tangal berkas dibuat"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "Tanggal akhir edit berkas"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "Nama pendek di format 8.3"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "Ekstensi berkas"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "Nama lengkap berkas"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "Lokasi lengkap berkas"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "Nama dari induk folder"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "Ukuran berkas di bytes"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "Ukuran berkas di KB"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "Ukuran berkas di MB"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "Album FLAC"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr "Album artis FLAC"
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "Artis FLAC"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr "Nomor lagu FLAC"
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr "Judul FLAC"
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "Jenis FLAC"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "Judul FLAC"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "Nomor lagu FLAC"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "Tahun FLAC"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "CRC32 berkas"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "Hash MD5 berkas"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "Hash SHA1 berkas"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "Hash SHA256 berkas"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "Hash SHA512 berkas"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "Judul tag terekstrak dari berkas HTML"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "Aspek rasio gambar"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "Tinggi gambar dalam pixel"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "Jumlah pixel dalam gambar"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "Lebar gambar dalam pixel"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "Lebar dan tinggi gambar dalam pixel"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "Judul gambar IPTC"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "Kota IPTC"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "Berita gambar IPTC"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "Nama lokasi IPTC"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "Nama objek IPTC"
-
-#: mymetatags.s_metatag_mp3_album
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "Album MP3"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr "Album artis MP3"
-
-#: mymetatags.s_metatag_mp3_artist
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "Artis MP3"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr "Nomor lagu MP3"
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_genre
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "Jenis MP3"
-
-#: mymetatags.s_metatag_mp3_partofset
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "Bagian set MP3"
-
-#: mymetatags.s_metatag_mp3_title
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "Judul MP3"
-
-#: mymetatags.s_metatag_mp3_trackno
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "Nomor lagu MP3"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_mp3_year
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "Tahun MP3"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr "Pesan Outlook: Isi teks"
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Pesan Outlook: Tanggal kirim judul email di zona waktu lokal"
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr "Pesan Outlook: Kirim tanggal dari judul email dalam zona waktu asli"
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr "Pesan Outlook: Kirim tanggal dari judul email dalam zona waktu UTC"
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr "Pesan Outlook: Kirim tanggal dalam zona waktu lokal"
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr "Pesan Outlook: Kirim tanggal dalam zona waktu UTC"
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr "Pesan Outlook: ID"
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr "Pesan Outlook: Pengirim"
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr "Pesan Outlook: Subjek"
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "Tanggal TIFF"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "Deskripsi TIFF"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "Pembuat TIFF"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "Model TIFF"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "Informasi versi: Komentar"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "Informasi versi: Perusahaan"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "Informasi versi: Hak cipta"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "Informasi versi: Deskripsi"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "Informasi versi: versi berkas"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "Informasi versi: Produk"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "Informasi versi: Versi produk"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "Album WMA"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr "Album artis WMA"
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "Artis WMA"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr "Nomor lagu WMA"
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "Jenis WMA"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr "Bagian set WMA"
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "Judul WMA"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "Nomor lagu WMA"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr ""
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "Tahun WMA"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr "bytes"
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr "GB"
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr "KB"
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr "MB"
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr "TB"
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "Kompilasi skrip Pascal"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "Pengecualian"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "Eksekusi skip Pascal"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "Baris"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "Kesalahan tak dikenal (periksa unit dan perpustakaan)"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr "Berkas preset tidak ditemukan:"
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Gagal untuk menghapus kunci: \"%s\""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr "OK"
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr "Gandakan kedalam daftar"
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr "Lokasi baru melampaui batas panjang"
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr "Berkas tujuan sudah ada"
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr "Berisi karakter tidak valid"
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr "sesudah"
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "Semua"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr "semua karater kecuali"
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "Semua huruf kecil"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "Semua huruf besar"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr "dan pad ke panjang"
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "lampirkan"
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr "Lampirkan ekstensi baru"
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr "jadi Awalan"
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr "jadi Akhiran"
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr "di Posisi"
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr "sebelum"
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr "Kapitalkan dan biarkan"
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "Kapitalkan tiap kata"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "sangat sensitif"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr "Ubah ekstensi ke"
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr "karakter"
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "Hapus"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr ""
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "pembatas"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr "Deteksi pakai binari tandatangan"
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr "dimanapun"
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "pola tepat dari pemisah"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr "Ekstensi huruf kecil"
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr "Ekstensi huruf besar"
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "berkas"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr "berkas ke"
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr "berkas dengan"
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "pertama"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "Huruf pertama besar"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr "Perbaiki spasi"
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr "Paksa fragmen kasus"
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr "dari Pemisah"
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr "dari Posisi"
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "Sisip"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr "Sisip spasi didepan huruf"
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "Balik kasus"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "terakhir"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr "terdepan"
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr "biarkan pembatas"
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr "nama baru belum ditentukan"
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr "Pola baru"
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr "Normalisasi spasi"
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr "bagian"
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "posisi"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr "Awalan nama dari"
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr "Siapkan untuk SharePoint"
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "Buang"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr "Buang ekstensi"
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr "ulangi"
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "Gantikan"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr "Ganti ekspresi"
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr "Ganti dengan spasi"
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr ""
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr "ubah indeks tiap"
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr "ubah indeks jika folder berubah"
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "kanan-ke-kiri"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "Penomoran tambahan dari"
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "Acak penomoran dengan panjang"
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr "Atur nama dari"
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "loncati ekstensi"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr "loncati versi"
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr "Pisah oleh"
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr "langkah"
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "Copot"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr "Copot keluar isi tanda kurung"
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr "Akhiran nama"
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr "tertinggal"
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr "Terjemahkan"
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr "coba unik"
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr "hingga Hitungan tercapai"
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr "hingga Pemisah"
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr "hingga Akhir"
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr "pakai kartu kunci"
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr "dengan"
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-"Pilihan folder tidak ada!\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"Meta tag sedang di nonaktifkan.\n"
-"\n"
-"Apakah anda ingin mengaktifkanya?\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "Apakah anda ingin membuka Petunjuk Penggunaan?"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "Folder: %d terpindai, %d terpilih."
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "Ke folder"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "Masukkan lokasi penuh ke folder yang ingin anda tuju:"
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"Operasi menyalin dan memotong berkas akan menempatkan berkas terpilih kedalam klipboard untuk digunakan nanti.\n"
-"Catatan: Semua berkas akan ditempel kedalam direktori yang sama tidak peduli tempat dimana awalnya mereka berada!\n"
-"\n"
-"Apakah anda yakin ingin memprosesnya?\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "FORMAT TIDAK VALID"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"Berkas sudah ada!\n"
-"Tumpuk?\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"Total: %d\n"
-"Ditandai: %d\n"
-"Dipilih: %d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Apakah anda ingin memperbaiki konflik nama baru untuk %s berkas?\n"
-"\n"
-"Operasi ini mungkin mengambil beberapa menit...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "Ke baris"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "Masukkan nomor baris:"
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr "Tips: Anda bisa cek rincian dengan mengaktifkan kolom \"Kesalahan\"."
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "Anda sedang nejalankan ReNamer untuk pertama kalinya."
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr "%d berkas baru dari %d pada daftar telah diubah!"
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "Tidak ada yang diubah nama!"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"Lokasi asli: %s\n"
-"Lokasi baru: %s\n"
-"\n"
-"Nama baru sudah diambil oleh berkas lain, hapus berkas tersebut secara permanen?\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "Kompilasi sukses selesai!"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr "Tidak ada skrip tersimpan yang ditemukan!"
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Nama tidak benar!"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "Masukkan nama untuk skrip:"
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "Simpan skrip"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "Nama tidak benar!"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "Hapus \"%s\" preset?"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"Anda akan mengubah berkas preset secara manual!\n"
-"Jika anda tidak yakin dengan apa yang anda lakukan, tekan Batal.\n"
-"\n"
-"Tetap lakukan aksi ini?\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "Tidak dapat menyalin \"%s\" preset!"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "Tidak dapat menghapus \"%s\" preset!"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "Tidak dapat mengubah nama \"%s\" preset!"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "Nama baru:"
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "Ubah nama preset"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"Proses pratinjau telah hentikan akibat dari kesalahan kritis:\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "%d berkas gagal diubah namanya!"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"Semua nama baru kosong!\n"
-"\n"
-"Tips: Konfigurasi Aturan lalu klik tombol Pratinjau.\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "%d berkas diloncati."
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "%d berkas berhasi sukses diubah namanya."
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "Pakai aturan ini untuk mengubah kasus dari nama berkas."
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "Pakai aturan ini untuk membersihkan nama berkas."
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "Pakai aturan ini untuk hapus teks dari nama berkas."
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "Pakai aturan ini untuk ubah ekstensi berkas."
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "Pakai aturan ini untuk sisip teks kedalam nama berkas."
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "Pakai aturan ini untuk buat skrip manipulasi penguna dengan nama berkas."
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "Pakai aturan ini untuk memisah bagian dari nama berkas dan menyusun berkas ke pola baru."
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "Pakai aturan ini untuk ganti teks dalam nama berkas pakai ekspresi biasa."
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "Pakai aturan ini untuk membuang teks dari nama berkas."
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "Pakai aturan ini untuk ganti teks dalam nama berkas."
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Pakai aturan ini untuk penomoran nama berkas (tambah nomor inkremental atau acak)."
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "Pakai aturan ini untuk mencopot karakter dari nama berkas."
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "Pakai aturan ini untuk menterjemahkan huruf nama berkas dari satu ke bahasa lain."
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "Pakai aturan ini untuk tetapkan nama berkas ke baris dari teks."
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "Silahkan pilih folder:"
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr "Apakah anda yakin ingin menjalankan aksi shell pada %d berkas?"
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"Tidak dapat membuka berkas berikut:\n"
-"\n"
-"%s\n"
-"\n"
-"Kesalahan: %s (%d).\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "Nama tidak benar!"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "Masukkan nama untuk terjemahan:"
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "Simpan terjemahan"
-
-#: mystrings.msg_undoconfirmfiles
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr ""
-"Apakah anda yakin ingin mengurungkan operasi ubah nama untuk %d berkas?\n"
-"\n"
-"Tips: Anda bisa memeriksa lokasi urungkan dengan mengaktifkan kolom \"Lokasi lama\".\n"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "Tidak ada yang diurungkan!"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"Urungkan hasil operasi:\n"
-"\n"
-"%d dari %d berkas berhasil sukses dipuluhkan!\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"Sepertinya ReNamer sedang berjalan.\n"
-"Silahkan tutup, sebelum melanjutkan...\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "%d dimana memiliki duplikasi dalam daftar."
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%d dimana melebihi batasan MAX_PATH."
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "%d dimana berisi konflik dengan berkas yang ada."
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "%d dimana berisi karakter tidak valid."
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "Berhasil sukses tervalidasi!"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"Apakah anda ingin validasi berkas %s?\n"
-"\n"
-"Operasi ini mungkin dapat butuh beberapa minutes...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr "Validasi gagal karena masalah pada %d berkas."
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "Tambah aturan"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "Klik disini untuk tambah aturan"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "Tambah ke ReNamer"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "Baris = %d, Posisi = %d, Kanan = %d, Seleksi = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "Jelajahi skrip..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "Jelajahi Terjemahan..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "Batalkan sortiran"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "Geser berkas anda kesini"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "Edit aturan"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s berkas"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s berkas (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "Penyaring"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "Muat dengan preset"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "Tandai oleh Samaran"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Beberapa samaran dapat dipisah dengan tanda koma. Misal: *.jpg;*.doc\n"
-"\n"
-"Samaran:\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "Tumpuk"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "Ubah nama"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "Ubah nama dengan preset"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "Kasus"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "Bersihkan"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "Hapus"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "Ekstensi"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "Sisip"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "Skrip Pascal"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "Susun ulang"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "RegEx"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "Buang"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "Gantikan"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "Penomoran"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "Copot"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "Terjemahan"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "Input Pengguna"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "Simpan aturan"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "Simpan skrip..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "Simpan terjemahan..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "Seleksi sesuai Ekstensi"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"Multi ekstensi dapat dipisahkan dengan tanda koma. Misal: jpg;doc\n"
-"\n"
-"Ekstensi (tanpa titik): \n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "Seleksi sesuai Panjang nama berkas"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "Lebih dari N karekter:"
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "Seleksi sesuai Samaran"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"Beberapa samaran dapat dipisah dengan tanda koma. Misal: *.jpg;*.doc\n"
-"\n"
-"Samaran:\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "Urungkan"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr "Urungkan %d berkas"
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr "Semua berkas"
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr "Berkas apapun"
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr "Arsip"
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "Berkas batch"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr "dipisah koma"
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr "Dokumen"
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr "Musik"
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr "Gambar"
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr "Daftar putar"
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr "dipisah tab"
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr "berkas teks"
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
-msgstr "Daftar teks"
-
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
 msgstr "SALIN"
@@ -2172,11 +711,17 @@ msgstr "Keatas"
 msgid "Mark All"
 msgstr "Tandai semua"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "Seleksi semua"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "Buang tanda"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "Seleksi semua"
 
@@ -2232,7 +777,7 @@ msgid "Shell"
 msgstr "Perintah"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "Buang tanda"
 
 #: tform_main.mi_addpresets.caption
@@ -3281,6 +1826,47 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Sisip meta tag (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Loncati ekstensi"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr ""
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr ""
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr ""
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+#, fuzzy
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "Pisahkan multi item"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr ""
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "Sangat sensitif"
@@ -3331,10 +1917,10 @@ msgstr "Loncati ekstensi"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "Interpretasi simbol '?', '*', '[', ']' jadi kartu kunci?"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Catatan: parameter \"Kejadian\" akan diabaikan!"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3379,10 +1965,10 @@ msgstr "Loncati ekstensi"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "Interpretasi '?', '*', '[', ']' jadi kartu kunci , '$n' jadi referensi dukungan?"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "Catatan: parameter \"Kejadian\" akan diabaikan!"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr ""
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3630,6 +2216,537 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Opsi"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "Salah mencerna ukuran untuk %s"
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "Data tidak valid atau ukuran buffer"
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "Tidak mendukung tipe hash: %s"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "Durasi dari berkas audio"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "Durasi dari berkas audio dalam menit"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "Durasi dari berkas audio dalam detik"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "Durasi AVI di format H:M:S"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "Durasi AVI dalam menit"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "Durasi AVI dalam detik"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "Bingkai AVI per detik"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "Tinggi AVI di Pixel"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "Jumlah total bingkai AVI"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "Kode video AVI"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "Lebar AVI di pixel"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "Dimensi AVI format LxT"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "Informasi binari berkas: Deskripsi"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "Tanda binari berkas: Ekstensi"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "Tanggal sekarang"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "Ringkasan informasi: Pembuat"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "Ringkasan informasi: Jumlah lembar"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "Ringkasan informasi: Subjek"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "Ringkasan informasi: Judul"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "Tanggal kirim email di zona waktu lokal"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "Tanggal kirim email di zona waktu asli"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "Tanggal kirim email di zona waktu UTC"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Pengirim email"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Subjek email"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "Tanggal asli EXIF"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "Deskripsi gambar EXIF"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "Kamera pembuat EXIF"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "Model kamera EXIF"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "Berdasar nama berkas"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "Tangal berkas dibuat"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "Tanggal akhir edit berkas"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "Nama pendek di format 8.3"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "Ekstensi berkas"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "Nama lengkap berkas"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "Lokasi lengkap berkas"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "Nama dari induk folder"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "Ukuran berkas di bytes"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "Ukuran berkas di KB"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "Ukuran berkas di MB"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "Album FLAC"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "Album artis FLAC"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "Artis FLAC"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "Nomor lagu FLAC"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "Judul FLAC"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "Jenis FLAC"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "Judul FLAC"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "Nomor lagu FLAC"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "Tahun FLAC"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 berkas"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "Hash MD5 berkas"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "Hash SHA1 berkas"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "Hash SHA256 berkas"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "Hash SHA512 berkas"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "Judul tag terekstrak dari berkas HTML"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "Aspek rasio gambar"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "Tinggi gambar dalam pixel"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "Jumlah pixel dalam gambar"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "Lebar gambar dalam pixel"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "Lebar dan tinggi gambar dalam pixel"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "Judul gambar IPTC"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "Kota IPTC"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "Berita gambar IPTC"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "Nama lokasi IPTC"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "Nama objek IPTC"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "Album MP3"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "Album artis MP3"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "Artis MP3"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "Nomor lagu MP3"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "Jenis MP3"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "Judul MP3"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "Nomor lagu MP3"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "Tahun MP3"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Pesan Outlook: Isi teks"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Pesan Outlook: Tanggal kirim judul email di zona waktu lokal"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Pesan Outlook: Kirim tanggal dari judul email dalam zona waktu asli"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Pesan Outlook: Kirim tanggal dari judul email dalam zona waktu UTC"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Pesan Outlook: Kirim tanggal dalam zona waktu lokal"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Pesan Outlook: Kirim tanggal dalam zona waktu UTC"
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr "Pesan Outlook: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Pesan Outlook: Pengirim"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Pesan Outlook: Subjek"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "Tanggal TIFF"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "Deskripsi TIFF"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "Pembuat TIFF"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "Model TIFF"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr ""
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "Informasi versi: Komentar"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "Informasi versi: Perusahaan"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "Informasi versi: Hak cipta"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "Informasi versi: Deskripsi"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "Informasi versi: versi berkas"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "Informasi versi: Produk"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "Informasi versi: Versi produk"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "Album WMA"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "Album artis WMA"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "Artis WMA"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "Nomor lagu WMA"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr ""
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "Jenis WMA"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "Judul WMA"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "Nomor lagu WMA"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr ""
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "Tahun WMA"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr "bytes"
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr "GB"
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr "KB"
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr "MB"
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr "TB"
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Kompilasi skrip Pascal"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "Pengecualian"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Eksekusi skip Pascal"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "Baris"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "Kesalahan tak dikenal (periksa unit dan perpustakaan)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "Berkas preset tidak ditemukan:"
+
 #: uregistration.s_cannot_create_license_dir
 msgid "Not able to create a directory for a license file."
 msgstr "Tidak dapat membuat direktori untuk berkas lisensi."
@@ -3730,4 +2847,1008 @@ msgstr "Pendaftaran telah berhasil sukses!"
 #: uregistration.s_upgrade_expiry
 msgid "Upgrade expiry"
 msgstr "Peningkatan kedaluarsa"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr "Gagal untuk menghapus kunci: \"%s\""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr "OK"
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "Gandakan kedalam daftar"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "Lokasi baru melampaui batas panjang"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "Berkas tujuan sudah ada"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "Berisi karakter tidak valid"
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr "OK"
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "sesudah"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "Semua"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "semua karater kecuali"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "Semua huruf kecil"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "Semua huruf besar"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "dan pad ke panjang"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "lampirkan"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "Lampirkan ekstensi baru"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "jadi Awalan"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "jadi Akhiran"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "di Posisi"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "sebelum"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "Kapitalkan dan biarkan"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "Kapitalkan tiap kata"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "sangat sensitif"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "Ubah ekstensi ke"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "karakter"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr ""
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr ""
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr ""
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "Hapus"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr ""
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "pembatas"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "Deteksi pakai binari tandatangan"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "dimanapun"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "pola tepat dari pemisah"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "Ekstensi huruf kecil"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "Ekstensi huruf besar"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "berkas"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "berkas ke"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "berkas dengan"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "pertama"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "Huruf pertama besar"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "Perbaiki spasi"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "Paksa fragmen kasus"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "dari Pemisah"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "dari Posisi"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "Sisip"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "Sisip spasi didepan huruf"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "Balik kasus"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "terakhir"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "terdepan"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "biarkan pembatas"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "nama baru belum ditentukan"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "Pola baru"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "Normalisasi spasi"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "bagian"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "posisi"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "Awalan nama dari"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "Siapkan untuk SharePoint"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "Buang"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "Buang ekstensi"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "ulangi"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "Gantikan"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "Ganti ekspresi"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "Ganti dengan spasi"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr ""
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "ubah indeks tiap"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "ubah indeks jika folder berubah"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "kanan-ke-kiri"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr "Penomoran tambahan dari"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr "Acak penomoran dengan panjang"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "Atur nama dari"
+
+#: urulesex.s_rules_skipextension
+#, fuzzy
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "Loncati ekstensi"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "loncati ekstensi"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "loncati versi"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "Pisah oleh"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "langkah"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "Copot"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "Copot keluar isi tanda kurung"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "Akhiran nama"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "tertinggal"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "Terjemahkan"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "coba unik"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "hingga Hitungan tercapai"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "hingga Pemisah"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "hingga Akhir"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "pakai kartu kunci"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr ""
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr ""
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "dengan"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"Pilihan folder tidak ada!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"Meta tag sedang di nonaktifkan.\n"
+"\n"
+"Apakah anda ingin mengaktifkanya?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "Apakah anda ingin membuka Petunjuk Penggunaan?"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "Folder: %d terpindai, %d terpilih."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "Ke folder"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "Masukkan lokasi penuh ke folder yang ingin anda tuju:"
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"Operasi menyalin dan memotong berkas akan menempatkan berkas terpilih kedalam klipboard untuk digunakan nanti.\n"
+"Catatan: Semua berkas akan ditempel kedalam direktori yang sama tidak peduli tempat dimana awalnya mereka berada!\n"
+"\n"
+"Apakah anda yakin ingin memprosesnya?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "FORMAT TIDAK VALID"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"Berkas sudah ada!\n"
+"Tumpuk?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"Total: %d\n"
+"Ditandai: %d\n"
+"Dipilih: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Apakah anda ingin memperbaiki konflik nama baru untuk %s berkas?\n"
+"\n"
+"Operasi ini mungkin mengambil beberapa menit...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "Ke baris"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "Masukkan nomor baris:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "Tips: Anda bisa cek rincian dengan mengaktifkan kolom \"Kesalahan\"."
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "Anda sedang nejalankan ReNamer untuk pertama kalinya."
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "%d berkas baru dari %d pada daftar telah diubah!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "Tidak ada yang diubah nama!"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"Lokasi asli: %s\n"
+"Lokasi baru: %s\n"
+"\n"
+"Nama baru sudah diambil oleh berkas lain, hapus berkas tersebut secara permanen?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "Kompilasi sukses selesai!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "Tidak ada skrip tersimpan yang ditemukan!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nama tidak benar!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "Masukkan nama untuk skrip:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "Simpan skrip"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "Nama tidak benar!"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "Hapus \"%s\" preset?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"Anda akan mengubah berkas preset secara manual!\n"
+"Jika anda tidak yakin dengan apa yang anda lakukan, tekan Batal.\n"
+"\n"
+"Tetap lakukan aksi ini?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "Tidak dapat menyalin \"%s\" preset!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "Tidak dapat menghapus \"%s\" preset!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "Tidak dapat mengubah nama \"%s\" preset!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "Nama baru:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "Ubah nama preset"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"Proses pratinjau telah hentikan akibat dari kesalahan kritis:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d berkas gagal diubah namanya!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"Semua nama baru kosong!\n"
+"\n"
+"Tips: Konfigurasi Aturan lalu klik tombol Pratinjau.\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "%d berkas diloncati."
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d berkas berhasi sukses diubah namanya."
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "Pakai aturan ini untuk mengubah kasus dari nama berkas."
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "Pakai aturan ini untuk membersihkan nama berkas."
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "Pakai aturan ini untuk hapus teks dari nama berkas."
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "Pakai aturan ini untuk ubah ekstensi berkas."
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "Pakai aturan ini untuk sisip teks kedalam nama berkas."
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "Pakai aturan ini untuk buat skrip manipulasi penguna dengan nama berkas."
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "Pakai aturan ini untuk memisah bagian dari nama berkas dan menyusun berkas ke pola baru."
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr ""
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "Pakai aturan ini untuk ganti teks dalam nama berkas pakai ekspresi biasa."
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "Pakai aturan ini untuk membuang teks dari nama berkas."
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "Pakai aturan ini untuk ganti teks dalam nama berkas."
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "Pakai aturan ini untuk penomoran nama berkas (tambah nomor inkremental atau acak)."
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "Pakai aturan ini untuk mencopot karakter dari nama berkas."
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "Pakai aturan ini untuk menterjemahkan huruf nama berkas dari satu ke bahasa lain."
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "Pakai aturan ini untuk tetapkan nama berkas ke baris dari teks."
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "Silahkan pilih folder:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "Apakah anda yakin ingin menjalankan aksi shell pada %d berkas?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"Tidak dapat membuka berkas berikut:\n"
+"\n"
+"%s\n"
+"\n"
+"Kesalahan: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "Nama tidak benar!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "Masukkan nama untuk terjemahan:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "Simpan terjemahan"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"Apakah anda yakin ingin mengurungkan operasi ubah nama untuk %d berkas?\n"
+"\n"
+"Tips: Anda bisa memeriksa lokasi urungkan dengan mengaktifkan kolom \"Lokasi lama\".\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "Tidak ada yang diurungkan!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"Urungkan hasil operasi:\n"
+"\n"
+"%d dari %d berkas berhasil sukses dipuluhkan!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"Sepertinya ReNamer sedang berjalan.\n"
+"Silahkan tutup, sebelum melanjutkan...\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d dimana memiliki duplikasi dalam daftar."
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "%d dimana melebihi batasan MAX_PATH."
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d dimana berisi konflik dengan berkas yang ada."
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "%d dimana berisi karakter tidak valid."
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "Berhasil sukses tervalidasi!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"Apakah anda ingin validasi berkas %s?\n"
+"\n"
+"Operasi ini mungkin dapat butuh beberapa minutes...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "Validasi gagal karena masalah pada %d berkas."
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "Tambah aturan"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "Klik disini untuk tambah aturan"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "Tambah ke ReNamer"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "Baris = %d, Posisi = %d, Kanan = %d, Seleksi = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "Jelajahi skrip..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "Jelajahi Terjemahan..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "Batalkan sortiran"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "Geser berkas anda kesini"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "Edit aturan"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s berkas"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s berkas (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "Penyaring"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "Muat dengan preset"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "Tandai oleh Samaran"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Beberapa samaran dapat dipisah dengan tanda koma. Misal: *.jpg;*.doc\n"
+"\n"
+"Samaran:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "Tumpuk"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "Ubah nama"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Ubah nama dengan preset"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "Kasus"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "Bersihkan"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "Hapus"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "Ekstensi"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "Sisip"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "Skrip Pascal"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "Susun ulang"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr ""
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "RegEx"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "Buang"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "Gantikan"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "Penomoran"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "Copot"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "Terjemahan"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "Input Pengguna"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "Simpan aturan"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "Simpan skrip..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "Simpan terjemahan..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "Seleksi sesuai Ekstensi"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"Multi ekstensi dapat dipisahkan dengan tanda koma. Misal: jpg;doc\n"
+"\n"
+"Ekstensi (tanpa titik): \n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "Seleksi sesuai Panjang nama berkas"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "Lebih dari N karekter:"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "Seleksi sesuai Samaran"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"Beberapa samaran dapat dipisah dengan tanda koma. Misal: *.jpg;*.doc\n"
+"\n"
+"Samaran:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "Urungkan"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "Urungkan %d berkas"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "Semua berkas"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "Berkas apapun"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "Arsip"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "Berkas batch"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "dipisah koma"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "Dokumen"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "Musik"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "Gambar"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "Daftar putar"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "dipisah tab"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "berkas teks"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "Daftar teks"
 

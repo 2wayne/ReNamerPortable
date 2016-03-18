@@ -75,1467 +75,6 @@ msgstr "読み込まれたプリセット"
 msgid "Loaded preset (modified)"
 msgstr "読み込まれたプリセット(変更有り)"
 
-#: myhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "%s に不適切なダイジェストサイズ"
-
-#: myhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "無効なデータ、またはバッファサイズ"
-
-#: myhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "未対応のハッシュ形式: %s"
-
-#: mymetatags.s_metatag_audio_duration
-msgid "Duration of an Audio file"
-msgstr "オーディオファイル再生時間"
-
-#: mymetatags.s_metatag_audio_durationmins
-msgid "Duration of an Audio file in minutes"
-msgstr "オーディオファイル再生時間(分)"
-
-#: mymetatags.s_metatag_audio_durationsecs
-msgid "Duration of an Audio file in seconds"
-msgstr "オーディオファイル再生時間(秒)"
-
-#: mymetatags.s_metatag_avi_duration
-msgid "AVI Duration in H:M:S format"
-msgstr "AVI 再生時間 H:M:S 書式"
-
-#: mymetatags.s_metatag_avi_durationmins
-msgid "AVI Duration in Minutes"
-msgstr "AVI 再生時間(分)"
-
-#: mymetatags.s_metatag_avi_durationsecs
-msgid "AVI Duration in Seconds"
-msgstr "AVI 再生時間(秒)"
-
-#: mymetatags.s_metatag_avi_framespersecond
-msgid "AVI Frames per Second"
-msgstr "AVI 秒当たりフレーム"
-
-#: mymetatags.s_metatag_avi_height
-msgid "AVI Height in Pixels"
-msgstr "AVI 高さ(ピクセル)"
-
-#: mymetatags.s_metatag_avi_totalframes
-msgid "AVI Total amount of Frames"
-msgstr "AVI 合計フレーム"
-
-#: mymetatags.s_metatag_avi_videocodec
-msgid "AVI Video Codec"
-msgstr "AVI ビデオコーデック"
-
-#: mymetatags.s_metatag_avi_width
-msgid "AVI Width in Pixels"
-msgstr "AVI 幅(ピクセル)"
-
-#: mymetatags.s_metatag_avi_widthandheight
-msgid "AVI Dimensions in WxH format"
-msgstr "AVI 寸法 (WxH 書式)"
-
-#: mymetatags.s_metatag_binarysign_description
-msgid "Binary File Information: Description"
-msgstr "バイナリファイル情報: 説明"
-
-#: mymetatags.s_metatag_binarysign_extension
-msgid "Binary File Signature: Extension"
-msgstr "バイナリファイル署名: 拡張子"
-
-#: mymetatags.s_metatag_date_now
-msgid "Current Date"
-msgstr "現在の日付"
-
-#: mymetatags.s_metatag_document_author
-msgid "Summary Information: Author"
-msgstr "概要情報: 作者"
-
-#: mymetatags.s_metatag_document_pagecount
-msgid "Summary Information: Number of Pages"
-msgstr "概要情報: ページ数"
-
-#: mymetatags.s_metatag_document_subject
-msgid "Summary Information: Subject"
-msgstr "概要情報: 件名"
-
-#: mymetatags.s_metatag_document_title
-msgid "Summary Information: Title"
-msgstr "概要情報: タイトル"
-
-#: mymetatags.s_metatag_email_datesent
-msgid "Email date sent in local time zone"
-msgstr "E-メール送信日時 (ローカル タイムゾーン)　"
-
-#: mymetatags.s_metatag_email_datesentoriginal
-msgid "Email date sent in original time zone"
-msgstr "E-メール送信日時 (UTC - オリジナル タイムゾーン)"
-
-#: mymetatags.s_metatag_email_datesentutc
-msgid "Email date sent in UTC time zone"
-msgstr "E-メール送信日時 (UTC - 協定世界時)"
-
-#: mymetatags.s_metatag_email_sender
-msgid "Email sender"
-msgstr "Email 送信者"
-
-#: mymetatags.s_metatag_email_subject
-msgid "Email subject"
-msgstr "Email 件名"
-
-#: mymetatags.s_metatag_exif_date
-msgid "EXIF Original Date"
-msgstr "EXIF オリジナル日時"
-
-#: mymetatags.s_metatag_exif_description
-msgid "EXIF Image Description"
-msgstr "EXIF イメージの説明"
-
-#: mymetatags.s_metatag_exif_make
-msgid "EXIF Camera Make"
-msgstr "EXIF カメラ・メーカー"
-
-#: mymetatags.s_metatag_exif_model
-msgid "EXIF Camera Model"
-msgstr "EXIF カメラモデル"
-
-#: mymetatags.s_metatag_file_basename
-msgid "Base name of the file"
-msgstr "ファイルの基準名"
-
-#: mymetatags.s_metatag_file_datecreated
-msgid "File created date"
-msgstr "ファイル作成日時"
-
-#: mymetatags.s_metatag_file_datemodified
-msgid "File last modified date"
-msgstr "ファイル最終更新日時"
-
-#: mymetatags.s_metatag_file_dosname
-msgid "Short name in the 8.3 format"
-msgstr "ショートネーム(8.3)"
-
-#: mymetatags.s_metatag_file_extension
-msgid "Extension of the file"
-msgstr "ファイルの拡張子"
-
-#: mymetatags.s_metatag_file_filename
-msgid "Full name of the file"
-msgstr "ファイルの完全名"
-
-#: mymetatags.s_metatag_file_filepath
-msgid "Full path of the file"
-msgstr "ファイルのフルパス"
-
-#: mymetatags.s_metatag_file_foldername
-msgid "Name of the parent folder"
-msgstr "親フォルダ名"
-
-#: mymetatags.s_metatag_file_sizebytes
-msgid "Size of file in bytes"
-msgstr "ファイルサイズ(バイト)"
-
-#: mymetatags.s_metatag_file_sizekb
-msgid "Size of file in KB"
-msgstr "ファイルサイズ(KB)"
-
-#: mymetatags.s_metatag_file_sizemb
-msgid "Size of file in MB"
-msgstr "ファイルのサイズ(MB)"
-
-#: mymetatags.s_metatag_flac_album
-msgid "FLAC Album"
-msgstr "FLAC - アルバム"
-
-#: mymetatags.s_metatag_flac_albumartist
-msgid "FLAC Album Artist"
-msgstr "FLAC - アルバム アーティスト"
-
-#: mymetatags.s_metatag_flac_artist
-msgid "FLAC Artist"
-msgstr "FLAC - アーティスト"
-
-#: mymetatags.s_metatag_flac_discno
-msgid "FLAC Disc Number"
-msgstr "FLAC - ディスク番号"
-
-#: mymetatags.s_metatag_flac_disctotal
-msgid "FLAC Total Discs"
-msgstr "FLAC - 総ディスク数"
-
-#: mymetatags.s_metatag_flac_genre
-msgid "FLAC Genre"
-msgstr "FLAC - ジャンル"
-
-#: mymetatags.s_metatag_flac_title
-msgid "FLAC Title"
-msgstr "FLAC - タイトル"
-
-#: mymetatags.s_metatag_flac_trackno
-msgid "FLAC Track Number"
-msgstr "FLAC - トラック番号"
-
-#: mymetatags.s_metatag_flac_tracktotal
-msgid "FLAC Total Tracks"
-msgstr "FLAC - 総トラック数"
-
-#: mymetatags.s_metatag_flac_year
-msgid "FLAC Year"
-msgstr "FLAC - 年"
-
-#: mymetatags.s_metatag_hash_crc32
-msgid "CRC32 Checksum of a file"
-msgstr "CRC32 チェックサム(ファイル)"
-
-#: mymetatags.s_metatag_hash_md5
-msgid "MD5 Hash of a file"
-msgstr "MD5 ハッシュ(ファイル)"
-
-#: mymetatags.s_metatag_hash_sha1
-msgid "SHA1 Hash of a file"
-msgstr "SHA1 ハッシュ(ファイル)"
-
-#: mymetatags.s_metatag_hash_sha256
-msgid "SHA256 Hash of a file"
-msgstr "SHA256 ハッシュ(ファイル)"
-
-#: mymetatags.s_metatag_hash_sha512
-msgid "SHA512 Hash of a file"
-msgstr "SHA512 ハッシュ(ファイル)"
-
-#: mymetatags.s_metatag_html_title
-msgid "Title tag extracted from an HTML file"
-msgstr "HTMLファイルから抽出したタイトルタグ"
-
-#: mymetatags.s_metatag_image_aspectratio
-msgid "Aspect Ratio of an image"
-msgstr "イメージのアスペクト比"
-
-#: mymetatags.s_metatag_image_height
-msgid "Height of an image in pixels"
-msgstr "イメージの高さ(ピクセル)"
-
-#: mymetatags.s_metatag_image_pixels
-msgid "Amount of pixels in the image"
-msgstr "イメージのピクセル量"
-
-#: mymetatags.s_metatag_image_width
-msgid "Width of an image in pixels"
-msgstr "イメージの幅(ピクセル)"
-
-#: mymetatags.s_metatag_image_widthandheight
-msgid "Width and Height of an image in pixels"
-msgstr "イメージの幅と高さ(ピクセル)"
-
-#: mymetatags.s_metatag_iptc_caption
-msgid "IPTC Image Caption"
-msgstr "IPTC イメージキャプション"
-
-#: mymetatags.s_metatag_iptc_city
-msgid "IPTC City"
-msgstr "IPTC 都市"
-
-#: mymetatags.s_metatag_iptc_headline
-msgid "IPTC Image Headline"
-msgstr "IPTC イメージ見出し"
-
-#: mymetatags.s_metatag_iptc_location
-msgid "IPTC Location Name"
-msgstr "IPTC 場所の名前"
-
-#: mymetatags.s_metatag_iptc_objectname
-msgid "IPTC Object Name"
-msgstr "IPTC 被写体名称"
-
-#: mymetatags.s_metatag_mp3_album
-msgctxt "mymetatags.s_metatag_mp3_album"
-msgid "MP3 Album"
-msgstr "MP3 - アルバム"
-
-#: mymetatags.s_metatag_mp3_albumartist
-msgctxt "mymetatags.s_metatag_mp3_albumartist"
-msgid "MP3 Album Artist"
-msgstr "MP3 - アルバム アーティスト"
-
-#: mymetatags.s_metatag_mp3_artist
-msgctxt "mymetatags.s_metatag_mp3_artist"
-msgid "MP3 Artist"
-msgstr "MP3 - アーティスト"
-
-#: mymetatags.s_metatag_mp3_diskno
-msgid "MP3 Disk Number"
-msgstr "MP3 - ディスク番号"
-
-#: mymetatags.s_metatag_mp3_disktotal
-msgid "MP3 Total Disks"
-msgstr "MP3 - 総ディスク数"
-
-#: mymetatags.s_metatag_mp3_genre
-msgctxt "mymetatags.s_metatag_mp3_genre"
-msgid "MP3 Genre"
-msgstr "MP3 - ジャンル"
-
-#: mymetatags.s_metatag_mp3_partofset
-msgctxt "mymetatags.s_metatag_mp3_partofset"
-msgid "MP3 Part Of Set"
-msgstr "MP3 - セットのパート"
-
-#: mymetatags.s_metatag_mp3_title
-msgctxt "mymetatags.s_metatag_mp3_title"
-msgid "MP3 Title"
-msgstr "MP3 - タイトル"
-
-#: mymetatags.s_metatag_mp3_trackno
-msgctxt "mymetatags.s_metatag_mp3_trackno"
-msgid "MP3 Track Number"
-msgstr "MP3 - トラック番号"
-
-#: mymetatags.s_metatag_mp3_tracktotal
-msgid "MP3 Total Tracks"
-msgstr "MP3 - 総トラック数"
-
-#: mymetatags.s_metatag_mp3_year
-msgctxt "mymetatags.s_metatag_mp3_year"
-msgid "MP3 Year"
-msgstr "MP3 - 年"
-
-#: mymetatags.s_metatag_outlook_body
-msgid "Outlook Message: Body Text"
-msgstr "Outlook メッセージ: 本文テキスト"
-
-#: mymetatags.s_metatag_outlook_dateheader
-msgid "Outlook Message: Sent date from email header in local time zone"
-msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (ローカル タイムゾーン)"
-
-#: mymetatags.s_metatag_outlook_dateheaderoriginal
-msgid "Outlook Message: Sent date from email header in original time zone"
-msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (オリジナル タイムゾーン)"
-
-#: mymetatags.s_metatag_outlook_dateheaderutc
-msgid "Outlook Message: Sent date from email header in UTC time zone"
-msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (UTC - 協定世界時)"
-
-#: mymetatags.s_metatag_outlook_datesent
-msgid "Outlook Message: Sent date in local time zone"
-msgstr "Outlook メッセージ: 送信日時 (ローカル タイムゾーン)"
-
-#: mymetatags.s_metatag_outlook_datesentutc
-msgid "Outlook Message: Sent date in UTC time zone"
-msgstr "Outlook メッセージ: 送信日時 (UTC - 協定世界時)"
-
-#: mymetatags.s_metatag_outlook_id
-msgid "Outlook Message: ID"
-msgstr "Outlook メッセージ: ID"
-
-#: mymetatags.s_metatag_outlook_sender
-msgid "Outlook Message: Sender"
-msgstr "Outlook メッセージ: 送信者"
-
-#: mymetatags.s_metatag_outlook_subject
-msgid "Outlook Message: Subject"
-msgstr "Outlook メッセージ: 件名"
-
-#: mymetatags.s_metatag_tiff_date
-msgid "TIFF Date"
-msgstr "TIFF 日時"
-
-#: mymetatags.s_metatag_tiff_description
-msgid "TIFF Description"
-msgstr "TIFF 説明"
-
-#: mymetatags.s_metatag_tiff_make
-msgid "TIFF Make"
-msgstr "TIFF メーカー"
-
-#: mymetatags.s_metatag_tiff_model
-msgid "TIFF Model"
-msgstr "TIFF モデル"
-
-#: mymetatags.s_metatag_versioninfo_comments
-msgid "Version Information: Comments"
-msgstr "バージョン情報: コメント"
-
-#: mymetatags.s_metatag_versioninfo_company
-msgid "Version Information: Company"
-msgstr "バージョン情報: 会社"
-
-#: mymetatags.s_metatag_versioninfo_copyright
-msgid "Version Information: Copyright"
-msgstr "バージョン情報: 著作権"
-
-#: mymetatags.s_metatag_versioninfo_description
-msgid "Version Information: Description"
-msgstr "バージョン情報: 説明"
-
-#: mymetatags.s_metatag_versioninfo_fileversion
-msgid "Version Information: File Version"
-msgstr "バージョン情報: ファイルバージョン"
-
-#: mymetatags.s_metatag_versioninfo_product
-msgid "Version Information: Product"
-msgstr "バージョン情報: 製品"
-
-#: mymetatags.s_metatag_versioninfo_productversion
-msgid "Version Information: Product Version"
-msgstr "バージョン情報: 製品バージョン"
-
-#: mymetatags.s_metatag_wma_album
-msgid "WMA Album"
-msgstr "WMA - アルバム"
-
-#: mymetatags.s_metatag_wma_albumartist
-msgid "WMA Album Artist"
-msgstr "WMA - アルバム アーティスト"
-
-#: mymetatags.s_metatag_wma_artist
-msgid "WMA Artist"
-msgstr "WMA - アーティスト"
-
-#: mymetatags.s_metatag_wma_diskno
-msgid "WMA Disk Number"
-msgstr "WMA - ディスク番号"
-
-#: mymetatags.s_metatag_wma_disktotal
-msgid "WMA Total Disks"
-msgstr "WMA - 総ディスク数"
-
-#: mymetatags.s_metatag_wma_genre
-msgid "WMA Genre"
-msgstr "WMA - ジャンル"
-
-#: mymetatags.s_metatag_wma_partofset
-msgid "WMA Part Of Set"
-msgstr "WMA - セットのパート"
-
-#: mymetatags.s_metatag_wma_title
-msgid "WMA Title"
-msgstr "WMA - タイトル"
-
-#: mymetatags.s_metatag_wma_trackno
-msgid "WMA Track Number"
-msgstr "WMA - トラック番号"
-
-#: mymetatags.s_metatag_wma_tracktotal
-msgid "WMA Total Tracks"
-msgstr "WMA - 合計トラック数"
-
-#: mymetatags.s_metatag_wma_year
-msgid "WMA Year"
-msgstr "WMA - 年"
-
-#: mymodules.ssizebytes
-msgid "bytes"
-msgstr "バイト"
-
-#: mymodules.ssizegigabyte
-msgid "GB"
-msgstr ""
-
-#: mymodules.ssizekilobyte
-msgid "KB"
-msgstr ""
-
-#: mymodules.ssizemegabyte
-msgid "MB"
-msgstr ""
-
-#: mymodules.ssizeterabyte
-msgid "TB"
-msgstr ""
-
-#: mypascalscript.spscompile
-msgid "Pascal Script Compile"
-msgstr "Pascal スクリプト・コンパイル"
-
-#: mypascalscript.spsexception
-msgid "Exception"
-msgstr "例外"
-
-#: mypascalscript.spsexecute
-msgid "Pascal Script Execute"
-msgstr "Pascal スクリプト・実行"
-
-#: mypascalscript.spsline
-msgid "Line"
-msgstr "行"
-
-#: mypascalscript.spsunknowncompileerror
-msgid "Unknown error (check units and libraries)"
-msgstr "不明なエラー(単位とライブラリの確認を)"
-
-#: mypresets.spresetfilenotfound
-msgid "Preset file not found:"
-msgstr "プリセットがみつかりません:"
-
-#: myregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "キーの削除に失敗: \"%s\""
-
-#: myrenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
-msgid "OK"
-msgstr ""
-
-#: myrenfiles.svalidationduplicated
-msgctxt "myrenfiles.svalidationduplicated"
-msgid "Duplicate in the list"
-msgstr "リスト内重複"
-
-#: myrenfiles.svalidationexceeds
-msgctxt "myrenfiles.svalidationexceeds"
-msgid "New path exceeds the length limit"
-msgstr "新しいパスが長さ制限を超えています"
-
-#: myrenfiles.svalidationexists
-msgctxt "myrenfiles.svalidationexists"
-msgid "Destination file already exists"
-msgstr "対象ファイルが既に存在します"
-
-#: myrenfiles.svalidationinvalid
-msgctxt "myrenfiles.svalidationinvalid"
-msgid "Contains invalid characters"
-msgstr "無効な文字が含まれています"
-
-#: myrenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr ""
-
-#: myrulesex.s_rules_after
-msgid "after"
-msgstr "変更後"
-
-#: myrulesex.s_rules_all
-msgid "all"
-msgstr "すべての"
-
-#: myrulesex.s_rules_all_characters_except
-msgid "all characters except"
-msgstr "すべての文字を除外"
-
-#: myrulesex.s_rules_all_lower_case
-msgid "All lower case"
-msgstr "すべて小文字"
-
-#: myrulesex.s_rules_all_upper_case
-msgid "All upper case"
-msgstr "すべて大文字"
-
-#: myrulesex.s_rules_and_pad_to_length
-msgid "and pad to length"
-msgstr "長さに合わせて埋める"
-
-#: myrulesex.s_rules_append
-msgid "append"
-msgstr "付加"
-
-#: myrulesex.s_rules_append_new_extension
-msgid "Append new extension"
-msgstr "新たな拡張子を付加"
-
-#: myrulesex.s_rules_as_prefix
-msgid "as Prefix"
-msgstr "を接頭語に追加"
-
-#: myrulesex.s_rules_as_suffix
-msgid "as Suffix"
-msgstr "を接尾語に追加"
-
-#: myrulesex.s_rules_at_position
-msgid "at Position"
-msgstr "位置"
-
-#: myrulesex.s_rules_before
-msgid "before"
-msgstr "変更前"
-
-#: myrulesex.s_rules_capitalize_and_preserve
-msgid "Capitalize and preserve"
-msgstr "大文字にして保持"
-
-#: myrulesex.s_rules_capitalize_every_word
-msgid "Capitalize every word"
-msgstr "単語毎に先頭を大文字"
-
-#: myrulesex.s_rules_case_sensitive
-msgid "case sensitive"
-msgstr "大文字小文字を区別"
-
-#: myrulesex.s_rules_change_extension_to
-msgid "Change extension to"
-msgstr "拡張子を変更"
-
-#: myrulesex.s_rules_characters
-msgid "characters"
-msgstr "文字"
-
-#: myrulesex.s_rules_delete
-msgctxt "myrulesex.s_rules_delete"
-msgid "Delete"
-msgstr "削除"
-
-#: myrulesex.s_rules_delete_current_name
-msgctxt "myrulesex.s_rules_delete_current_name"
-msgid "Delete current name"
-msgstr "現在の名前を削除"
-
-#: myrulesex.s_rules_delimiters
-msgid "delimiters"
-msgstr "区切り"
-
-#: myrulesex.s_rules_detect_using_binary_signature
-msgid "Detect using binary signature"
-msgstr "バイナリ署名を使用して検出"
-
-#: myrulesex.s_rules_everywhere
-msgid "everywhere"
-msgstr "あらゆる部分"
-
-#: myrulesex.s_rules_exact_pattern_of_delimiters
-msgid "exact pattern of delimiters"
-msgstr "区切りの正確なパターン"
-
-#: myrulesex.s_rules_extension_lower_case
-msgid "Extension lower case"
-msgstr "小文字拡張子"
-
-#: myrulesex.s_rules_extension_upper_case
-msgid "Extension upper case"
-msgstr "大文字拡張子"
-
-#: myrulesex.s_rules_files
-msgid "files"
-msgstr "ファイル"
-
-#: myrulesex.s_rules_files_to
-msgid "file(s) to"
-msgstr "ファイルへ"
-
-#: myrulesex.s_rules_files_with
-msgid "file(s) with"
-msgstr "ファイルで"
-
-#: myrulesex.s_rules_first
-msgid "first"
-msgstr "最初"
-
-#: myrulesex.s_rules_first_letter_capital
-msgctxt "myrulesex.s_rules_first_letter_capital"
-msgid "First letter capital"
-msgstr "先頭を大文字"
-
-#: myrulesex.s_rules_fix_spaces
-msgid "Fix spaces"
-msgstr "空白を修復"
-
-#: myrulesex.s_rules_force_case_fragments
-msgid "Force case fragments"
-msgstr "まばら箇所に強制適用"
-
-#: myrulesex.s_rules_from_delimiter
-msgid "from Delimiter"
-msgstr "区切り"
-
-#: myrulesex.s_rules_from_position
-msgid "from Position"
-msgstr "指定位置"
-
-#: myrulesex.s_rules_insert
-msgctxt "myrulesex.s_rules_insert"
-msgid "Insert"
-msgstr "挿入"
-
-#: myrulesex.s_rules_insert_space_in_front_of_capitals
-msgid "Insert space in front of capitals"
-msgstr "大文字の前に空白を挿入"
-
-#: myrulesex.s_rules_invert_case
-msgid "Invert case"
-msgstr "大小文字を反転"
-
-#: myrulesex.s_rules_last
-msgid "last"
-msgstr "最後"
-
-#: myrulesex.s_rules_leading
-msgctxt "myrulesex.s_rules_leading"
-msgid "leading"
-msgstr "先頭"
-
-#: myrulesex.s_rules_leave_delimiter
-msgid "leave delimiter"
-msgstr "区切りを残す"
-
-#: myrulesex.s_rules_new_names_are_not_defined
-msgid "new names are not defined"
-msgstr "新たな名前が定義されていません"
-
-#: myrulesex.s_rules_new_pattern
-msgid "New pattern"
-msgstr "新規パターン"
-
-#: myrulesex.s_rules_normalize_spaces
-msgid "Normalize spaces"
-msgstr "空白の正規化"
-
-#: myrulesex.s_rules_parts
-msgid "parts"
-msgstr "パート"
-
-#: myrulesex.s_rules_positions
-msgid "positions"
-msgstr "位置"
-
-#: myrulesex.s_rules_prefix_names_of
-msgid "Prefix names of"
-msgstr "名前の接頭語"
-
-#: myrulesex.s_rules_prepare_for_sharepoint
-msgid "Prepare for SharePoint"
-msgstr "共有ポイントを設ける"
-
-#: myrulesex.s_rules_remove
-msgctxt "myrulesex.s_rules_remove"
-msgid "Remove"
-msgstr "除去"
-
-#: myrulesex.s_rules_remove_extension
-msgid "Remove extension"
-msgstr "拡張子を除去"
-
-#: myrulesex.s_rules_repeat
-msgid "repeat"
-msgstr "繰り返し"
-
-#: myrulesex.s_rules_replace
-msgctxt "myrulesex.s_rules_replace"
-msgid "Replace"
-msgstr "置換"
-
-#: myrulesex.s_rules_replace_expression
-msgid "Replace expression"
-msgstr "式による置換"
-
-#: myrulesex.s_rules_replace_with_spaces
-msgid "Replace with spaces"
-msgstr "空白で置換"
-
-#: myrulesex.s_rules_replacing_current_name
-msgid "replacing current name"
-msgstr "現在の名前を置き換える"
-
-#: myrulesex.s_rules_reset_index_every
-msgid "reset index every"
-msgstr "常にインデックスをリセット"
-
-#: myrulesex.s_rules_reset_index_if_folder_changes
-msgid "reset index if folder changes"
-msgstr "フォルダ変更時はインデックスをリセット"
-
-#: myrulesex.s_rules_right_to_left
-msgid "right-to-left"
-msgstr "右から左"
-
-#: myrulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "連番インクリメンタル増加"
-
-#: myrulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "長さでランダム連番化"
-
-#: myrulesex.s_rules_set_names_of
-msgid "Set names of"
-msgstr "名前をセット"
-
-#: myrulesex.s_rules_skip_extension
-msgid "skip extension"
-msgstr "拡張子をスキップ"
-
-#: myrulesex.s_rules_skip_versions
-msgid "skip versions"
-msgstr "バージョン スキップ"
-
-#: myrulesex.s_rules_split_by
-msgid "Split by"
-msgstr "分割"
-
-#: myrulesex.s_rules_step
-msgid "step"
-msgstr "ステップ"
-
-#: myrulesex.s_rules_strip
-msgctxt "myrulesex.s_rules_strip"
-msgid "Strip"
-msgstr "ストリップ"
-
-#: myrulesex.s_rules_strip_out_contents_of_brackets
-msgid "Strip out contents of brackets"
-msgstr "括弧の中身を取り除く"
-
-#: myrulesex.s_rules_suffix_names_of
-msgid "Suffix names of"
-msgstr "名前の接尾語"
-
-#: myrulesex.s_rules_trailing
-msgctxt "myrulesex.s_rules_trailing"
-msgid "trailing"
-msgstr "末尾"
-
-#: myrulesex.s_rules_transliterate
-msgid "Transliterate"
-msgstr "変化規則"
-
-#: myrulesex.s_rules_try_unique
-msgid "try unique"
-msgstr "ユニークを試みる"
-
-#: myrulesex.s_rules_until_count_reaches
-msgid "until Count reaches"
-msgstr "から"
-
-#: myrulesex.s_rules_until_delimiter
-msgid "until Delimiter"
-msgstr "から区切りまで"
-
-#: myrulesex.s_rules_until_the_end
-msgid "until the End"
-msgstr "から最後まで"
-
-#: myrulesex.s_rules_using_wildcards
-msgid "using wildcards"
-msgstr "ワイルドカードを使用"
-
-#: myrulesex.s_rules_with
-msgid "with"
-msgstr "を"
-
-#: mystrings.msg_addfoldernotexist
-msgid ""
-"Selected folder does not exist!\n"
-"\n"
-"%s\n"
-msgstr ""
-"選択されたフォルダは存在しません!\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_addmetatagconfirm
-msgid ""
-"Meta tags are currently disabled.\n"
-"\n"
-"Do you want to enable them?\n"
-msgstr ""
-"メタタグのサポートが無効になっています!\n"
-"\n"
-"有効にしますか?\n"
-
-#: mystrings.msg_ask_open_quick_guide
-msgid "Would you like to open a Quick Guide?"
-msgstr "最初にクイックガイドを開きますか"
-
-#: mystrings.msg_browsefoldersstatus
-msgid "Folders: %d scanned, %d selected."
-msgstr "フォルダ: %d スキャン済, %d 選択済."
-
-#: mystrings.msg_browsegotofoldercaption
-msgctxt "mystrings.msg_browsegotofoldercaption"
-msgid "Go To Folder"
-msgstr "フォルダへ移動"
-
-#: mystrings.msg_browsegotofolderprompt
-msgid "Enter a full path to the folder that you want to go to:"
-msgstr "移動したいフォルダのフルパスを入力して下さい:"
-
-#: mystrings.msg_copyandcutfilesprompt
-msgid ""
-"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
-"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
-"\n"
-"Are you sure you want to proceed?\n"
-msgstr ""
-"コピー/切り取りの操作時に、後で使用する為に選択ファイルをクリップボードに保管\n"
-"備考: すべてのファイルが最初の位置に関係なく同じディレクトリに貼り付けられます!\n"
-"\n"
-"処理を続行しますか?\n"
-
-#: mystrings.msg_datetimeinvalidformat
-msgid "INVALID FORMAT"
-msgstr "無効な形式"
-
-#: mystrings.msg_fileexistsoverwriteprompt
-msgid ""
-"File already exists!\n"
-"Overwrite it?\n"
-msgstr ""
-"ファイルは既に存在します!\n"
-"上書きしますか?\n"
-
-#: mystrings.msg_filescountinfo
-msgid ""
-"Total: %d\n"
-"Marked: %d\n"
-"Selected: %d\n"
-msgstr ""
-"合計: %d\n"
-"マーク済: %d\n"
-"選択中: %d\n"
-
-#: mystrings.msg_fixcollidewarninglimit
-msgid ""
-"Do you want to fix conflicting new names for %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"計 %s 個のファイルで競合する新たな名前を修正しますか?\n"
-"\n"
-"この操作には数分かかるかもしれません...\n"
-
-#: mystrings.msg_gotolinecaption
-msgid "Go To Line"
-msgstr "指定行に移動"
-
-#: mystrings.msg_gotolineprompt
-msgid "Enter the line number:"
-msgstr "行番号を入力:"
-
-#: mystrings.msg_hinterrorcolumn
-msgid "Hint: You can check the details by enabling the \"Error\" column."
-msgstr "ヒント: ステート列 \"エラー\"アイコン項目を確認\""
-
-#: mystrings.msg_launching_first_time
-msgid "You are launching ReNamer for the first time."
-msgstr "あなたは、初めて ReNamer を起動しました"
-
-#: mystrings.msg_loadnewnamesresult
-msgid "%d new filename(s) out of %d in the list were changed!"
-msgstr "リスト内 %d の %d は新たなファイル名に変更されました!"
-
-#: mystrings.msg_nothingtorename
-msgid "Nothing to rename!"
-msgstr "リネーム対象がありません!"
-
-#: mystrings.msg_overwritefilewithnewname
-msgid ""
-"Original Path: %s\n"
-"New Path: %s\n"
-"\n"
-"New Name is already taken by another file, delete that file permanently?\n"
-msgstr ""
-"オリジナル名: %s\n"
-"新規名称: %s\n"
-"\n"
-"新規名称は既に別のファイルに使用されています..上書きしますか?\n"
-
-#: mystrings.msg_pascalscriptcompiledsuccesfully
-msgid "Compiled successfully!"
-msgstr "コンパイルに成功しました!"
-
-#: mystrings.msg_pascalscriptnoscripts
-msgid "No Saved Scripts were found!"
-msgstr "保存済みスクリプトがみつかりません!"
-
-#: mystrings.msg_pascalscriptsaveinvalid
-msgctxt "mystrings.msg_pascalscriptsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "使用出来ない名前です!"
-
-#: mystrings.msg_pascalscriptsavetext
-msgid "Enter a name for a script:"
-msgstr "スクリプトの名前を入力:"
-
-#: mystrings.msg_pascalscriptsavetitle
-msgid "Save Script"
-msgstr "スクリプトを保存"
-
-#: mystrings.msg_presetsaveincorrectname
-msgctxt "mystrings.msg_presetsaveincorrectname"
-msgid "Incorrect Name!"
-msgstr "使用出来ない名前です!"
-
-#: mystrings.msg_presetsmanagerdeletepresetprompt
-msgid "Delete \"%s\" preset?"
-msgstr "設定\"%s\"を削除しますか?"
-
-#: mystrings.msg_presetsmanagereditwarning
-msgid ""
-"You are about to edit Preset file(s) manualy!\n"
-"If you are not sure in what you're doing - press Cancel.\n"
-"\n"
-"Proceed with this action?\n"
-msgstr ""
-"あなたは設定ファイルを手動で編集しようとしています!\n"
-"この処理を中止する場合は - キャンセルを押して下さい..\n"
-"\n"
-"操作を続行しますか?\n"
-
-#: mystrings.msg_presetsmanagerfailedcopy
-msgid "Could not copy the \"%s\" preset!"
-msgstr "設定\"%s\"をコピー出来ません!"
-
-#: mystrings.msg_presetsmanagerfaileddelete
-msgid "Could not delete the \"%s\" preset!"
-msgstr "設定\"%s\"を削除出来ませんでした!"
-
-#: mystrings.msg_presetsmanagerfailedrename
-msgid "Could not rename the \"%s\" preset!"
-msgstr "設定\"%s\"をリネーム出来ません!"
-
-#: mystrings.msg_presetsmanagernewnamequerytext
-msgid "New Name:"
-msgstr "新規名称:"
-
-#: mystrings.msg_presetsmanagernewnamequerytitle
-msgid "Rename Preset"
-msgstr "リネーム設定"
-
-#: mystrings.msg_previewexception
-msgid ""
-"Preview process has been terminated due to a critical error:\n"
-"\n"
-"%s\n"
-msgstr ""
-"プロセスのプレビューは致命的なエラーの為に中断しました:\n"
-"\n"
-"%s\n"
-
-#: mystrings.msg_renamefailedfiles
-msgid "%d file(s) failed to rename!"
-msgstr "%d ファイルのリネームに失敗!"
-
-#: mystrings.msg_renamenewnamesareempty
-msgid ""
-"All New Names are empty!\n"
-"\n"
-"Hint: Configure the Rules and click Preview button.\n"
-msgstr ""
-"すべての新規名称が空です!\n"
-"\n"
-"ヒント: 設定は、規則とプレビューボタンをクリック\n"
-
-#: mystrings.msg_renameskipedfiles
-msgid "%d file(s) skipped."
-msgstr "%d ファイルをスキップしました"
-
-#: mystrings.msg_renamesuccessfulfiles
-msgid "%d file(s) successfully renamed."
-msgstr "%d ファイルのリネームに成功しました"
-
-#: mystrings.msg_rulecasedescription
-msgid "Use this rule to change the case of the filename."
-msgstr "この規則を使用して、ファイル名の大文字小文字を変更"
-
-#: mystrings.msg_rulecleanupdescription
-msgid "Use this rule to clean up the filename."
-msgstr "この規則を使用して、ファイル名をクリーンアップ"
-
-#: mystrings.msg_ruledeletedescription
-msgid "Use this rule to delete text from the filename."
-msgstr "この規則を使用して、ファイル名のテキストを削除"
-
-#: mystrings.msg_ruleextensiondescription
-msgid "Use this rule to change extension of the file."
-msgstr "この規則を使用して、ファイルの拡張子を変更"
-
-#: mystrings.msg_ruleinsertdescription
-msgid "Use this rule to insert text into the filename."
-msgstr "この規則を使用して、ファイル名にテキストを挿入"
-
-#: mystrings.msg_rulepascalscriptdescription
-msgid "Use this rule to script a user defined manipulations with filename."
-msgstr "ユーザ定義の複数ファイル名変換スクリプトにこの規則を使用する"
-
-#: mystrings.msg_rulerearrangedescription
-msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
-msgstr "この規則を使用して、ファイル名を分割、および新たなパターンで再配列"
-
-#: mystrings.msg_ruleregexdescription
-msgid "Use this rule to replace text in the filename using regular expressions."
-msgstr "この規則を使用して、ファイル名を正規表現で置換する"
-
-#: mystrings.msg_ruleremovedescription
-msgid "Use this rule to remove text from the filename."
-msgstr "この規則を使用して、ファイル名のテキストを除去"
-
-#: mystrings.msg_rulereplacedescription
-msgid "Use this rule to replace text in the filename."
-msgstr "この規則を使用して、ファイル名のテキストを置換"
-
-#: mystrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "この規則を使用してファイル名を連番化 (数字、またはランダム数)"
-
-#: mystrings.msg_rulestripdescription
-msgid "Use this rule to strip sets of characters from the filename."
-msgstr "この規則を使用して、ファイル名から指定文字セットを取り去る"
-
-#: mystrings.msg_ruletranslitdescription
-msgid "Use this rule to transliterate letters in the filename from one language into another."
-msgstr "この規則を使用して、ファイル名を別の言語に変換"
-
-#: mystrings.msg_ruleuserinputdescription
-msgid "Use this rule to assign names of files to the lines of text."
-msgstr "この規則を使用して、ファイル名をテキスト行に割り当てる"
-
-#: mystrings.msg_selectfolder
-msgid "Please select a folder:"
-msgstr "フォルダを選択:"
-
-#: mystrings.msg_shellactionwarninglimit
-msgid "Are you sure you want to execute shell action on %d files?"
-msgstr "本当に %d 個のファイルに対してシェル操作を実行しますか?"
-
-#: mystrings.msg_shell_execute_error
-msgid ""
-"Could not open the following file:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-msgstr ""
-"以下のファイルを開けませんでした:\n"
-"\n"
-"%s\n"
-"\n"
-"Error: %s (%d).\n"
-
-#: mystrings.msg_translitsaveinvalid
-msgctxt "mystrings.msg_translitsaveinvalid"
-msgid "Incorrect Name!"
-msgstr "使用出来ない名前です!"
-
-#: mystrings.msg_translitsavetext
-msgid "Enter a name for a translit:"
-msgstr "変化規則の名前を入力:"
-
-#: mystrings.msg_translitsavetitle
-msgid "Save Translit"
-msgstr "変化規則を保存"
-
-#: mystrings.msg_undoconfirmfiles
-msgid ""
-"Are you sure you want to undo renaming operation for %d file(s)?\n"
-"\n"
-"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
-msgstr ""
-"本当に %d 個のファイルに対するリネーム操作を元に戻しますか?\n"
-"\n"
-"ヒント: 列の\"古いパス\"を有効にするとアンドゥパスを確認できます\n"
-
-#: mystrings.msg_undoempty
-msgid "Nothing to undo!"
-msgstr "アンドゥがありません!"
-
-#: mystrings.msg_undoresult
-msgid ""
-"Undo operation results:\n"
-"\n"
-"%d out of %d file(s) restored successfully!\n"
-msgstr ""
-"アンドゥ操作の結果:\n"
-"\n"
-"%d から %d のファイルの復元に成功!\n"
-
-#: mystrings.msg_uninstallapplicationisrunning
-msgid ""
-"Seems that ReNamer is currently running.\n"
-"Please close it, before continuing...\n"
-msgstr ""
-"ReNamerは現在起動しています\n"
-"続行する前にそれを閉じてください..\n"
-
-#: mystrings.msg_validatedduplicatedfound
-msgid "%d of which have a duplicate in the list."
-msgstr "%d はリストで重複しています"
-
-#: mystrings.msg_validatedexceededfound
-msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%d は、Windows MAX_PATH 制限を越えています"
-
-#: mystrings.msg_validatedexistingfound
-msgid "%d of which conflict with an existing file."
-msgstr "%d には既に新しいファイルパスがあります"
-
-#: mystrings.msg_validatedinvalidfound
-msgid "%d of which contain invalid characters."
-msgstr "警告, 無効なファイル名 %d が見つかりました!"
-
-#: mystrings.msg_validatedsuccessfuly
-msgid "Successfully validated!"
-msgstr "有効化に成功しました!"
-
-#: mystrings.msg_validatewarninglimit
-msgid ""
-"Do you want to validate %s files?\n"
-"\n"
-"This operation may take several minutes...\n"
-msgstr ""
-"本当に %s 個のファイルを検証しますか?\n"
-"\n"
-"この操作には数分かかるかもしれません...\n"
-
-#: mystrings.msg_validationissuesdetected
-msgid "Validation has failed due to issues with %d file(s)."
-msgstr "%d 個のファイルに対する検証は失敗しました"
-
-#: mystrings.name_addrule
-msgctxt "mystrings.name_addrule"
-msgid "Add Rule"
-msgstr "規則の追加"
-
-#: mystrings.name_addrulestext
-msgctxt "mystrings.name_addrulestext"
-msgid "Click here to add a rule"
-msgstr "クリックで規則を追加"
-
-#: mystrings.name_addtorenamer
-msgid "Add to ReNamer"
-msgstr "ReNamerに追加"
-
-#: mystrings.name_analyzetextcursor
-msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
-msgstr "行 = %d, 位置 = %d, 右 = %d, 選択範囲 = %d"
-
-#: mystrings.name_browsescripts
-msgid "Browse Scripts..."
-msgstr "スクリプトを参照..."
-
-#: mystrings.name_browsetranslits
-msgid "Browse Translits..."
-msgstr "変化規則を参照..."
-
-#: mystrings.name_cancelsorting
-msgctxt "mystrings.name_cancelsorting"
-msgid "Cancel Sorting"
-msgstr "ソートをキャンセル"
-
-#: mystrings.name_dragfilestext
-msgctxt "mystrings.name_dragfilestext"
-msgid "Drag your files here"
-msgstr "ここにファイルをドラッグ"
-
-#: mystrings.name_editrule
-msgctxt "mystrings.name_editrule"
-msgid "Edit Rule"
-msgstr "規則を編集"
-
-#: mystrings.name_filescounter
-msgid "%s files"
-msgstr "%s ファイル"
-
-#: mystrings.name_filescounterwithsize
-msgid "%s files (%s)"
-msgstr "%s ファイル (%s)"
-
-#: mystrings.name_filters
-msgctxt "mystrings.name_filters"
-msgid "Filters"
-msgstr "フィルター"
-
-#: mystrings.name_loadwithpreset
-msgctxt "mystrings.name_loadwithpreset"
-msgid "Load with Preset"
-msgstr "プリセットの読み込み"
-
-#: mystrings.name_markbymaskcaption
-msgctxt "mystrings.name_markbymaskcaption"
-msgid "Mark by Mask"
-msgstr "マスクでマーク"
-
-#: mystrings.name_markbymaskprompt
-msgctxt "mystrings.name_markbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"複数のマスクは、セミコロンで区切る  使用例: *.jpg;*.doc\n"
-"\n"
-"マスク:\n"
-
-#: mystrings.name_overwrite
-msgid "Overwrite"
-msgstr "上書"
-
-#: mystrings.name_rename
-msgctxt "mystrings.name_rename"
-msgid "Rename"
-msgstr "リネーム"
-
-#: mystrings.name_renamewithpreset
-msgctxt "mystrings.name_renamewithpreset"
-msgid "Rename with Preset"
-msgstr "Rename のプリセット"
-
-#: mystrings.name_rule_case
-msgid "Case"
-msgstr "大文字小文字"
-
-#: mystrings.name_rule_cleanup
-msgid "CleanUp"
-msgstr "クリーンアップ"
-
-#: mystrings.name_rule_delete
-msgctxt "mystrings.name_rule_delete"
-msgid "Delete"
-msgstr "削除"
-
-#: mystrings.name_rule_extension
-msgctxt "mystrings.name_rule_extension"
-msgid "Extension"
-msgstr "拡張子"
-
-#: mystrings.name_rule_insert
-msgctxt "mystrings.name_rule_insert"
-msgid "Insert"
-msgstr "挿入"
-
-#: mystrings.name_rule_pascalscript
-msgid "PascalScript"
-msgstr "パスカル・スクリプト"
-
-#: mystrings.name_rule_rearrange
-msgid "Rearrange"
-msgstr "配列の変更"
-
-#: mystrings.name_rule_regex
-msgid "RegEx"
-msgstr "正規表現"
-
-#: mystrings.name_rule_remove
-msgctxt "mystrings.name_rule_remove"
-msgid "Remove"
-msgstr "除去"
-
-#: mystrings.name_rule_replace
-msgctxt "mystrings.name_rule_replace"
-msgid "Replace"
-msgstr "置換"
-
-#: mystrings.name_rule_serialize
-msgid "Serialize"
-msgstr "連番"
-
-#: mystrings.name_rule_strip
-msgctxt "mystrings.name_rule_strip"
-msgid "Strip"
-msgstr "ストリップ"
-
-#: mystrings.name_rule_translit
-msgid "Translit"
-msgstr "変化規則"
-
-#: mystrings.name_rule_userinput
-msgid "UserInput"
-msgstr "ユーザ入力"
-
-#: mystrings.name_saverule
-msgid "Save Rule"
-msgstr "規則を保存"
-
-#: mystrings.name_savescript
-msgid "Save Script..."
-msgstr "スクリプトを保存..."
-
-#: mystrings.name_savetranslit
-msgid "Save Translit..."
-msgstr "変化規則を保存..."
-
-#: mystrings.name_selectbyextensioncaption
-msgctxt "mystrings.name_selectbyextensioncaption"
-msgid "Select by Extension"
-msgstr "拡張子で選択"
-
-#: mystrings.name_selectbyextensionprompt
-msgid ""
-"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
-"\n"
-"Extensions (without dots):\n"
-msgstr ""
-"複数の拡張子はセミコロン区切りで入力 使用例: jpg;doc\n"
-"\n"
-"(ドットなし):\n"
-
-#: mystrings.name_selectbyfilenamelengthcaption
-msgid "Select by Filename Length"
-msgstr "ファイル名長さで選択"
-
-#: mystrings.name_selectbyfilenamelengthprompt
-msgid "More than N characters:"
-msgstr "N 文字以上"
-
-#: mystrings.name_selectbymaskcaption
-msgctxt "mystrings.name_selectbymaskcaption"
-msgid "Select by Mask"
-msgstr "マスクで選択"
-
-#: mystrings.name_selectbymaskprompt
-msgctxt "mystrings.name_selectbymaskprompt"
-msgid ""
-"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
-"\n"
-"Masks:\n"
-msgstr ""
-"複数のマスクはセミコロン区切りで入力  使用例: *.jpg;*.doc\n"
-"\n"
-"マスク:\n"
-
-#: mystrings.name_undo
-msgid "Undo"
-msgstr "元に戻す&"
-
-#: mystrings.name_undofiles
-msgid "Undo %d file(s)"
-msgstr "%d 個のファイルを元に戻す"
-
-#: mystrings.sfiltersallfiles
-msgid "All files"
-msgstr "すべてのファイル"
-
-#: mystrings.sfiltersanyfile
-msgid "Any file"
-msgstr "あらゆるファイル"
-
-#: mystrings.sfiltersarchives
-msgid "Archives"
-msgstr "アーカイブ"
-
-#: mystrings.sfiltersbatchfile
-msgid "Batch file"
-msgstr "一括ファイル"
-
-#: mystrings.sfilterscommaseparated
-msgid "comma separated"
-msgstr "カンマ区切り"
-
-#: mystrings.sfiltersdocuments
-msgid "Documents"
-msgstr "ドキュメント"
-
-#: mystrings.sfiltersmusic
-msgid "Music"
-msgstr "ミュージック"
-
-#: mystrings.sfilterspictures
-msgid "Pictures"
-msgstr "ピクチャ"
-
-#: mystrings.sfiltersplaylist
-msgid "Play list"
-msgstr "プレイリスト"
-
-#: mystrings.sfilterstabseparated
-msgid "tab separated"
-msgstr "タブ区切り"
-
-#: mystrings.sfilterstextfiles
-msgid "Text files"
-msgstr "テキストファイル"
-
-#: mystrings.sfilterstextlist
-msgid "Text list"
-msgstr "テキスト一覧"
-
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
 msgstr " コピー"
@@ -1546,7 +85,7 @@ msgstr "ここにコードを追加"
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
-msgstr ""
+msgstr "%s を押してコード補完"
 
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
@@ -1614,7 +153,7 @@ msgstr "テキスト入力の先頭"
 
 #: ruleregexframe.sregexwordboundary
 msgid "Word boundary"
-msgstr "単語バウンダリ"
+msgstr "単語の境界"
 
 #: ruleregexframe.sregexwordchars
 msgid "Any single alphanumeric character (including an underscore)"
@@ -2172,11 +711,17 @@ msgstr "上に移動"
 msgid "Mark All"
 msgstr "すべてマーク"
 
+#: tform_main.menuitem_rulesselectall.caption
+msgctxt "tform_main.menuitem_rulesselectall.caption"
+msgid "Select All"
+msgstr "すべて選択"
+
 #: tform_main.menuitem_rulesunmarkall.caption
-msgid "UnMark All"
+msgid "Unmark All"
 msgstr "すべてマーク解除"
 
 #: tform_main.menuitem_selectall.caption
+msgctxt "tform_main.menuitem_selectall.caption"
 msgid "Select All"
 msgstr "すべて選択"
 
@@ -2232,7 +777,7 @@ msgid "Shell"
 msgstr "シェル"
 
 #: tform_main.menuitem_unmark.caption
-msgid "UnMark"
+msgid "Unmark"
 msgstr "マーク解除"
 
 #: tform_main.mi_addpresets.caption
@@ -3279,6 +1824,45 @@ msgctxt "TFRAME_RULEREARRANGE.SB_INSERTMETATAG.HINT"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "メタ タグを挿入します (Ctrl+Ins)"
 
+#: tframe_rulereformatdate.checkbox_skipextension.caption
+msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
+msgid "Use custom long months:"
+msgstr "カスタム 長い月 を使用:"
+
+#: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
+msgid "Use custom short months:"
+msgstr "カスタム 短い月 を使用:"
+
+#: tframe_rulereformatdate.checkbox_wholewordsonly.caption
+msgid "Match as whole words only"
+msgstr "単語全体の一致のみ"
+
+#: tframe_rulereformatdate.label_inputformats.caption
+msgid "Find date/time formats:"
+msgstr "日付/時刻書式の検索"
+
+#: tframe_rulereformatdate.label_outputformat.caption
+msgid "Convert to date/time format:"
+msgstr "日付/時刻書式の変換:"
+
+#: tframe_rulereformatdate.menuitem_addseparator.caption
+msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
+msgid "Separate multiple items"
+msgstr "アイテムが複数の時は区切って下さい"
+
+#: tframe_rulereformatdate.menuitem_break1.caption
+msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
+msgid "-"
+msgstr ""
+
+#: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
+msgid "Date/time format reference (online)"
+msgstr "日付/時刻書式を参照 (オンライン)"
+
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
 msgstr "大文字小文字を区別"
@@ -3329,10 +1913,10 @@ msgstr "拡張子をスキップ"
 msgid "Interpret symbols '?', '*', '[', ']' as wildcards?"
 msgstr "文字 ' ? ', ' * ', ' [ ', ' ] ' をワイルドカードに使用しますか?"
 
-#: tframe_ruleremove.label1.caption
-msgctxt "tframe_ruleremove.label1.caption"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "(備考: この箇所ではパラメータは無視されます!)"
+#: tframe_ruleremove.checkbox_wholewordsonly.caption
+msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "単語のみ"
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -3377,10 +1961,10 @@ msgstr "拡張子をスキップ"
 msgid "Interpret '?', '*', '[', ']' as wildcards and '$n' as backreferences?"
 msgstr "検索フィールドの文字 ' ? ', ' * ', ' [ ', ' ] ' をワイルドカードとして解釈"
 
-#: tframe_rulereplace.label1.caption
-msgctxt "TFRAME_RULEREPLACE.LABEL1.CAPTION"
-msgid "Note: 'Occurrences' parameter will be ignored!"
-msgstr "(備考: この箇所ではパラメータは無視されます!)"
+#: tframe_rulereplace.checkbox_wholewordsonly.caption
+msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
+msgid "Whole words only"
+msgstr "単語のみ"
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -3628,6 +2212,537 @@ msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "設定"
 
+#: uhash.sincorrectdigestsize
+msgid "Incorrect digest size for %s"
+msgstr "%s に不適切なダイジェストサイズ"
+
+#: uhash.sinvaliddataorbuffersize
+msgid "Invalid data or buffer size"
+msgstr "無効なデータ、またはバッファサイズ"
+
+#: uhash.snotsupportedhashtype
+msgid "Not supported hash type: %s"
+msgstr "未対応のハッシュ形式: %s"
+
+#: umetatags.s_metatag_audio_duration
+msgid "Duration of an Audio file"
+msgstr "オーディオファイル再生時間"
+
+#: umetatags.s_metatag_audio_durationmins
+msgid "Duration of an Audio file in minutes"
+msgstr "オーディオファイル再生時間(分)"
+
+#: umetatags.s_metatag_audio_durationsecs
+msgid "Duration of an Audio file in seconds"
+msgstr "オーディオファイル再生時間(秒)"
+
+#: umetatags.s_metatag_avi_duration
+msgid "AVI Duration in H:M:S format"
+msgstr "AVI 再生時間 H:M:S 書式"
+
+#: umetatags.s_metatag_avi_durationmins
+msgid "AVI Duration in Minutes"
+msgstr "AVI 再生時間(分)"
+
+#: umetatags.s_metatag_avi_durationsecs
+msgid "AVI Duration in Seconds"
+msgstr "AVI 再生時間(秒)"
+
+#: umetatags.s_metatag_avi_framespersecond
+msgid "AVI Frames per Second"
+msgstr "AVI 秒当たりフレーム"
+
+#: umetatags.s_metatag_avi_height
+msgid "AVI Height in Pixels"
+msgstr "AVI 高さ(ピクセル)"
+
+#: umetatags.s_metatag_avi_totalframes
+msgid "AVI Total amount of Frames"
+msgstr "AVI 合計フレーム"
+
+#: umetatags.s_metatag_avi_videocodec
+msgid "AVI Video Codec"
+msgstr "AVI ビデオコーデック"
+
+#: umetatags.s_metatag_avi_width
+msgid "AVI Width in Pixels"
+msgstr "AVI 幅(ピクセル)"
+
+#: umetatags.s_metatag_avi_widthandheight
+msgid "AVI Dimensions in WxH format"
+msgstr "AVI 寸法 (WxH 書式)"
+
+#: umetatags.s_metatag_binarysign_description
+msgid "Binary File Information: Description"
+msgstr "バイナリファイル情報: 説明"
+
+#: umetatags.s_metatag_binarysign_extension
+msgid "Binary File Signature: Extension"
+msgstr "バイナリファイル署名: 拡張子"
+
+#: umetatags.s_metatag_date_now
+msgid "Current Date"
+msgstr "現在の日付"
+
+#: umetatags.s_metatag_document_author
+msgid "Summary Information: Author"
+msgstr "概要情報: 作者"
+
+#: umetatags.s_metatag_document_pagecount
+msgid "Summary Information: Number of Pages"
+msgstr "概要情報: ページ数"
+
+#: umetatags.s_metatag_document_subject
+msgid "Summary Information: Subject"
+msgstr "概要情報: 件名"
+
+#: umetatags.s_metatag_document_title
+msgid "Summary Information: Title"
+msgstr "概要情報: タイトル"
+
+#: umetatags.s_metatag_email_datesent
+msgid "Email date sent in local time zone"
+msgstr "E-メール送信日時 (ローカル タイムゾーン)　"
+
+#: umetatags.s_metatag_email_datesentoriginal
+msgid "Email date sent in original time zone"
+msgstr "E-メール送信日時 (UTC - オリジナル タイムゾーン)"
+
+#: umetatags.s_metatag_email_datesentutc
+msgid "Email date sent in UTC time zone"
+msgstr "E-メール送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_email_sender
+msgid "Email sender"
+msgstr "Email 送信者"
+
+#: umetatags.s_metatag_email_subject
+msgid "Email subject"
+msgstr "Email 件名"
+
+#: umetatags.s_metatag_exif_date
+msgid "EXIF Original Date"
+msgstr "EXIF オリジナル日時"
+
+#: umetatags.s_metatag_exif_description
+msgid "EXIF Image Description"
+msgstr "EXIF イメージの説明"
+
+#: umetatags.s_metatag_exif_make
+msgid "EXIF Camera Make"
+msgstr "EXIF カメラ・メーカー"
+
+#: umetatags.s_metatag_exif_model
+msgid "EXIF Camera Model"
+msgstr "EXIF カメラモデル"
+
+#: umetatags.s_metatag_file_basename
+msgid "Base name of the file"
+msgstr "ファイルの基準名"
+
+#: umetatags.s_metatag_file_datecreated
+msgid "File created date"
+msgstr "ファイル作成日時"
+
+#: umetatags.s_metatag_file_datemodified
+msgid "File last modified date"
+msgstr "ファイル最終更新日時"
+
+#: umetatags.s_metatag_file_dosname
+msgid "Short name in the 8.3 format"
+msgstr "ショートネーム(8.3)"
+
+#: umetatags.s_metatag_file_extension
+msgid "Extension of the file"
+msgstr "ファイルの拡張子"
+
+#: umetatags.s_metatag_file_filename
+msgid "Full name of the file"
+msgstr "ファイルの完全名"
+
+#: umetatags.s_metatag_file_filepath
+msgid "Full path of the file"
+msgstr "ファイルのフルパス"
+
+#: umetatags.s_metatag_file_foldername
+msgid "Name of the parent folder"
+msgstr "親フォルダ名"
+
+#: umetatags.s_metatag_file_sizebytes
+msgid "Size of file in bytes"
+msgstr "ファイルサイズ(バイト)"
+
+#: umetatags.s_metatag_file_sizekb
+msgid "Size of file in KB"
+msgstr "ファイルサイズ(KB)"
+
+#: umetatags.s_metatag_file_sizemb
+msgid "Size of file in MB"
+msgstr "ファイルのサイズ(MB)"
+
+#: umetatags.s_metatag_flac_album
+msgid "FLAC Album"
+msgstr "FLAC - アルバム"
+
+#: umetatags.s_metatag_flac_albumartist
+msgid "FLAC Album Artist"
+msgstr "FLAC - アルバム アーティスト"
+
+#: umetatags.s_metatag_flac_artist
+msgid "FLAC Artist"
+msgstr "FLAC - アーティスト"
+
+#: umetatags.s_metatag_flac_discno
+msgid "FLAC Disc Number"
+msgstr "FLAC - ディスク番号"
+
+#: umetatags.s_metatag_flac_disctotal
+msgid "FLAC Total Discs"
+msgstr "FLAC - 総ディスク数"
+
+#: umetatags.s_metatag_flac_genre
+msgid "FLAC Genre"
+msgstr "FLAC - ジャンル"
+
+#: umetatags.s_metatag_flac_title
+msgid "FLAC Title"
+msgstr "FLAC - タイトル"
+
+#: umetatags.s_metatag_flac_trackno
+msgid "FLAC Track Number"
+msgstr "FLAC - トラック番号"
+
+#: umetatags.s_metatag_flac_tracktotal
+msgid "FLAC Total Tracks"
+msgstr "FLAC - 総トラック数"
+
+#: umetatags.s_metatag_flac_year
+msgid "FLAC Year"
+msgstr "FLAC - 年"
+
+#: umetatags.s_metatag_hash_crc32
+msgid "CRC32 Checksum of a file"
+msgstr "CRC32 チェックサム(ファイル)"
+
+#: umetatags.s_metatag_hash_md5
+msgid "MD5 Hash of a file"
+msgstr "MD5 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha1
+msgid "SHA1 Hash of a file"
+msgstr "SHA1 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha256
+msgid "SHA256 Hash of a file"
+msgstr "SHA256 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_hash_sha512
+msgid "SHA512 Hash of a file"
+msgstr "SHA512 ハッシュ(ファイル)"
+
+#: umetatags.s_metatag_html_title
+msgid "Title tag extracted from an HTML file"
+msgstr "HTMLファイルから抽出したタイトルタグ"
+
+#: umetatags.s_metatag_image_aspectratio
+msgid "Aspect Ratio of an image"
+msgstr "イメージのアスペクト比"
+
+#: umetatags.s_metatag_image_height
+msgid "Height of an image in pixels"
+msgstr "イメージの高さ(ピクセル)"
+
+#: umetatags.s_metatag_image_pixels
+msgid "Amount of pixels in the image"
+msgstr "イメージのピクセル量"
+
+#: umetatags.s_metatag_image_width
+msgid "Width of an image in pixels"
+msgstr "イメージの幅(ピクセル)"
+
+#: umetatags.s_metatag_image_widthandheight
+msgid "Width and Height of an image in pixels"
+msgstr "イメージの幅と高さ(ピクセル)"
+
+#: umetatags.s_metatag_iptc_caption
+msgid "IPTC Image Caption"
+msgstr "IPTC イメージキャプション"
+
+#: umetatags.s_metatag_iptc_city
+msgid "IPTC City"
+msgstr "IPTC 都市"
+
+#: umetatags.s_metatag_iptc_headline
+msgid "IPTC Image Headline"
+msgstr "IPTC イメージ見出し"
+
+#: umetatags.s_metatag_iptc_location
+msgid "IPTC Location Name"
+msgstr "IPTC 場所の名前"
+
+#: umetatags.s_metatag_iptc_objectname
+msgid "IPTC Object Name"
+msgstr "IPTC 被写体名称"
+
+#: umetatags.s_metatag_mp3_album
+msgctxt "mymetatags.s_metatag_mp3_album"
+msgid "MP3 Album"
+msgstr "MP3 - アルバム"
+
+#: umetatags.s_metatag_mp3_albumartist
+msgctxt "mymetatags.s_metatag_mp3_albumartist"
+msgid "MP3 Album Artist"
+msgstr "MP3 - アルバム アーティスト"
+
+#: umetatags.s_metatag_mp3_artist
+msgctxt "mymetatags.s_metatag_mp3_artist"
+msgid "MP3 Artist"
+msgstr "MP3 - アーティスト"
+
+#: umetatags.s_metatag_mp3_discno
+msgid "MP3 Disc Number"
+msgstr "MP3 - ディスク番号"
+
+#: umetatags.s_metatag_mp3_disctotal
+msgid "MP3 Total Discs"
+msgstr "MP3 - 総ディスク数"
+
+#: umetatags.s_metatag_mp3_genre
+msgctxt "mymetatags.s_metatag_mp3_genre"
+msgid "MP3 Genre"
+msgstr "MP3 - ジャンル"
+
+#: umetatags.s_metatag_mp3_title
+msgctxt "mymetatags.s_metatag_mp3_title"
+msgid "MP3 Title"
+msgstr "MP3 - タイトル"
+
+#: umetatags.s_metatag_mp3_trackno
+msgctxt "mymetatags.s_metatag_mp3_trackno"
+msgid "MP3 Track Number"
+msgstr "MP3 - トラック番号"
+
+#: umetatags.s_metatag_mp3_tracktotal
+msgid "MP3 Total Tracks"
+msgstr "MP3 - 総トラック数"
+
+#: umetatags.s_metatag_mp3_year
+msgctxt "mymetatags.s_metatag_mp3_year"
+msgid "MP3 Year"
+msgstr "MP3 - 年"
+
+#: umetatags.s_metatag_outlook_body
+msgid "Outlook Message: Body Text"
+msgstr "Outlook メッセージ: 本文テキスト"
+
+#: umetatags.s_metatag_outlook_dateheader
+msgid "Outlook Message: Sent date from email header in local time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_dateheaderoriginal
+msgid "Outlook Message: Sent date from email header in original time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (オリジナル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_dateheaderutc
+msgid "Outlook Message: Sent date from email header in UTC time zone"
+msgstr "Outlook メッセージ: E-メール ヘッダから送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_outlook_datesent
+msgid "Outlook Message: Sent date in local time zone"
+msgstr "Outlook メッセージ: 送信日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_outlook_datesentutc
+msgid "Outlook Message: Sent date in UTC time zone"
+msgstr "Outlook メッセージ: 送信日時 (UTC - 協定世界時)"
+
+#: umetatags.s_metatag_outlook_id
+msgid "Outlook Message: ID"
+msgstr "Outlook メッセージ: ID"
+
+#: umetatags.s_metatag_outlook_sender
+msgid "Outlook Message: Sender"
+msgstr "Outlook メッセージ: 送信者"
+
+#: umetatags.s_metatag_outlook_subject
+msgid "Outlook Message: Subject"
+msgstr "Outlook メッセージ: 件名"
+
+#: umetatags.s_metatag_tiff_date
+msgid "TIFF Date"
+msgstr "TIFF 日時"
+
+#: umetatags.s_metatag_tiff_description
+msgid "TIFF Description"
+msgstr "TIFF 説明"
+
+#: umetatags.s_metatag_tiff_make
+msgid "TIFF Make"
+msgstr "TIFF メーカー"
+
+#: umetatags.s_metatag_tiff_model
+msgid "TIFF Model"
+msgstr "TIFF モデル"
+
+#: umetatags.s_metatag_torrent_announce
+msgid "Torrent: Announce URL"
+msgstr "Torrent: 公開 URL"
+
+#: umetatags.s_metatag_torrent_comment
+msgid "Torrent: Comment"
+msgstr "Torrent: コメント"
+
+#: umetatags.s_metatag_torrent_countfiles
+msgid "Torrent: Number of files"
+msgstr "Torrent: ファイル数"
+
+#: umetatags.s_metatag_torrent_creationdatelocal
+msgid "Torrent: Creation date in local time zone"
+msgstr "Torrent: 作成日時 (ローカル タイムゾーン)"
+
+#: umetatags.s_metatag_torrent_creationdateutc
+msgid "Torrent: Creation date in UTC time zone"
+msgstr "Torrent: 作成日時 (UTC タイムゾーン)"
+
+#: umetatags.s_metatag_torrent_hash
+msgid "Torrent: Hash"
+msgstr "Torrent: ハッシュ"
+
+#: umetatags.s_metatag_torrent_name
+msgid "Torrent: Name"
+msgstr "Torrent: 名前"
+
+#: umetatags.s_metatag_torrent_publisher
+msgid "Torrent: Publisher"
+msgstr "Torrent: 発行元"
+
+#: umetatags.s_metatag_torrent_totalsizebytes
+msgid "Torrent: Total size in bytes"
+msgstr "Torrent: 合計サイズ (バイト)"
+
+#: umetatags.s_metatag_torrent_totalsizegb
+msgid "Torrent: Total size in GB"
+msgstr "Torrent: 合計サイズ (GB)"
+
+#: umetatags.s_metatag_torrent_totalsizekb
+msgid "Torrent: Total size in KB"
+msgstr "Torrent: 合計サイズ (KB)"
+
+#: umetatags.s_metatag_torrent_totalsizemb
+msgid "Torrent: Total size in MB"
+msgstr "Torrent: 合計サイズ (MB)"
+
+#: umetatags.s_metatag_versioninfo_comments
+msgid "Version Information: Comments"
+msgstr "バージョン情報: コメント"
+
+#: umetatags.s_metatag_versioninfo_company
+msgid "Version Information: Company"
+msgstr "バージョン情報: 会社"
+
+#: umetatags.s_metatag_versioninfo_copyright
+msgid "Version Information: Copyright"
+msgstr "バージョン情報: 著作権"
+
+#: umetatags.s_metatag_versioninfo_description
+msgid "Version Information: Description"
+msgstr "バージョン情報: 説明"
+
+#: umetatags.s_metatag_versioninfo_fileversion
+msgid "Version Information: File Version"
+msgstr "バージョン情報: ファイルバージョン"
+
+#: umetatags.s_metatag_versioninfo_product
+msgid "Version Information: Product"
+msgstr "バージョン情報: 製品"
+
+#: umetatags.s_metatag_versioninfo_productversion
+msgid "Version Information: Product Version"
+msgstr "バージョン情報: 製品バージョン"
+
+#: umetatags.s_metatag_wma_album
+msgid "WMA Album"
+msgstr "WMA - アルバム"
+
+#: umetatags.s_metatag_wma_albumartist
+msgid "WMA Album Artist"
+msgstr "WMA - アルバム アーティスト"
+
+#: umetatags.s_metatag_wma_artist
+msgid "WMA Artist"
+msgstr "WMA - アーティスト"
+
+#: umetatags.s_metatag_wma_discno
+msgid "WMA Disc Number"
+msgstr "WMA - ディスク番号"
+
+#: umetatags.s_metatag_wma_disctotal
+msgid "WMA Total Discs"
+msgstr "WMA - 総ディスク数"
+
+#: umetatags.s_metatag_wma_genre
+msgid "WMA Genre"
+msgstr "WMA - ジャンル"
+
+#: umetatags.s_metatag_wma_title
+msgid "WMA Title"
+msgstr "WMA - タイトル"
+
+#: umetatags.s_metatag_wma_trackno
+msgid "WMA Track Number"
+msgstr "WMA - トラック番号"
+
+#: umetatags.s_metatag_wma_tracktotal
+msgid "WMA Total Tracks"
+msgstr "WMA - 合計トラック数"
+
+#: umetatags.s_metatag_wma_year
+msgid "WMA Year"
+msgstr "WMA - 年"
+
+#: umodules.ssizebytes
+msgid "bytes"
+msgstr "バイト"
+
+#: umodules.ssizegigabyte
+msgid "GB"
+msgstr ""
+
+#: umodules.ssizekilobyte
+msgid "KB"
+msgstr ""
+
+#: umodules.ssizemegabyte
+msgid "MB"
+msgstr ""
+
+#: umodules.ssizeterabyte
+msgid "TB"
+msgstr ""
+
+#: upascalscript.spscompile
+msgid "Pascal Script Compile"
+msgstr "Pascal スクリプト・コンパイル"
+
+#: upascalscript.spsexception
+msgid "Exception"
+msgstr "例外"
+
+#: upascalscript.spsexecute
+msgid "Pascal Script Execute"
+msgstr "Pascal スクリプト・実行"
+
+#: upascalscript.spsline
+msgid "Line"
+msgstr "行"
+
+#: upascalscript.spsunknowncompileerror
+msgid "Unknown error (check units and libraries)"
+msgstr "不明なエラー(単位とライブラリの確認を)"
+
+#: upresets.spresetfilenotfound
+msgid "Preset file not found:"
+msgstr "プリセットがみつかりません:"
+
 #: uregistration.s_cannot_create_license_dir
 msgctxt "uregistration.s_cannot_create_license_dir"
 msgid "Not able to create a directory for a license file."
@@ -3738,4 +2853,1007 @@ msgstr "登録が正常に完了しました!"
 msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "アップグレードの有効期限"
+
+#: uregistry.sregistrydeletekeyfailed
+msgid "Failed to delete key: \"%s\""
+msgstr "キーの削除に失敗: \"%s\""
+
+#: urenfiles.srenameerrorok
+msgctxt "myrenfiles.srenameerrorok"
+msgid "OK"
+msgstr ""
+
+#: urenfiles.svalidationduplicated
+msgctxt "myrenfiles.svalidationduplicated"
+msgid "Duplicate in the list"
+msgstr "リスト内重複"
+
+#: urenfiles.svalidationexceeds
+msgctxt "myrenfiles.svalidationexceeds"
+msgid "New path exceeds the length limit"
+msgstr "新しいパスが長さ制限を超えています"
+
+#: urenfiles.svalidationexists
+msgctxt "myrenfiles.svalidationexists"
+msgid "Destination file already exists"
+msgstr "対象ファイルが既に存在します"
+
+#: urenfiles.svalidationinvalid
+msgctxt "myrenfiles.svalidationinvalid"
+msgid "Contains invalid characters"
+msgstr "無効な文字が含まれています"
+
+#: urenfiles.svalidationvalid
+msgctxt "myrenfiles.svalidationvalid"
+msgid "OK"
+msgstr ""
+
+#: urulesex.s_rules_after
+msgid "after"
+msgstr "変更後"
+
+#: urulesex.s_rules_all
+msgid "all"
+msgstr "すべての"
+
+#: urulesex.s_rules_all_characters_except
+msgid "all characters except"
+msgstr "すべての文字を除外"
+
+#: urulesex.s_rules_all_lower_case
+msgid "All lower case"
+msgstr "すべて小文字"
+
+#: urulesex.s_rules_all_upper_case
+msgid "All upper case"
+msgstr "すべて大文字"
+
+#: urulesex.s_rules_and_pad_to_length
+msgid "and pad to length"
+msgstr "長さに合わせて埋める"
+
+#: urulesex.s_rules_append
+msgid "append"
+msgstr "付加"
+
+#: urulesex.s_rules_append_new_extension
+msgid "Append new extension"
+msgstr "新たな拡張子を付加"
+
+#: urulesex.s_rules_as_prefix
+msgid "as Prefix"
+msgstr "を接頭語に追加"
+
+#: urulesex.s_rules_as_suffix
+msgid "as Suffix"
+msgstr "を接尾語に追加"
+
+#: urulesex.s_rules_at_position
+msgid "at Position"
+msgstr "位置"
+
+#: urulesex.s_rules_before
+msgid "before"
+msgstr "変更前"
+
+#: urulesex.s_rules_capitalize_and_preserve
+msgid "Capitalize and preserve"
+msgstr "大文字にして保持"
+
+#: urulesex.s_rules_capitalize_every_word
+msgid "Capitalize every word"
+msgstr "単語毎に先頭を大文字"
+
+#: urulesex.s_rules_case_sensitive
+msgid "case sensitive"
+msgstr "大文字小文字を区別"
+
+#: urulesex.s_rules_change_extension_to
+msgid "Change extension to"
+msgstr "拡張子を変更"
+
+#: urulesex.s_rules_characters
+msgid "characters"
+msgstr "文字"
+
+#: urulesex.s_rules_converttovaluefromvalue
+msgid "Convert to %s from %s"
+msgstr "%s から %s に変換"
+
+#: urulesex.s_rules_customlongmonths
+msgid "Custom long months"
+msgstr "カスタム 長い月"
+
+#: urulesex.s_rules_customshortmonths
+msgid "Custom short months"
+msgstr "カスタム 短い月"
+
+#: urulesex.s_rules_delete
+msgctxt "myrulesex.s_rules_delete"
+msgid "Delete"
+msgstr "削除"
+
+#: urulesex.s_rules_delete_current_name
+msgctxt "myrulesex.s_rules_delete_current_name"
+msgid "Delete current name"
+msgstr "現在の名前を削除"
+
+#: urulesex.s_rules_delimiters
+msgid "delimiters"
+msgstr "区切り"
+
+#: urulesex.s_rules_detect_using_binary_signature
+msgid "Detect using binary signature"
+msgstr "バイナリ署名を使用して検出"
+
+#: urulesex.s_rules_everywhere
+msgid "everywhere"
+msgstr "あらゆる部分"
+
+#: urulesex.s_rules_exact_pattern_of_delimiters
+msgid "exact pattern of delimiters"
+msgstr "区切りの正確なパターン"
+
+#: urulesex.s_rules_extension_lower_case
+msgid "Extension lower case"
+msgstr "小文字拡張子"
+
+#: urulesex.s_rules_extension_upper_case
+msgid "Extension upper case"
+msgstr "大文字拡張子"
+
+#: urulesex.s_rules_files
+msgid "files"
+msgstr "ファイル"
+
+#: urulesex.s_rules_files_to
+msgid "file(s) to"
+msgstr "ファイルへ"
+
+#: urulesex.s_rules_files_with
+msgid "file(s) with"
+msgstr "ファイルで"
+
+#: urulesex.s_rules_first
+msgid "first"
+msgstr "最初"
+
+#: urulesex.s_rules_first_letter_capital
+msgctxt "myrulesex.s_rules_first_letter_capital"
+msgid "First letter capital"
+msgstr "先頭を大文字"
+
+#: urulesex.s_rules_fix_spaces
+msgid "Fix spaces"
+msgstr "空白を修復"
+
+#: urulesex.s_rules_force_case_fragments
+msgid "Force case fragments"
+msgstr "まばら箇所に強制適用"
+
+#: urulesex.s_rules_from_delimiter
+msgid "from Delimiter"
+msgstr "区切り"
+
+#: urulesex.s_rules_from_position
+msgid "from Position"
+msgstr "指定位置"
+
+#: urulesex.s_rules_insert
+msgctxt "myrulesex.s_rules_insert"
+msgid "Insert"
+msgstr "挿入"
+
+#: urulesex.s_rules_insert_space_in_front_of_capitals
+msgid "Insert space in front of capitals"
+msgstr "大文字の前に空白を挿入"
+
+#: urulesex.s_rules_invert_case
+msgid "Invert case"
+msgstr "大小文字を反転"
+
+#: urulesex.s_rules_last
+msgid "last"
+msgstr "最後"
+
+#: urulesex.s_rules_leading
+msgctxt "myrulesex.s_rules_leading"
+msgid "leading"
+msgstr "先頭"
+
+#: urulesex.s_rules_leave_delimiter
+msgid "leave delimiter"
+msgstr "区切りを残す"
+
+#: urulesex.s_rules_new_names_are_not_defined
+msgid "new names are not defined"
+msgstr "新たな名前が定義されていません"
+
+#: urulesex.s_rules_new_pattern
+msgid "New pattern"
+msgstr "新規パターン"
+
+#: urulesex.s_rules_normalize_spaces
+msgid "Normalize spaces"
+msgstr "空白の正規化"
+
+#: urulesex.s_rules_parts
+msgid "parts"
+msgstr "パート"
+
+#: urulesex.s_rules_positions
+msgid "positions"
+msgstr "位置"
+
+#: urulesex.s_rules_prefix_names_of
+msgid "Prefix names of"
+msgstr "名前の接頭語"
+
+#: urulesex.s_rules_prepare_for_sharepoint
+msgid "Prepare for SharePoint"
+msgstr "共有ポイントを設ける"
+
+#: urulesex.s_rules_remove
+msgctxt "myrulesex.s_rules_remove"
+msgid "Remove"
+msgstr "除去"
+
+#: urulesex.s_rules_remove_extension
+msgid "Remove extension"
+msgstr "拡張子を除去"
+
+#: urulesex.s_rules_repeat
+msgid "repeat"
+msgstr "繰り返し"
+
+#: urulesex.s_rules_replace
+msgctxt "myrulesex.s_rules_replace"
+msgid "Replace"
+msgstr "置換"
+
+#: urulesex.s_rules_replace_expression
+msgid "Replace expression"
+msgstr "式による置換"
+
+#: urulesex.s_rules_replace_with_spaces
+msgid "Replace with spaces"
+msgstr "空白で置換"
+
+#: urulesex.s_rules_replacing_current_name
+msgid "replacing current name"
+msgstr "現在の名前を置き換える"
+
+#: urulesex.s_rules_reset_index_every
+msgid "reset index every"
+msgstr "常にインデックスをリセット"
+
+#: urulesex.s_rules_reset_index_if_folder_changes
+msgid "reset index if folder changes"
+msgstr "フォルダ変更時はインデックスをリセット"
+
+#: urulesex.s_rules_right_to_left
+msgid "right-to-left"
+msgstr "右から左"
+
+#: urulesex.s_rules_serialize_incremental_from
+msgid "Serialize Incremental from"
+msgstr "連番インクリメンタル増加"
+
+#: urulesex.s_rules_serialize_random_with_length
+msgid "Serialize Random with length"
+msgstr "長さでランダム連番化"
+
+#: urulesex.s_rules_set_names_of
+msgid "Set names of"
+msgstr "名前をセット"
+
+#: urulesex.s_rules_skipextension
+msgctxt "urulesex.s_rules_skipextension"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: urulesex.s_rules_skip_extension
+msgid "skip extension"
+msgstr "拡張子をスキップ"
+
+#: urulesex.s_rules_skip_versions
+msgid "skip versions"
+msgstr "バージョン スキップ"
+
+#: urulesex.s_rules_split_by
+msgid "Split by"
+msgstr "分割"
+
+#: urulesex.s_rules_step
+msgid "step"
+msgstr "ステップ"
+
+#: urulesex.s_rules_strip
+msgctxt "myrulesex.s_rules_strip"
+msgid "Strip"
+msgstr "ストリップ"
+
+#: urulesex.s_rules_strip_out_contents_of_brackets
+msgid "Strip out contents of brackets"
+msgstr "括弧の中身を取り除く"
+
+#: urulesex.s_rules_suffix_names_of
+msgid "Suffix names of"
+msgstr "名前の接尾語"
+
+#: urulesex.s_rules_trailing
+msgctxt "myrulesex.s_rules_trailing"
+msgid "trailing"
+msgstr "末尾"
+
+#: urulesex.s_rules_transliterate
+msgid "Transliterate"
+msgstr "変化規則"
+
+#: urulesex.s_rules_try_unique
+msgid "try unique"
+msgstr "ユニークを試みる"
+
+#: urulesex.s_rules_until_count_reaches
+msgid "until Count reaches"
+msgstr "から"
+
+#: urulesex.s_rules_until_delimiter
+msgid "until Delimiter"
+msgstr "から区切りまで"
+
+#: urulesex.s_rules_until_the_end
+msgid "until the End"
+msgstr "から最後まで"
+
+#: urulesex.s_rules_using_wildcards
+msgid "using wildcards"
+msgstr "ワイルドカードを使用"
+
+#: urulesex.s_rules_wholewordsonly
+msgctxt "urulesex.s_rules_wholewordsonly"
+msgid "Whole words only"
+msgstr "単語のみ"
+
+#: urulesex.s_rules_whole_words
+msgid "whole words"
+msgstr "単語全体"
+
+#: urulesex.s_rules_with
+msgid "with"
+msgstr "を"
+
+#: ustrings.msg_addfoldernotexist
+msgid ""
+"Selected folder does not exist!\n"
+"\n"
+"%s\n"
+msgstr ""
+"選択されたフォルダは存在しません!\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_addmetatagconfirm
+msgid ""
+"Meta tags are currently disabled.\n"
+"\n"
+"Do you want to enable them?\n"
+msgstr ""
+"メタタグのサポートが無効になっています!\n"
+"\n"
+"有効にしますか?\n"
+
+#: ustrings.msg_ask_open_quick_guide
+msgid "Would you like to open a Quick Guide?"
+msgstr "最初にクイックガイドを開きますか"
+
+#: ustrings.msg_browsefoldersstatus
+msgid "Folders: %d scanned, %d selected."
+msgstr "フォルダ: %d スキャン済, %d 選択済."
+
+#: ustrings.msg_browsegotofoldercaption
+msgctxt "mystrings.msg_browsegotofoldercaption"
+msgid "Go To Folder"
+msgstr "フォルダへ移動"
+
+#: ustrings.msg_browsegotofolderprompt
+msgid "Enter a full path to the folder that you want to go to:"
+msgstr "移動したいフォルダのフルパスを入力して下さい:"
+
+#: ustrings.msg_copyandcutfilesprompt
+msgid ""
+"Operation of Copying and Cutting Files will place selected files into the Clipboard for later usage.\n"
+"Note: All files will be pasted into the same directory no matter where they were initially located!\n"
+"\n"
+"Are you sure you want to proceed?\n"
+msgstr ""
+"コピー/切り取りの操作時に、後で使用する為に選択ファイルをクリップボードに保管\n"
+"備考: すべてのファイルが最初の位置に関係なく同じディレクトリに貼り付けられます!\n"
+"\n"
+"処理を続行しますか?\n"
+
+#: ustrings.msg_datetimeinvalidformat
+msgid "INVALID FORMAT"
+msgstr "無効な形式"
+
+#: ustrings.msg_fileexistsoverwriteprompt
+msgid ""
+"File already exists!\n"
+"Overwrite it?\n"
+msgstr ""
+"ファイルは既に存在します!\n"
+"上書きしますか?\n"
+
+#: ustrings.msg_filescountinfo
+msgid ""
+"Total: %d\n"
+"Marked: %d\n"
+"Selected: %d\n"
+msgstr ""
+"合計: %d\n"
+"マーク済: %d\n"
+"選択中: %d\n"
+
+#: ustrings.msg_fixcollidewarninglimit
+msgid ""
+"Do you want to fix conflicting new names for %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"計 %s 個のファイルで競合する新たな名前を修正しますか?\n"
+"\n"
+"この操作には数分かかるかもしれません...\n"
+
+#: ustrings.msg_gotolinecaption
+msgid "Go To Line"
+msgstr "指定行に移動"
+
+#: ustrings.msg_gotolineprompt
+msgid "Enter the line number:"
+msgstr "行番号を入力:"
+
+#: ustrings.msg_hinterrorcolumn
+msgid "Hint: You can check the details by enabling the \"Error\" column."
+msgstr "ヒント: ステート列 \"エラー\"アイコン項目を確認\""
+
+#: ustrings.msg_launching_first_time
+msgid "You are launching ReNamer for the first time."
+msgstr "あなたは、初めて ReNamer を起動しました"
+
+#: ustrings.msg_loadnewnamesresult
+msgid "%d new filename(s) out of %d in the list were changed!"
+msgstr "リスト内 %d の %d は新たなファイル名に変更されました!"
+
+#: ustrings.msg_nothingtorename
+msgid "Nothing to rename!"
+msgstr "リネーム対象がありません!"
+
+#: ustrings.msg_overwritefilewithnewname
+msgid ""
+"Original Path: %s\n"
+"New Path: %s\n"
+"\n"
+"New Name is already taken by another file, delete that file permanently?\n"
+msgstr ""
+"オリジナル名: %s\n"
+"新規名称: %s\n"
+"\n"
+"新規名称は既に別のファイルに使用されています..上書きしますか?\n"
+
+#: ustrings.msg_pascalscriptcompiledsuccesfully
+msgid "Compiled successfully!"
+msgstr "コンパイルに成功しました!"
+
+#: ustrings.msg_pascalscriptnoscripts
+msgid "No Saved Scripts were found!"
+msgstr "保存済みスクリプトがみつかりません!"
+
+#: ustrings.msg_pascalscriptsaveinvalid
+msgctxt "mystrings.msg_pascalscriptsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "使用出来ない名前です!"
+
+#: ustrings.msg_pascalscriptsavetext
+msgid "Enter a name for a script:"
+msgstr "スクリプトの名前を入力:"
+
+#: ustrings.msg_pascalscriptsavetitle
+msgid "Save Script"
+msgstr "スクリプトを保存"
+
+#: ustrings.msg_presetsaveincorrectname
+msgctxt "mystrings.msg_presetsaveincorrectname"
+msgid "Incorrect Name!"
+msgstr "使用出来ない名前です!"
+
+#: ustrings.msg_presetsmanagerdeletepresetprompt
+msgid "Delete \"%s\" preset?"
+msgstr "設定\"%s\"を削除しますか?"
+
+#: ustrings.msg_presetsmanagereditwarning
+msgid ""
+"You are about to edit Preset file(s) manualy!\n"
+"If you are not sure in what you're doing - press Cancel.\n"
+"\n"
+"Proceed with this action?\n"
+msgstr ""
+"あなたは設定ファイルを手動で編集しようとしています!\n"
+"この処理を中止する場合は - キャンセルを押して下さい..\n"
+"\n"
+"操作を続行しますか?\n"
+
+#: ustrings.msg_presetsmanagerfailedcopy
+msgid "Could not copy the \"%s\" preset!"
+msgstr "設定\"%s\"をコピー出来ません!"
+
+#: ustrings.msg_presetsmanagerfaileddelete
+msgid "Could not delete the \"%s\" preset!"
+msgstr "設定\"%s\"を削除出来ませんでした!"
+
+#: ustrings.msg_presetsmanagerfailedrename
+msgid "Could not rename the \"%s\" preset!"
+msgstr "設定\"%s\"をリネーム出来ません!"
+
+#: ustrings.msg_presetsmanagernewnamequerytext
+msgid "New Name:"
+msgstr "新規名称:"
+
+#: ustrings.msg_presetsmanagernewnamequerytitle
+msgid "Rename Preset"
+msgstr "リネーム設定"
+
+#: ustrings.msg_previewexception
+msgid ""
+"Preview process has been terminated due to a critical error:\n"
+"\n"
+"%s\n"
+msgstr ""
+"プロセスのプレビューは致命的なエラーの為に中断しました:\n"
+"\n"
+"%s\n"
+
+#: ustrings.msg_renamefailedfiles
+msgid "%d file(s) failed to rename!"
+msgstr "%d ファイルのリネームに失敗!"
+
+#: ustrings.msg_renamenewnamesareempty
+msgid ""
+"All New Names are empty!\n"
+"\n"
+"Hint: Configure the Rules and click Preview button.\n"
+msgstr ""
+"すべての新規名称が空です!\n"
+"\n"
+"ヒント: 設定は、規則とプレビューボタンをクリック\n"
+
+#: ustrings.msg_renameskipedfiles
+msgid "%d file(s) skipped."
+msgstr "%d ファイルをスキップしました"
+
+#: ustrings.msg_renamesuccessfulfiles
+msgid "%d file(s) successfully renamed."
+msgstr "%d ファイルのリネームに成功しました"
+
+#: ustrings.msg_rulecasedescription
+msgid "Use this rule to change the case of the filename."
+msgstr "この規則を使用して、ファイル名の大文字小文字を変更"
+
+#: ustrings.msg_rulecleanupdescription
+msgid "Use this rule to clean up the filename."
+msgstr "この規則を使用して、ファイル名をクリーンアップ"
+
+#: ustrings.msg_ruledeletedescription
+msgid "Use this rule to delete text from the filename."
+msgstr "この規則を使用して、ファイル名のテキストを削除"
+
+#: ustrings.msg_ruleextensiondescription
+msgid "Use this rule to change extension of the file."
+msgstr "この規則を使用して、ファイルの拡張子を変更"
+
+#: ustrings.msg_ruleinsertdescription
+msgid "Use this rule to insert text into the filename."
+msgstr "この規則を使用して、ファイル名にテキストを挿入"
+
+#: ustrings.msg_rulepascalscriptdescription
+msgid "Use this rule to script a user defined manipulations with filename."
+msgstr "ユーザ定義の複数ファイル名変換スクリプトにこの規則を使用する"
+
+#: ustrings.msg_rulerearrangedescription
+msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
+msgstr "この規則を使用して、ファイル名を分割、および新たなパターンで再配列"
+
+#: ustrings.msg_rulereformatdatedescription
+msgid "Use this rule to change format of date/time values in the filename."
+msgstr "ファイル名に使用する日付/時刻値の変更にこの規則を使用"
+
+#: ustrings.msg_ruleregexdescription
+msgid "Use this rule to replace text in the filename using regular expressions."
+msgstr "この規則を使用して、ファイル名を正規表現で置換する"
+
+#: ustrings.msg_ruleremovedescription
+msgid "Use this rule to remove text from the filename."
+msgstr "この規則を使用して、ファイル名のテキストを除去"
+
+#: ustrings.msg_rulereplacedescription
+msgid "Use this rule to replace text in the filename."
+msgstr "この規則を使用して、ファイル名のテキストを置換"
+
+#: ustrings.msg_ruleserializedescription
+msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgstr "この規則を使用してファイル名を連番化 (数字、またはランダム数)"
+
+#: ustrings.msg_rulestripdescription
+msgid "Use this rule to strip sets of characters from the filename."
+msgstr "この規則を使用して、ファイル名から指定文字セットを取り去る"
+
+#: ustrings.msg_ruletranslitdescription
+msgid "Use this rule to transliterate letters in the filename from one language into another."
+msgstr "この規則を使用して、ファイル名を別の言語に変換"
+
+#: ustrings.msg_ruleuserinputdescription
+msgid "Use this rule to assign names of files to the lines of text."
+msgstr "この規則を使用して、ファイル名をテキスト行に割り当てる"
+
+#: ustrings.msg_selectfolder
+msgid "Please select a folder:"
+msgstr "フォルダを選択:"
+
+#: ustrings.msg_shellactionwarninglimit
+msgid "Are you sure you want to execute shell action on %d files?"
+msgstr "本当に %d 個のファイルに対してシェル操作を実行しますか?"
+
+#: ustrings.msg_shell_execute_error
+msgid ""
+"Could not open the following file:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+msgstr ""
+"以下のファイルを開けませんでした:\n"
+"\n"
+"%s\n"
+"\n"
+"Error: %s (%d).\n"
+
+#: ustrings.msg_translitsaveinvalid
+msgctxt "mystrings.msg_translitsaveinvalid"
+msgid "Incorrect Name!"
+msgstr "使用出来ない名前です!"
+
+#: ustrings.msg_translitsavetext
+msgid "Enter a name for a translit:"
+msgstr "変化規則の名前を入力:"
+
+#: ustrings.msg_translitsavetitle
+msgid "Save Translit"
+msgstr "変化規則を保存"
+
+#: ustrings.msg_undoconfirmfiles
+msgid ""
+"Are you sure you want to undo renaming operation for %d file(s)?\n"
+"\n"
+"Hint: You can check undo paths by enabling the \"Old Path\" column.\n"
+msgstr ""
+"本当に %d 個のファイルに対するリネーム操作を元に戻しますか?\n"
+"\n"
+"ヒント: 列の\"古いパス\"を有効にするとアンドゥパスを確認できます\n"
+
+#: ustrings.msg_undoempty
+msgid "Nothing to undo!"
+msgstr "アンドゥがありません!"
+
+#: ustrings.msg_undoresult
+msgid ""
+"Undo operation results:\n"
+"\n"
+"%d out of %d file(s) restored successfully!\n"
+msgstr ""
+"アンドゥ操作の結果:\n"
+"\n"
+"%d から %d のファイルの復元に成功!\n"
+
+#: ustrings.msg_uninstallapplicationisrunning
+msgid ""
+"Seems that ReNamer is currently running.\n"
+"Please close it, before continuing...\n"
+msgstr ""
+"ReNamerは現在起動しています\n"
+"続行する前にそれを閉じてください..\n"
+
+#: ustrings.msg_validatedduplicatedfound
+msgid "%d of which have a duplicate in the list."
+msgstr "%d はリストで重複しています"
+
+#: ustrings.msg_validatedexceededfound
+msgid "%d of which exceed MAX_PATH limitation."
+msgstr "%d は、Windows MAX_PATH 制限を越えています"
+
+#: ustrings.msg_validatedexistingfound
+msgid "%d of which conflict with an existing file."
+msgstr "%d には既に新しいファイルパスがあります"
+
+#: ustrings.msg_validatedinvalidfound
+msgid "%d of which contain invalid characters."
+msgstr "警告, 無効なファイル名 %d が見つかりました!"
+
+#: ustrings.msg_validatedsuccessfuly
+msgid "Successfully validated!"
+msgstr "有効化に成功しました!"
+
+#: ustrings.msg_validatewarninglimit
+msgid ""
+"Do you want to validate %s files?\n"
+"\n"
+"This operation may take several minutes...\n"
+msgstr ""
+"本当に %s 個のファイルを検証しますか?\n"
+"\n"
+"この操作には数分かかるかもしれません...\n"
+
+#: ustrings.msg_validationissuesdetected
+msgid "Validation has failed due to issues with %d file(s)."
+msgstr "%d 個のファイルに対する検証は失敗しました"
+
+#: ustrings.name_addrule
+msgctxt "mystrings.name_addrule"
+msgid "Add Rule"
+msgstr "規則の追加"
+
+#: ustrings.name_addrulestext
+msgctxt "mystrings.name_addrulestext"
+msgid "Click here to add a rule"
+msgstr "クリックで規則を追加"
+
+#: ustrings.name_addtorenamer
+msgid "Add to ReNamer"
+msgstr "ReNamerに追加"
+
+#: ustrings.name_analyzetextcursor
+msgid "Line = %d, Position = %d, Right = %d, Selection = %d"
+msgstr "行 = %d, 位置 = %d, 右 = %d, 選択範囲 = %d"
+
+#: ustrings.name_browsescripts
+msgid "Browse Scripts..."
+msgstr "スクリプトを参照..."
+
+#: ustrings.name_browsetranslits
+msgid "Browse Translits..."
+msgstr "変化規則を参照..."
+
+#: ustrings.name_cancelsorting
+msgctxt "mystrings.name_cancelsorting"
+msgid "Cancel Sorting"
+msgstr "ソートをキャンセル"
+
+#: ustrings.name_dragfilestext
+msgctxt "mystrings.name_dragfilestext"
+msgid "Drag your files here"
+msgstr "ここにファイルをドラッグ"
+
+#: ustrings.name_editrule
+msgctxt "mystrings.name_editrule"
+msgid "Edit Rule"
+msgstr "規則を編集"
+
+#: ustrings.name_filescounter
+msgid "%s files"
+msgstr "%s ファイル"
+
+#: ustrings.name_filescounterwithsize
+msgid "%s files (%s)"
+msgstr "%s ファイル (%s)"
+
+#: ustrings.name_filters
+msgctxt "mystrings.name_filters"
+msgid "Filters"
+msgstr "フィルター"
+
+#: ustrings.name_loadwithpreset
+msgctxt "mystrings.name_loadwithpreset"
+msgid "Load with Preset"
+msgstr "プリセットの読み込み"
+
+#: ustrings.name_markbymaskcaption
+msgctxt "mystrings.name_markbymaskcaption"
+msgid "Mark by Mask"
+msgstr "マスクでマーク"
+
+#: ustrings.name_markbymaskprompt
+msgctxt "mystrings.name_markbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"複数のマスクは、セミコロンで区切る  使用例: *.jpg;*.doc\n"
+"\n"
+"マスク:\n"
+
+#: ustrings.name_overwrite
+msgid "Overwrite"
+msgstr "上書"
+
+#: ustrings.name_rename
+msgctxt "mystrings.name_rename"
+msgid "Rename"
+msgstr "リネーム"
+
+#: ustrings.name_renamewithpreset
+msgctxt "mystrings.name_renamewithpreset"
+msgid "Rename with Preset"
+msgstr "Rename のプリセット"
+
+#: ustrings.name_rule_case
+msgid "Case"
+msgstr "大文字小文字"
+
+#: ustrings.name_rule_cleanup
+msgid "CleanUp"
+msgstr "クリーンアップ"
+
+#: ustrings.name_rule_delete
+msgctxt "mystrings.name_rule_delete"
+msgid "Delete"
+msgstr "削除"
+
+#: ustrings.name_rule_extension
+msgctxt "mystrings.name_rule_extension"
+msgid "Extension"
+msgstr "拡張子"
+
+#: ustrings.name_rule_insert
+msgctxt "mystrings.name_rule_insert"
+msgid "Insert"
+msgstr "挿入"
+
+#: ustrings.name_rule_pascalscript
+msgid "PascalScript"
+msgstr "パスカル・スクリプト"
+
+#: ustrings.name_rule_rearrange
+msgid "Rearrange"
+msgstr "配列の変更"
+
+#: ustrings.name_rule_reformatdate
+msgid "Reformat Date"
+msgstr "日付の再フォーマット"
+
+#: ustrings.name_rule_regex
+msgid "RegEx"
+msgstr "正規表現"
+
+#: ustrings.name_rule_remove
+msgctxt "mystrings.name_rule_remove"
+msgid "Remove"
+msgstr "除去"
+
+#: ustrings.name_rule_replace
+msgctxt "mystrings.name_rule_replace"
+msgid "Replace"
+msgstr "置換"
+
+#: ustrings.name_rule_serialize
+msgid "Serialize"
+msgstr "連番"
+
+#: ustrings.name_rule_strip
+msgctxt "mystrings.name_rule_strip"
+msgid "Strip"
+msgstr "ストリップ"
+
+#: ustrings.name_rule_translit
+msgid "Translit"
+msgstr "変化規則"
+
+#: ustrings.name_rule_userinput
+msgid "UserInput"
+msgstr "ユーザ入力"
+
+#: ustrings.name_saverule
+msgid "Save Rule"
+msgstr "規則を保存"
+
+#: ustrings.name_savescript
+msgid "Save Script..."
+msgstr "スクリプトを保存..."
+
+#: ustrings.name_savetranslit
+msgid "Save Translit..."
+msgstr "変化規則を保存..."
+
+#: ustrings.name_selectbyextensioncaption
+msgctxt "mystrings.name_selectbyextensioncaption"
+msgid "Select by Extension"
+msgstr "拡張子で選択"
+
+#: ustrings.name_selectbyextensionprompt
+msgid ""
+"Multiple extensions can be separated by semicolons. For example: jpg;doc\n"
+"\n"
+"Extensions (without dots):\n"
+msgstr ""
+"複数の拡張子はセミコロン区切りで入力 使用例: jpg;doc\n"
+"\n"
+"(ドットなし):\n"
+
+#: ustrings.name_selectbyfilenamelengthcaption
+msgid "Select by Filename Length"
+msgstr "ファイル名長さで選択"
+
+#: ustrings.name_selectbyfilenamelengthprompt
+msgid "More than N characters:"
+msgstr "N 文字以上"
+
+#: ustrings.name_selectbymaskcaption
+msgctxt "mystrings.name_selectbymaskcaption"
+msgid "Select by Mask"
+msgstr "マスクで選択"
+
+#: ustrings.name_selectbymaskprompt
+msgctxt "mystrings.name_selectbymaskprompt"
+msgid ""
+"Multiple masks can be separated by semicolons. For example: *.jpg;*.doc\n"
+"\n"
+"Masks:\n"
+msgstr ""
+"複数のマスクはセミコロン区切りで入力  使用例: *.jpg;*.doc\n"
+"\n"
+"マスク:\n"
+
+#: ustrings.name_undo
+msgid "Undo"
+msgstr "元に戻す&"
+
+#: ustrings.name_undofiles
+msgid "Undo %d file(s)"
+msgstr "%d 個のファイルを元に戻す"
+
+#: ustrings.sfiltersallfiles
+msgid "All files"
+msgstr "すべてのファイル"
+
+#: ustrings.sfiltersanyfile
+msgid "Any file"
+msgstr "あらゆるファイル"
+
+#: ustrings.sfiltersarchives
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ustrings.sfiltersbatchfile
+msgid "Batch file"
+msgstr "一括ファイル"
+
+#: ustrings.sfilterscommaseparated
+msgid "comma separated"
+msgstr "カンマ区切り"
+
+#: ustrings.sfiltersdocuments
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: ustrings.sfiltersmusic
+msgid "Music"
+msgstr "ミュージック"
+
+#: ustrings.sfilterspictures
+msgid "Pictures"
+msgstr "ピクチャ"
+
+#: ustrings.sfiltersplaylist
+msgid "Play list"
+msgstr "プレイリスト"
+
+#: ustrings.sfilterstabseparated
+msgid "tab separated"
+msgstr "タブ区切り"
+
+#: ustrings.sfilterstextfiles
+msgid "Text files"
+msgstr "テキストファイル"
+
+#: ustrings.sfilterstextlist
+msgid "Text list"
+msgstr "テキスト一覧"
 
