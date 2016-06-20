@@ -1,3 +1,52 @@
+ReNamer 6.5 (2016-06-11)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.4.0.5 Beta (2016-06-07)
+* Auto-detect file content encoding of dropped files in PascalScript and Translit rule windows.
+* Added translit files for Japanese language (Hepburn-shiki and Kunrei-shiki). Thanks to Tilt.
+* Use the same "replace" part for each "find" part in the Replace rule if have several "find" and only one "replace" part. Previously, an empty "replace" part would have been used.
+* Added local date-time format as the first option in Reformat Date rule dropdowns.
+* Settings and Filter Settings dialogs are now resizable.
+* Added icons for options in Filter Settings dialog.
+* Updated Japanese language file. Thanks to Tilt.
+* Major code refactoring.
+
+6.4.0.4 Beta (2016-05-14)
+* Refactored Translit rule algorithm to be more robust.
+* Skip empty lines when parsing Translit rule alphabet.
+* Accept dropped files into the Translit rule configuration window.
+* Accept dropped files into the Analyze window.
+* Improved performance of the Analyze dialog when processing many individual lines.
+* Added a hint in PascalScript rule about holding the Shift key.
+* Updated Japanese language file. Thanks to Tilt.
+
+6.4.0.3 Beta (2016-05-08)
+* Added validation error when parent folders are being renamed before their content.
+* Capture multiple validation errors per file, instead of just one.
+* Avoid unexpected drag mode after closing a validation dialog which was triggered by toggling of rules via a mouse click.
+* Allow undo operation when overwriting a script by loading a new script.
+* Hold SHIFT key when opening a new script to insert it into the current script.
+* Code refactoring and optimizations.
+
+6.4.0.2 Beta (2016-04-02)
+* Fixed incorrect sorting of files by the "Error" column where a system error has occurred.
+* Auto scroll files table if mouse is near the border when dragging or selecting.
+* Added "WarnValidatingTooManyFiles" setting in INI file to allow disabling the validation warning when processing too many files.
+* Fixed not working files context menu shortcuts after clearing the selection.
+
+6.4.0.1 Beta (2016-03-31)
+* Added WideDeleteToRecycleBin and WideRemoveDir functions to PascalScript.
+* Set UTF8 console code page and use UTF8 encoding for exported batch renaming file. Previsouly, system ANSI code page was used.
+* Option "Export as batch renaming file" is no longer restricted to Pro version.
+* Improved default sizing of files table columns and fixed "State" column width.
+* Improved main toolbar resizing technique.
+* Hide main toolbar button captions if widths are too small.
+* Updated bundled copy of User Manual.
+* Updated Portuguese (Brazil) language file. Thanks to Igor Rückert.
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated copyright information.
+
+
 ReNamer 6.4 (2016-02-27)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

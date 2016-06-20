@@ -83,6 +83,10 @@ msgstr "COPIA"
 msgid "Add your code here"
 msgstr "Aggiungi il codice qui"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr "Premi %s per completare il codice"
@@ -183,7 +187,7 @@ msgid "About"
 msgstr "Info"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2862,8 +2866,8 @@ msgstr "Scadenza aggiornamento"
 msgid "Failed to delete key: \"%s\""
 msgstr "Impossibile eliminare la chiave: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "OK"
 
@@ -2883,10 +2887,9 @@ msgstr "La destinazione del file esiste già"
 msgid "Contains invalid characters"
 msgstr "Contiene caratteri non validi"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3579,6 +3582,10 @@ msgstr "%d che hanno un conflitto con un percorso esistente."
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "%d dei quali contengono caratteri non validi!"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"

@@ -83,6 +83,10 @@ msgstr "Copiar"
 msgid "Add your code here"
 msgstr ""
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr ""
@@ -180,7 +184,7 @@ msgid "About"
 msgstr "Acerca de"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2874,8 +2878,8 @@ msgstr "Ampliar expiración"
 msgid "Failed to delete key: \"%s\""
 msgstr ""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "OK"
 
@@ -2899,10 +2903,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr ""
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3590,6 +3593,10 @@ msgstr "%d de los cuales están en conflicto con rutas (archivos) ya existentes.
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "Aviso: ¡Se encontraron %d nombres no válidos!"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"

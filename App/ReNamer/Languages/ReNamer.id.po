@@ -83,6 +83,10 @@ msgstr "SALIN"
 msgid "Add your code here"
 msgstr "Tambah kode anda disini"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr ""
@@ -183,7 +187,7 @@ msgid "About"
 msgstr "Tentang"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2852,8 +2856,8 @@ msgstr "Peningkatan kedaluarsa"
 msgid "Failed to delete key: \"%s\""
 msgstr "Gagal untuk menghapus kunci: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "OK"
 
@@ -2877,10 +2881,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr "Berisi karakter tidak valid"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3571,6 +3574,10 @@ msgstr "%d dimana berisi konflik dengan berkas yang ada."
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "%d dimana berisi karakter tidak valid."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"

@@ -65,6 +65,10 @@ msgstr ""
 msgid "Add your code here"
 msgstr ""
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr ""
@@ -162,7 +166,7 @@ msgid "About"
 msgstr ""
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2821,8 +2825,8 @@ msgstr ""
 msgid "Failed to delete key: \"%s\""
 msgstr ""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr ""
 
@@ -2842,9 +2846,8 @@ msgstr ""
 msgid "Contains invalid characters"
 msgstr ""
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
 msgstr ""
 
 #: urulesex.s_rules_after
@@ -3489,6 +3492,10 @@ msgstr ""
 
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
+msgstr ""
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
 msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly

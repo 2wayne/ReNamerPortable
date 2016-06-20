@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: ReNamer\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Igor Rückert <igorruckert@yahoo.com.br>\n"
 "Language-Team: den4b Team <support@den4b.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Portuguese (Brazil)\n"
 "X-Language-Name-Native: Português (Brasil)\n"
 "X-Translators: Igor Rückert <igorruckert@yahoo.com.br>\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: Poedit 1.8.6\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -83,9 +83,13 @@ msgstr "COPIAR"
 msgid "Add your code here"
 msgstr "Adicione seu código aqui"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
-msgstr ""
+msgstr "Pressione %s para conclusão do código"
 
 #: ruleregexframe.sregexanychar
 msgid "Any single character"
@@ -183,8 +187,8 @@ msgid "About"
 msgstr "Sobre"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
-msgstr "Denis Kozlov"
+msgid "den4b Team"
+msgstr ""
 
 #: tform_about.label_author2.caption
 msgid "Author:"
@@ -196,7 +200,7 @@ msgstr "Data:"
 
 #: tform_about.label_email.caption
 msgid "support@den4b.com"
-msgstr "support@den4b.com"
+msgstr ""
 
 #: tform_about.label_email2.caption
 msgid "Email:"
@@ -205,7 +209,7 @@ msgstr "E-mail:"
 #: tform_about.label_title.caption
 msgctxt "tform_about.label_title.caption"
 msgid "ReNamer"
-msgstr "ReNamer"
+msgstr ""
 
 #: tform_about.label_version.caption
 msgid "Version:"
@@ -213,7 +217,7 @@ msgstr "Versão:"
 
 #: tform_about.label_website.caption
 msgid "www.den4b.com"
-msgstr "www.den4b.com"
+msgstr ""
 
 #: tform_about.label_website2.caption
 msgid "Website:"
@@ -317,7 +321,7 @@ msgstr "Atualizar Ramificação"
 #: tform_browse.n1.caption
 msgctxt "tform_browse.n1.caption"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_browse.sb_gotofolder.caption
 msgctxt "tform_browse.sb_gotofolder.caption"
@@ -387,11 +391,11 @@ msgstr "Máscaras:"
 
 #: tform_filtersettings.label_masksexclude.caption
 msgid "Exclude:"
-msgstr ""
+msgstr "Excluir:"
 
 #: tform_filtersettings.label_masksinclude.caption
 msgid "Include:"
-msgstr ""
+msgstr "Incluir:"
 
 #: tform_filtersettings.label_masksnote.caption
 msgctxt "tform_filtersettings.label_masksnote.caption"
@@ -553,11 +557,11 @@ msgstr "Validar novos nomes"
 #: tform_main.caption
 msgctxt "TFORM_MAIN.CAPTION"
 msgid "ReNamer"
-msgstr "ReNamer"
+msgstr ""
 
 #: tform_main.listview_rules.columns[0].caption
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: tform_main.listview_rules.columns[1].caption
 msgid "Rule"
@@ -787,12 +791,12 @@ msgstr "Importar..."
 #: tform_main.mi_break25.caption
 msgctxt "TFORM_MAIN.MI_BREAK25.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.mi_break26.caption
 msgctxt "TFORM_MAIN.MI_BREAK26.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.mi_browsepresets.caption
 msgid "Browse..."
@@ -834,7 +838,7 @@ msgstr "Propriedades do Arquivo"
 #: tform_main.mi_filescolumns_break.caption
 msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_BREAK.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.mi_filescolumns_cancelsorting.caption
 msgctxt "TFORM_MAIN.MI_FILESCOLUMNS_CANCELSORTING.CAPTION"
@@ -901,117 +905,117 @@ msgstr "Manual do Usuário"
 #: tform_main.n1.caption
 msgctxt "TFORM_MAIN.N1.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n10.caption
 msgctxt "TFORM_MAIN.N10.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n11.caption
 msgctxt "TFORM_MAIN.N11.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n12.caption
 msgctxt "TFORM_MAIN.N12.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n13.caption
 msgctxt "TFORM_MAIN.N13.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n14.caption
 msgctxt "TFORM_MAIN.N14.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n15.caption
 msgctxt "TFORM_MAIN.N15.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n16.caption
 msgctxt "TFORM_MAIN.N16.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n17.caption
 msgctxt "TFORM_MAIN.N17.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n18.caption
 msgctxt "TFORM_MAIN.N18.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n19.caption
 msgctxt "TFORM_MAIN.N19.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n2.caption
 msgctxt "TFORM_MAIN.N2.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n20.caption
 msgctxt "TFORM_MAIN.N20.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n21.caption
 msgctxt "TFORM_MAIN.N21.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n22.caption
 msgctxt "TFORM_MAIN.N22.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n23.caption
 msgctxt "TFORM_MAIN.N23.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n3.caption
 msgctxt "TFORM_MAIN.N3.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n4.caption
 msgctxt "TFORM_MAIN.N4.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n5.caption
 msgctxt "TFORM_MAIN.N5.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n6.caption
 msgctxt "TFORM_MAIN.N6.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n7.caption
 msgctxt "TFORM_MAIN.N7.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n8.caption
 msgctxt "TFORM_MAIN.N8.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.n9.caption
 msgctxt "TFORM_MAIN.N9.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_main.panel_addrulestext.caption
 msgctxt "TFORM_MAIN.PANEL_ADDRULESTEXT.CAPTION"
@@ -1313,10 +1317,8 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Adicionar ao menu de contexto \"Enviar Para\""
 
 #: tform_settings.checkbox_alwaysontop.caption
-#, fuzzy
-#| msgid "Always on top (main window only, requires a restart)"
 msgid "Stay on top of other windows"
-msgstr "Sempre no topo"
+msgstr "Ficar no topo das outras janelas"
 
 #: tform_settings.checkbox_autopreviewonfilesadded.caption
 msgid "Auto preview when new files are added"
@@ -1566,15 +1568,15 @@ msgstr "Normalizar espaços unicode, substituindo-os por um espaço padrão"
 
 #: tframe_rulecleanup.checkbox_bracketscurvy.caption
 msgid "{...}"
-msgstr "{...}"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_bracketsround.caption
 msgid "(...)"
-msgstr "(...)"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_bracketssquare.caption
 msgid "[...]"
-msgstr "[...]"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_prepareforsharepoint.caption
 msgid "Prepare for SharePoint (always inc. extension)"
@@ -1600,11 +1602,11 @@ msgstr "Corigir espaços: somente um espaço por vez, sem espaços nos lados do 
 #: tframe_rulecleanup.checkbox_spaceshyphen.caption
 msgctxt "TFRAME_RULECLEANUP.CHECKBOX_SPACESHYPHEN.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_spacesplus.caption
 msgid "+"
-msgstr "+"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_spacesskipversions.caption
 msgid "Skip number sequences, for example version 1.2.3.4"
@@ -1612,11 +1614,11 @@ msgstr "Ignorar sequências numéricas, por exemplo: versão 1.2.3.4"
 
 #: tframe_rulecleanup.checkbox_spacesunderscore.caption
 msgid "_"
-msgstr "-"
+msgstr ""
 
 #: tframe_rulecleanup.checkbox_spacesweb.caption
 msgid "%20"
-msgstr "%20"
+msgstr ""
 
 #: tframe_rulecleanup.groupbox1.caption
 msgid "Replace these characters with spaces:"
@@ -1629,7 +1631,7 @@ msgstr "Retirar o conteúdo de colchetes:"
 #: tframe_ruledelete.checkbox_deletecurrentname.caption
 msgctxt "tframe_ruledelete.checkbox_deletecurrentname.caption"
 msgid "Delete current name"
-msgstr ""
+msgstr "Excluir nome atual"
 
 #: tframe_ruledelete.checkbox_deleterighttoleft.caption
 msgctxt "tframe_ruledelete.checkbox_deleterighttoleft.caption"
@@ -1736,7 +1738,7 @@ msgstr "Sufixo"
 #: tframe_ruleinsert.radiobutton_replacecurrentname.caption
 msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
-msgstr ""
+msgstr "Substituir nome atual"
 
 #: tframe_ruleinsert.speedbutton_insertmetatag.caption
 msgid "Insert Meta Tag"
@@ -1827,46 +1829,43 @@ msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Inserir Meta Tag (Ctrl+Ins)"
 
 #: tframe_rulereformatdate.checkbox_skipextension.caption
-#, fuzzy
 msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
 msgid "Skip extension"
 msgstr "Ignorar extensão"
 
 #: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
 msgid "Use custom long months:"
-msgstr ""
+msgstr "Usar meses longos personalizados:"
 
 #: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
 msgid "Use custom short months:"
-msgstr ""
+msgstr "Usar meses curtos personalizados:"
 
 #: tframe_rulereformatdate.checkbox_wholewordsonly.caption
 msgid "Match as whole words only"
-msgstr ""
+msgstr "Corresponder somente palavras inteiras"
 
 #: tframe_rulereformatdate.label_inputformats.caption
 msgid "Find date/time formats:"
-msgstr ""
+msgstr "Localizar formatos de data/hora:"
 
 #: tframe_rulereformatdate.label_outputformat.caption
 msgid "Convert to date/time format:"
-msgstr ""
+msgstr "Converter para formato de data/hora:"
 
 #: tframe_rulereformatdate.menuitem_addseparator.caption
-#, fuzzy
 msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
 msgid "Separate multiple items"
 msgstr "Separar múltiplos itens"
 
 #: tframe_rulereformatdate.menuitem_break1.caption
-#, fuzzy
 msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
 msgid "Date/time format reference (online)"
-msgstr ""
+msgstr "Formato de data/hora de referência (online)"
 
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
@@ -1921,7 +1920,7 @@ msgstr "Interpretar símbolos '?', '*', '[', ']' como curingas?"
 #: tframe_ruleremove.checkbox_wholewordsonly.caption
 msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
 msgid "Whole words only"
-msgstr ""
+msgstr "Somente palavras inteiras"
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -1969,7 +1968,7 @@ msgstr "Interpretar '?', '*', '[', ']' como curingas e '$n' como referências an
 #: tframe_rulereplace.checkbox_wholewordsonly.caption
 msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
 msgid "Whole words only"
-msgstr ""
+msgstr "Somente palavras inteiras"
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -2034,7 +2033,7 @@ msgstr "Ignorar extensão"
 #: tframe_ruleserialize.gb_incremental.caption
 msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tframe_ruleserialize.gb_insertwhere.caption
 msgid "Insert where:"
@@ -2043,7 +2042,7 @@ msgstr "Onde inserir:"
 #: tframe_ruleserialize.gb_random.caption
 msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
@@ -2120,19 +2119,19 @@ msgstr "Definido pelo usuário:"
 
 #: tframe_rulestrip.edit_stripbrackets.text
 msgid "(){}[]"
-msgstr "(){}[]"
+msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
 msgid "1234567890"
-msgstr "1234567890"
+msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
 msgid "abcdefghijklmnopqrstuvwxyz"
-msgstr "abcdefghijklmnopqrstuvwxyz"
+msgstr ""
 
 #: tframe_rulestrip.edit_stripsymbols.text
 msgid "!?@#$%^&~`_+-=.,"
-msgstr "!?@#$%^&~`_+-=.,"
+msgstr ""
 
 #: tframe_rulestrip.rb_whereeverywhere.caption
 msgctxt "TFRAME_RULESTRIP.RB_WHEREEVERYWHERE.CAPTION"
@@ -2198,7 +2197,7 @@ msgstr "Colar da Área de Transferência"
 #: tframe_ruleuserinput.n1.caption
 msgctxt "TFRAME_RULEUSERINPUT.N1.CAPTION"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tframe_ruleuserinput.rb_insertafter.caption
 msgid "Insert after the current name"
@@ -2597,51 +2596,51 @@ msgstr "TIFF - Modelo"
 
 #: umetatags.s_metatag_torrent_announce
 msgid "Torrent: Announce URL"
-msgstr ""
+msgstr "Torrent: URL de anúncio"
 
 #: umetatags.s_metatag_torrent_comment
 msgid "Torrent: Comment"
-msgstr ""
+msgstr "Torrent: Comentário"
 
 #: umetatags.s_metatag_torrent_countfiles
 msgid "Torrent: Number of files"
-msgstr ""
+msgstr "Torrent: Número de arquivos"
 
 #: umetatags.s_metatag_torrent_creationdatelocal
 msgid "Torrent: Creation date in local time zone"
-msgstr ""
+msgstr "Torrent: Data de criação no fuso horário local"
 
 #: umetatags.s_metatag_torrent_creationdateutc
 msgid "Torrent: Creation date in UTC time zone"
-msgstr ""
+msgstr "Torrent: Data de criação no fuso horário UTC"
 
 #: umetatags.s_metatag_torrent_hash
 msgid "Torrent: Hash"
-msgstr ""
+msgstr "Torrent: Hash"
 
 #: umetatags.s_metatag_torrent_name
 msgid "Torrent: Name"
-msgstr ""
+msgstr "Torrent: Nome"
 
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
-msgstr ""
+msgstr "Torrent: Editor"
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
-msgstr ""
+msgstr "Torrent: Tamanho total em bytes"
 
 #: umetatags.s_metatag_torrent_totalsizegb
 msgid "Torrent: Total size in GB"
-msgstr ""
+msgstr "Torrent: Tamanho total em GB"
 
 #: umetatags.s_metatag_torrent_totalsizekb
 msgid "Torrent: Total size in KB"
-msgstr ""
+msgstr "Torrent: Tamanho total em KB"
 
 #: umetatags.s_metatag_torrent_totalsizemb
 msgid "Torrent: Total size in MB"
-msgstr ""
+msgstr "Torrent: Tamanho total em MB"
 
 #: umetatags.s_metatag_versioninfo_comments
 msgid "Version Information: Comments"
@@ -2850,11 +2849,11 @@ msgstr "O código de registro é inválido."
 
 #: uregistration.s_registration_file_not_found
 msgid "Registration file not found."
-msgstr ""
+msgstr "Arquivo de registro não encontrado."
 
 #: uregistration.s_registration_file_read_failed
 msgid "Failed to read registration file."
-msgstr ""
+msgstr "Falha ao ler arquivo de registro."
 
 #: uregistration.s_registration_ok
 msgctxt "uregistration.s_registration_ok"
@@ -2870,8 +2869,8 @@ msgstr "Validade do upgrade"
 msgid "Failed to delete key: \"%s\""
 msgstr "Falha ao excluir chave: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "OK"
 
@@ -2895,10 +2894,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr "Contém caracteres inválidos"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2970,15 +2968,15 @@ msgstr "caracteres"
 
 #: urulesex.s_rules_converttovaluefromvalue
 msgid "Convert to %s from %s"
-msgstr ""
+msgstr "Converter de %s para %s"
 
 #: urulesex.s_rules_customlongmonths
 msgid "Custom long months"
-msgstr ""
+msgstr "Meses longos personalizados"
 
 #: urulesex.s_rules_customshortmonths
 msgid "Custom short months"
-msgstr ""
+msgstr "Meses curtos personalizados"
 
 #: urulesex.s_rules_delete
 msgctxt "myrulesex.s_rules_delete"
@@ -2988,7 +2986,7 @@ msgstr "Excluir"
 #: urulesex.s_rules_delete_current_name
 msgctxt "myrulesex.s_rules_delete_current_name"
 msgid "Delete current name"
-msgstr ""
+msgstr "Excluir nome atual"
 
 #: urulesex.s_rules_delimiters
 msgid "delimiters"
@@ -3133,7 +3131,7 @@ msgstr "Substituir por espaços"
 
 #: urulesex.s_rules_replacing_current_name
 msgid "replacing current name"
-msgstr ""
+msgstr "substituindo nome atual"
 
 #: urulesex.s_rules_reset_index_every
 msgid "reset index every"
@@ -3160,7 +3158,6 @@ msgid "Set names of"
 msgstr "Definir nomes de"
 
 #: urulesex.s_rules_skipextension
-#, fuzzy
 msgctxt "urulesex.s_rules_skipextension"
 msgid "Skip extension"
 msgstr "Ignorar extensão"
@@ -3226,11 +3223,11 @@ msgstr "usando curingas"
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
 msgid "Whole words only"
-msgstr ""
+msgstr "Somente palavras inteiras"
 
 #: urulesex.s_rules_whole_words
 msgid "whole words"
-msgstr ""
+msgstr "palavras inteiras"
 
 #: urulesex.s_rules_with
 msgid "with"
@@ -3262,7 +3259,7 @@ msgstr "Deseja abrir um Guia Rápido?"
 
 #: ustrings.msg_browsefoldersstatus
 msgid "Folders: %d scanned, %d selected."
-msgstr "Pastas: %s verificada(s), %d selecionada(s)."
+msgstr "Pastas: %d verificada(s), %d selecionada(s)."
 
 #: ustrings.msg_browsegotofoldercaption
 msgctxt "mystrings.msg_browsegotofoldercaption"
@@ -3477,7 +3474,7 @@ msgstr "Use esta regra para separar partes do nome do arquivo e reorganizá-los 
 
 #: ustrings.msg_rulereformatdatedescription
 msgid "Use this rule to change format of date/time values in the filename."
-msgstr ""
+msgstr "Use esta regra para alterar o formato dos valores de data/hora do nome do arquivo."
 
 #: ustrings.msg_ruleregexdescription
 msgid "Use this rule to replace text in the filename using regular expressions."
@@ -3580,7 +3577,7 @@ msgstr "%d dos quais estão duplicados na lista."
 
 #: ustrings.msg_validatedexceededfound
 msgid "%d of which exceed MAX_PATH limitation."
-msgstr "%s dos quais excedem a limitação MAX_PATH."
+msgstr "%d dos quais excedem a limitação MAX_PATH."
 
 #: ustrings.msg_validatedexistingfound
 msgid "%d of which conflict with an existing file."
@@ -3589,6 +3586,10 @@ msgstr "%d dos quais possuem conflito com arquivo existente."
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "%d dos quais contêm caracteres inválidos."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
@@ -3730,7 +3731,7 @@ msgstr "Reorganizar"
 
 #: ustrings.name_rule_reformatdate
 msgid "Reformat Date"
-msgstr ""
+msgstr "Reformatar Data"
 
 #: ustrings.name_rule_regex
 msgid "RegEx"

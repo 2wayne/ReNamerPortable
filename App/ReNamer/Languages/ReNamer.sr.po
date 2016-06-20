@@ -83,6 +83,10 @@ msgstr "Копир."
 msgid "Add your code here"
 msgstr "Додати ваш код овде"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr "Притиснути %s за завршетак кода"
@@ -183,7 +187,7 @@ msgid "About"
 msgstr "О Програму"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -860,7 +864,7 @@ msgstr "Језик"
 
 #: tform_main.mi_litevspro.caption
 msgid "Lite vs Pro (online)"
-msgstr "Lite или Pro (онлајн)"
+msgstr "Lite наспрам Pro (онлајн)"
 
 #: tform_main.mi_loadpreset.caption
 msgid "Load"
@@ -1290,11 +1294,11 @@ msgstr "Подешавања"
 
 #: tform_settings.cb_allowprocessingextensionsinfolders.caption
 msgid "Folders also have extensions, process them as such"
-msgstr ""
+msgstr "Фолдери имају екстензију, тумачити их као такве"
 
 #: tform_settings.cb_highlightchangednames.caption
 msgid "Highlight changed file names"
-msgstr "Истакните промењених имена датотека"
+msgstr "Истакните промењене називе фајла"
 
 #: tform_settings.cb_nonmainformsshowalwayscentered.caption
 msgid "Always show non-main forms centered"
@@ -1313,8 +1317,6 @@ msgid "Add to \"Send To\" context menu"
 msgstr "Додати на мени \"Send To\" опције"
 
 #: tform_settings.checkbox_alwaysontop.caption
-#, fuzzy
-#| msgid "Always on top (main window only, requires a restart)"
 msgid "Stay on top of other windows"
 msgstr "Увек на врху"
 
@@ -1556,8 +1558,6 @@ msgid "(none of the above)"
 msgstr "(ништа од горе наведеног)"
 
 #: tframe_rulecleanup.cb_insertspacebeforecapitals.caption
-#, fuzzy
-#| msgid "Insert a space in front of capitalized letters"
 msgid "Insert a space in front of capitalized letters (e.g. CamelCase)"
 msgstr "Убацити размак испред великих слова"
 
@@ -1828,33 +1828,31 @@ msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Убацити Етикету (Ctrl+Ins)"
 
 #: tframe_rulereformatdate.checkbox_skipextension.caption
-#, fuzzy
 msgctxt "tframe_rulereformatdate.checkbox_skipextension.caption"
 msgid "Skip extension"
 msgstr "Прескочити екстензију"
 
 #: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
 msgid "Use custom long months:"
-msgstr ""
+msgstr "Користити пун назив месеци"
 
 #: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
 msgid "Use custom short months:"
-msgstr ""
+msgstr "Користити скраћени назив месеци"
 
 #: tframe_rulereformatdate.checkbox_wholewordsonly.caption
 msgid "Match as whole words only"
-msgstr ""
+msgstr "Сврстати као целину речи"
 
 #: tframe_rulereformatdate.label_inputformats.caption
 msgid "Find date/time formats:"
-msgstr ""
+msgstr "Пронаћи формат датума/времена"
 
 #: tframe_rulereformatdate.label_outputformat.caption
 msgid "Convert to date/time format:"
-msgstr ""
+msgstr "Претворити у формат датума/времена"
 
 #: tframe_rulereformatdate.menuitem_addseparator.caption
-#, fuzzy
 msgctxt "tframe_rulereformatdate.menuitem_addseparator.caption"
 msgid "Separate multiple items"
 msgstr "Одвојити спојене ставке"
@@ -1866,7 +1864,7 @@ msgstr ""
 
 #: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
 msgid "Date/time format reference (online)"
-msgstr ""
+msgstr "Референца"
 
 #: tframe_ruleregex.checkbox_casesensitive.caption
 msgid "Case-sensitive"
@@ -1921,7 +1919,7 @@ msgstr "Тумачити симболе '?', '*', '[', ']' као џокере?"
 #: tframe_ruleremove.checkbox_wholewordsonly.caption
 msgctxt "tframe_ruleremove.checkbox_wholewordsonly.caption"
 msgid "Whole words only"
-msgstr ""
+msgstr "Само целе речи"
 
 #: tframe_ruleremove.label_removeoccurances.caption
 msgctxt "tframe_ruleremove.label_removeoccurances.caption"
@@ -1969,7 +1967,7 @@ msgstr "Тумачити ?, *, [', '] као џокере и '$n' као пов�
 #: tframe_rulereplace.checkbox_wholewordsonly.caption
 msgctxt "tframe_rulereplace.checkbox_wholewordsonly.caption"
 msgid "Whole words only"
-msgstr ""
+msgstr "Само целе речи"
 
 #: tframe_rulereplace.label_replaceoccurances.caption
 msgctxt "TFRAME_RULEREPLACE.LABEL_REPLACEOCCURANCES.CAPTION"
@@ -2306,8 +2304,6 @@ msgid "Summary Information: Title"
 msgstr "Документ: Наслов"
 
 #: umetatags.s_metatag_email_datesent
-#, fuzzy
-#| msgid "Email date sent"
 msgid "Email date sent in local time zone"
 msgstr "Датум слања имејла у локалној временској зони"
 
@@ -2592,51 +2588,51 @@ msgstr "TIFF Модел"
 
 #: umetatags.s_metatag_torrent_announce
 msgid "Torrent: Announce URL"
-msgstr ""
+msgstr "Торент: Објавити УРЛ"
 
 #: umetatags.s_metatag_torrent_comment
 msgid "Torrent: Comment"
-msgstr ""
+msgstr "Торент: Коментар"
 
 #: umetatags.s_metatag_torrent_countfiles
 msgid "Torrent: Number of files"
-msgstr ""
+msgstr "Торент: Број фајлова"
 
 #: umetatags.s_metatag_torrent_creationdatelocal
 msgid "Torrent: Creation date in local time zone"
-msgstr ""
+msgstr "Торент: Датум прављења у локалној временској зони"
 
 #: umetatags.s_metatag_torrent_creationdateutc
 msgid "Torrent: Creation date in UTC time zone"
-msgstr ""
+msgstr "Торент: Датум прављења у УТЦ временској зони"
 
 #: umetatags.s_metatag_torrent_hash
 msgid "Torrent: Hash"
-msgstr ""
+msgstr "Торент: Hash"
 
 #: umetatags.s_metatag_torrent_name
 msgid "Torrent: Name"
-msgstr ""
+msgstr "Торент: Назив"
 
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
-msgstr ""
+msgstr "Торент: Издавач"
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
-msgstr ""
+msgstr "Торент: Укупна величина у бајтовима"
 
 #: umetatags.s_metatag_torrent_totalsizegb
 msgid "Torrent: Total size in GB"
-msgstr ""
+msgstr "Торент: Укупна величина у ГБ"
 
 #: umetatags.s_metatag_torrent_totalsizekb
 msgid "Torrent: Total size in KB"
-msgstr ""
+msgstr "Торент: Укупна величина у КБ"
 
 #: umetatags.s_metatag_torrent_totalsizemb
 msgid "Torrent: Total size in MB"
-msgstr ""
+msgstr "Торент: Укупна величина у МБ"
 
 #: umetatags.s_metatag_versioninfo_comments
 msgid "Version Information: Comments"
@@ -2865,8 +2861,8 @@ msgstr "Надоградити лиценцу"
 msgid "Failed to delete key: \"%s\""
 msgstr "Неуспело брисање кључа: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "У реду"
 
@@ -2890,10 +2886,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr "Садржи неважеће карактере"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "У реду"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2965,15 +2960,15 @@ msgstr "карактера"
 
 #: urulesex.s_rules_converttovaluefromvalue
 msgid "Convert to %s from %s"
-msgstr ""
+msgstr "Претворити у %s од %s"
 
 #: urulesex.s_rules_customlongmonths
 msgid "Custom long months"
-msgstr ""
+msgstr "Пун назив месеци"
 
 #: urulesex.s_rules_customshortmonths
 msgid "Custom short months"
-msgstr ""
+msgstr "Скраћени назив месеци"
 
 #: urulesex.s_rules_delete
 msgctxt "myrulesex.s_rules_delete"
@@ -3155,7 +3150,6 @@ msgid "Set names of"
 msgstr "Поставити називе од"
 
 #: urulesex.s_rules_skipextension
-#, fuzzy
 msgctxt "urulesex.s_rules_skipextension"
 msgid "Skip extension"
 msgstr "Прескочити екстензију"
@@ -3221,11 +3215,11 @@ msgstr "користећи џокере"
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
 msgid "Whole words only"
-msgstr ""
+msgstr "Само целе речи"
 
 #: urulesex.s_rules_whole_words
 msgid "whole words"
-msgstr ""
+msgstr "целе речи"
 
 #: urulesex.s_rules_with
 msgid "with"
@@ -3472,7 +3466,7 @@ msgstr "Употребите ово правило да раздвојите д�
 
 #: ustrings.msg_rulereformatdatedescription
 msgid "Use this rule to change format of date/time values in the filename."
-msgstr ""
+msgstr "Употребите ово правило да промените формат датума/времена у називу фајла."
 
 #: ustrings.msg_ruleregexdescription
 msgid "Use this rule to replace text in the filename using regular expressions."
@@ -3508,7 +3502,7 @@ msgstr "Изабрати фолдер:"
 
 #: ustrings.msg_shellactionwarninglimit
 msgid "Are you sure you want to execute shell action on %d files?"
-msgstr ""
+msgstr "Сигурни сте да желите да извршите вањску радњу на %d фајл(а)(ова)"
 
 #: ustrings.msg_shell_execute_error
 msgid ""
@@ -3538,7 +3532,6 @@ msgid "Save Translit"
 msgstr "Сачувати Превод"
 
 #: ustrings.msg_undoconfirmfiles
-#, fuzzy
 msgid ""
 "Are you sure you want to undo renaming operation for %d file(s)?\n"
 "\n"
@@ -3582,6 +3575,10 @@ msgstr "%d који се сукобљавају са постојећ(и)(о)м 
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "Упозорење, нађен(а)(о) %d неважећи(а)(х) назив(а) фајл(а)(ова)!"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
@@ -3723,7 +3720,7 @@ msgstr "Преуредити"
 
 #: ustrings.name_rule_reformatdate
 msgid "Reformat Date"
-msgstr ""
+msgstr "Реформирати Датум"
 
 #: ustrings.name_rule_regex
 msgid "RegEx"
@@ -3845,7 +3842,7 @@ msgstr "Музика"
 
 #: ustrings.sfilterspictures
 msgid "Pictures"
-msgstr "СЛике"
+msgstr "Слике"
 
 #: ustrings.sfiltersplaylist
 msgid "Play list"

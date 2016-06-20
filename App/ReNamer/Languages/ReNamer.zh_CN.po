@@ -83,6 +83,10 @@ msgstr "复制"
 msgid "Add your code here"
 msgstr "在此处添加代码"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr "点击 %s 以代码完成"
@@ -183,8 +187,8 @@ msgid "About"
 msgstr "关于"
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
-msgstr "Denis Kozlov"
+msgid "den4b Team"
+msgstr ""
 
 #: tform_about.label_author2.caption
 msgid "Author:"
@@ -1856,7 +1860,7 @@ msgstr "分割多个文件"
 #: tframe_rulereformatdate.menuitem_break1.caption
 msgctxt "tframe_rulereformatdate.menuitem_break1.caption"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tframe_rulereformatdate.menuitem_datetimeformathelp.caption
 msgid "Date/time format reference (online)"
@@ -2842,8 +2846,8 @@ msgstr "更新有效期"
 msgid "Failed to delete key: \"%s\""
 msgstr "无法删除： \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "确定"
 
@@ -2867,10 +2871,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr "包含无效字符"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "确定"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3560,6 +3563,10 @@ msgstr "其中 %d 个与已存在文件冲突。"
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "其中 %d 个包含有无效字符。"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"

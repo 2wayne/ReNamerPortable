@@ -83,6 +83,10 @@ msgstr "KOPÍROVAŤ"
 msgid "Add your code here"
 msgstr "Zadajte Váš kód sem"
 
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr ""
+
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
 msgstr "Stlačte %s pre dokončenie vloženia kódu"
@@ -183,7 +187,7 @@ msgid "About"
 msgstr "O programe..."
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2842,8 +2846,8 @@ msgstr "Platnosť upgradu je ukončená"
 msgid "Failed to delete key: \"%s\""
 msgstr "Zlyhalo zmazanie kľúča: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr "OK"
 
@@ -2863,10 +2867,9 @@ msgstr "Cieľový súbor už existuje"
 msgid "Contains invalid characters"
 msgstr "V obsahu sú nepovolené znaky"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr "OK"
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3556,6 +3559,10 @@ msgstr "%d ,ktoré sú v konflikte s existujúcim súborom."
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "%d ,ktoré obsahujú neplatné znaky."
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr ""
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"

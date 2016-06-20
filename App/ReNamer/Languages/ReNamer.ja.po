@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Japanese\n"
 "X-Language-Name-Native: 日本語\n"
 "X-Translators: Tilt <tiltstr@gmail.com>\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: Poedit 1.8.7\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -82,6 +82,10 @@ msgstr " コピー"
 #: rulepascalscriptframe.saddyourcodehere
 msgid "Add your code here"
 msgstr "ここにコードを追加"
+
+#: rulepascalscriptframe.sholdtoinsertscriptinline
+msgid "Hold %s when loading a script to insert it inline"
+msgstr "スクリプトの読み込み時に %s を押下でインラインに挿入"
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
@@ -183,7 +187,7 @@ msgid "About"
 msgstr "バージョン情報..."
 
 #: tform_about.label_author.caption
-msgid "Denis Kozlov"
+msgid "den4b Team"
 msgstr ""
 
 #: tform_about.label_author2.caption
@@ -2163,7 +2167,7 @@ msgstr "ヒント:"
 
 #: tframe_ruletranslit.label_hinttext.caption
 msgid "Alphabet is a set of couples represented by letters and separated with an equal sign; they stand for translation of non-english characters to their english representation."
-msgstr "アルファベットの設定は、置換する文と文字を等号で区切った組み合わせを 1 セットとします。この設定を元に、英語以外の言語で表現された文を、英語表現に置換して表示します。"
+msgstr "非英字文字と等号で区切られたアルファベット文字がひとつのペアとして表現されています。これは主に非英字文字の翻訳等に利用します。"
 
 #: tframe_ruletranslit.radiobutton_directionbackward.caption
 msgid "Backward"
@@ -2858,8 +2862,8 @@ msgstr "アップグレードの有効期限"
 msgid "Failed to delete key: \"%s\""
 msgstr "キーの削除に失敗: \"%s\""
 
-#: urenfiles.srenameerrorok
-msgctxt "myrenfiles.srenameerrorok"
+#: urenfiles.srenstatusok
+msgctxt "urenfiles.srenstatusok"
 msgid "OK"
 msgstr ""
 
@@ -2883,10 +2887,9 @@ msgctxt "myrenfiles.svalidationinvalid"
 msgid "Contains invalid characters"
 msgstr "無効な文字が含まれています"
 
-#: urenfiles.svalidationvalid
-msgctxt "myrenfiles.svalidationvalid"
-msgid "OK"
-msgstr ""
+#: urenfiles.svalidationmovedparent
+msgid "Parent path changed earlier in the list"
+msgstr "リスト内親パスの変更"
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3188,11 +3191,11 @@ msgstr "末尾"
 
 #: urulesex.s_rules_transliterate
 msgid "Transliterate"
-msgstr "変化規則"
+msgstr "翻字"
 
 #: urulesex.s_rules_try_unique
 msgid "try unique"
-msgstr "ユニークを試みる"
+msgstr "一意で試みる"
 
 #: urulesex.s_rules_until_count_reaches
 msgid "until Count reaches"
@@ -3576,6 +3579,10 @@ msgstr "%d には既に新しいファイルパスがあります"
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
 msgstr "警告, 無効なファイル名 %d が見つかりました!"
+
+#: ustrings.msg_validatedmovedparentfound
+msgid "%d of which have a parent path changed earlier in the list."
+msgstr "%d は以前のリストから親パスが変更されています。"
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
