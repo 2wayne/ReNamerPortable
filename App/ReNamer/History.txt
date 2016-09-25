@@ -1,3 +1,28 @@
+ReNamer 6.6 (2016-09-09)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.5.0.4 Beta (2016-07-06)
+* Added a new "Padding" rule, used for adding and removing zero padding in number sequences.
+* Increased height of the Add Rule dialog to fit an extra rule.
+
+6.5.0.3 Beta (2016-07-04)
+* Added "Export paths to clipboard" option.
+* Fixed incorrect replacement of consecutive "Find" parts. Regression introduced in v6.3.0.3.
+* Other small improvements.
+
+6.5.0.2 Beta (2016-06-22)
+* Handle included files with full paths in PascalScript.
+* Improved error message when an include file is not found in PascalScript.
+* Changed shortcut in PascalScript editor for deleting the current word from Ctrl+T to Ctrl+W, to avoid collision with the shortcut for "Try to Compile" button.
+* Added an example script to demonstrate the use of {$INCLUDE} directive in PascalScript.
+* Added Czech translation file. Thanks to Lukáš Kučera.
+* Updated Russian language file.
+
+6.5.0.1 Beta (2016-06-12)
+* Implemented an include directive in PascalScript, i.e. "{$I filename.pas}".
+* Fixed incorrect display of local Unicode thousand separator.
+
+
 ReNamer 6.5 (2016-06-11)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

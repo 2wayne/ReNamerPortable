@@ -477,6 +477,10 @@ msgstr "Exportovať cesty súborov a spätné cesty."
 msgid "Export new names to clipboard"
 msgstr "Exportovať nové názvy do schránky"
 
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr ""
+
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
 msgid "Filters"
@@ -1748,6 +1752,49 @@ msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Vložiť meta tag (Ctrl+Ins)"
 
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Vynechať príponu"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr ""
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr ""
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "Pozícia:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr ""
+
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
 msgstr "Skúsiť kompilovať"
@@ -2214,18 +2261,6 @@ msgstr "Nahradiť aktuálny názov"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Možnosti"
-
-#: uhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "Nesprávny výber veľkosti pre %s"
-
-#: uhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "Neplatné údaje alebo veľkosť zásobníka "
-
-#: uhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "Nepodporovaný hash typ: %s"
 
 #: umetatags.s_metatag_audio_duration
 msgid "Duration of an Audio file"
@@ -2734,6 +2769,10 @@ msgstr "Výnimka"
 msgid "Pascal Script Execute"
 msgstr "Spustenie Pascal skriptu"
 
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr ""
+
 #: upascalscript.spsline
 msgid "Line"
 msgstr "Riadok"
@@ -2869,6 +2908,14 @@ msgstr "V obsahu sú nepovolené znaky"
 
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
+msgstr ""
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr ""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
 msgstr ""
 
 #: urulesex.s_rules_after
@@ -3048,6 +3095,10 @@ msgstr "Po prvý v poradí"
 msgid "leave delimiter"
 msgstr "ponechať oddeľovač"
 
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr ""
+
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
 msgstr "nový názov nebol zadaný"
@@ -3081,6 +3132,11 @@ msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
 msgstr "Odstrániť"
 
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr ""
+
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
 msgstr "Odstrániť príponu"
@@ -3113,6 +3169,10 @@ msgstr "zresetovať každý index"
 #: urulesex.s_rules_reset_index_if_folder_changes
 msgid "reset index if folder changes"
 msgstr "pri zmene zložky zresetovať index"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr ""
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
@@ -3437,6 +3497,10 @@ msgstr "Použite túto úlohu pre zmenu prípony súboru."
 msgid "Use this rule to insert text into the filename."
 msgstr "Použite túto úlohu pre vloženie textu do názvu súboru."
 
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr ""
+
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "Použite túto úlohu pre skriptovanie užívateľom danými manipuláciami v názve súboru."
@@ -3693,6 +3757,10 @@ msgstr "Prípona"
 msgctxt "mystrings.name_rule_insert"
 msgid "Insert"
 msgstr "Vložiť"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr ""
 
 #: ustrings.name_rule_pascalscript
 msgid "PascalScript"

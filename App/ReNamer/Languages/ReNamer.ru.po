@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Russian\n"
 "X-Language-Name-Native: Русский\n"
 "X-Translators: den4b Team <support@den4b.com>, Роман Старых <starko@pisem.net>, Boomer <http://rsload.net/user/Boomer/>\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -85,7 +85,7 @@ msgstr "Добавьте Ваш код здесь"
 
 #: rulepascalscriptframe.sholdtoinsertscriptinline
 msgid "Hold %s when loading a script to insert it inline"
-msgstr ""
+msgstr "Держите %s при загрузке скрипта для вставки в строку"
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
@@ -476,6 +476,10 @@ msgstr "Экспорт путей к файлам и путей для отме�
 #: tform_main.action_exportnewnamestoclipboard.caption
 msgid "Export new names to clipboard"
 msgstr "Экспорт новых имен в буфер обмена"
+
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr ""
 
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
@@ -1748,6 +1752,49 @@ msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "Вставить мета-тег (Ctrl+Ins)"
 
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Пропускать расширение"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr ""
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr ""
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "Позиция:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr ""
+
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
 msgstr "Компилировать"
@@ -2214,18 +2261,6 @@ msgstr "Заменить текущее имя"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "Опции"
-
-#: uhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr ""
-
-#: uhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr ""
-
-#: uhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr ""
 
 #: umetatags.s_metatag_audio_duration
 msgid "Duration of an Audio file"
@@ -2734,6 +2769,10 @@ msgstr "Исключение"
 msgid "Pascal Script Execute"
 msgstr "Выполнение сценария Pascal"
 
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr "Включаемый файл не найден: %s"
+
 #: upascalscript.spsline
 msgid "Line"
 msgstr "Строка"
@@ -2888,6 +2927,14 @@ msgstr "Содержит недопустимые символы"
 
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
+msgstr "Родительский путь изменен ранее в списке"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr ""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
 msgstr ""
 
 #: urulesex.s_rules_after
@@ -3067,6 +3114,10 @@ msgstr "в начале"
 msgid "leave delimiter"
 msgstr "оставить разделитель"
 
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr ""
+
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
 msgstr "новые имена не определены"
@@ -3100,6 +3151,11 @@ msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
 msgstr "Убрать"
 
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr ""
+
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
 msgstr "Удалить расширение"
@@ -3132,6 +3188,10 @@ msgstr "сбросить каждый"
 #: urulesex.s_rules_reset_index_if_folder_changes
 msgid "reset index if folder changes"
 msgstr "сбросить при смене папки"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr ""
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
@@ -3457,6 +3517,10 @@ msgstr "Это правило позволяет изменить расшире
 msgid "Use this rule to insert text into the filename."
 msgstr "Это правило позволяет вставить текст в имя файла."
 
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr ""
+
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "Это правило позволяет пользователю выполнять манипуляции с именем файла с помощью скрипта."
@@ -3578,11 +3642,11 @@ msgstr "%d из них конфликтуют с существующими пу
 
 #: ustrings.msg_validatedinvalidfound
 msgid "%d of which contain invalid characters."
-msgstr "Внимание, найдено %d недопустимых имен файлов!"
+msgstr "%d из них содержат недопустимые символы."
 
 #: ustrings.msg_validatedmovedparentfound
 msgid "%d of which have a parent path changed earlier in the list."
-msgstr ""
+msgstr "%d из них имеют измененный родительский путь ранее в списке."
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
@@ -3714,6 +3778,10 @@ msgstr "Расширение"
 msgctxt "mystrings.name_rule_insert"
 msgid "Insert"
 msgstr "Вставить"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr ""
 
 #: ustrings.name_rule_pascalscript
 msgid "PascalScript"

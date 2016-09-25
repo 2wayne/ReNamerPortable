@@ -456,6 +456,10 @@ msgstr ""
 msgid "Export new names to clipboard"
 msgstr ""
 
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr ""
+
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
 msgid "Filters"
@@ -1727,6 +1731,49 @@ msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr ""
 
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "TFRAME_RULEPADDING.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr ""
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr ""
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "TFRAME_RULEPADDING.LABEL_POSITION.CAPTION"
+msgid "Position:"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr ""
+
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
 msgstr ""
@@ -2192,18 +2239,6 @@ msgstr ""
 #: tframe_ruleuserinput.sb_options.caption
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
-msgstr ""
-
-#: uhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr ""
-
-#: uhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr ""
-
-#: uhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
 msgstr ""
 
 #: umetatags.s_metatag_audio_duration
@@ -2713,6 +2748,10 @@ msgstr ""
 msgid "Pascal Script Execute"
 msgstr ""
 
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr ""
+
 #: upascalscript.spsline
 msgid "Line"
 msgstr ""
@@ -2848,6 +2887,14 @@ msgstr ""
 
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
+msgstr ""
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr ""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
 msgstr ""
 
 #: urulesex.s_rules_after
@@ -3027,6 +3074,10 @@ msgstr ""
 msgid "leave delimiter"
 msgstr ""
 
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr ""
+
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
 msgstr ""
@@ -3060,6 +3111,11 @@ msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
 msgstr ""
 
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr ""
+
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
 msgstr ""
@@ -3091,6 +3147,10 @@ msgstr ""
 
 #: urulesex.s_rules_reset_index_if_folder_changes
 msgid "reset index if folder changes"
+msgstr ""
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
 msgstr ""
 
 #: urulesex.s_rules_right_to_left
@@ -3384,6 +3444,10 @@ msgstr ""
 msgid "Use this rule to insert text into the filename."
 msgstr ""
 
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr ""
+
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr ""
@@ -3620,6 +3684,10 @@ msgstr ""
 #: ustrings.name_rule_insert
 msgctxt "mystrings.name_rule_insert"
 msgid "Insert"
+msgstr ""
+
+#: ustrings.name_rule_padding
+msgid "Padding"
 msgstr ""
 
 #: ustrings.name_rule_pascalscript

@@ -477,6 +477,10 @@ msgstr "ファイルパスとアンドゥパスをエクスポート"
 msgid "Export new names to clipboard"
 msgstr "新しい名前をクリップボードにエクスポート"
 
+#: tform_main.action_exportpathstoclipboard.caption
+msgid "Export paths to clipboard"
+msgstr ""
+
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
 msgid "Filters"
@@ -1749,6 +1753,49 @@ msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
 msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr "メタ タグを挿入します (Ctrl+Ins)"
 
+#: tframe_rulepadding.checkbox_addtextpadding.caption
+msgid "Add padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_addzeropadding.caption
+msgid "Add zero padding to length:"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_removezeropadding.caption
+msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
+msgid "Remove zero padding"
+msgstr ""
+
+#: tframe_rulepadding.checkbox_skipextension.caption
+msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulepadding.groupbox_numbersequences.caption
+msgid "Number sequences"
+msgstr ""
+
+#: tframe_rulepadding.groupbox_textpadding.caption
+msgid "Text padding"
+msgstr ""
+
+#: tframe_rulepadding.label_paddingcharacters.caption
+msgid "Padding characters:"
+msgstr ""
+
+#: tframe_rulepadding.label_position.caption
+msgctxt "tframe_rulepadding.label_position.caption"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_rulepadding.radiobutton_positionleft.caption
+msgid "Left"
+msgstr ""
+
+#: tframe_rulepadding.radiobutton_positionright.caption
+msgid "Right"
+msgstr ""
+
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
 msgstr "コンパイルを実行"
@@ -2215,18 +2262,6 @@ msgstr "現在の名前と置換"
 msgctxt "TFRAME_RULEUSERINPUT.SB_OPTIONS.CAPTION"
 msgid "Options"
 msgstr "設定"
-
-#: uhash.sincorrectdigestsize
-msgid "Incorrect digest size for %s"
-msgstr "%s に不適切なダイジェストサイズ"
-
-#: uhash.sinvaliddataorbuffersize
-msgid "Invalid data or buffer size"
-msgstr "無効なデータ、またはバッファサイズ"
-
-#: uhash.snotsupportedhashtype
-msgid "Not supported hash type: %s"
-msgstr "未対応のハッシュ形式: %s"
 
 #: umetatags.s_metatag_audio_duration
 msgid "Duration of an Audio file"
@@ -2735,6 +2770,10 @@ msgstr "例外"
 msgid "Pascal Script Execute"
 msgstr "Pascal スクリプト・実行"
 
+#: upascalscript.spsincludedfilenotfound
+msgid "Included file not found: %s"
+msgstr ""
+
 #: upascalscript.spsline
 msgid "Line"
 msgstr "行"
@@ -2890,6 +2929,14 @@ msgstr "無効な文字が含まれています"
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
 msgstr "リスト内親パスの変更"
+
+#: urulesex.s_rules_addtextpaddingtolength
+msgid "Add text padding to length %s with \"%s\" characters"
+msgstr ""
+
+#: urulesex.s_rules_addzeropaddingtolength
+msgid "Add zero padding to length %s"
+msgstr ""
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -3068,6 +3115,10 @@ msgstr "先頭"
 msgid "leave delimiter"
 msgstr "区切りを残す"
 
+#: urulesex.s_rules_leftside
+msgid "Left side"
+msgstr ""
+
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
 msgstr "新たな名前が定義されていません"
@@ -3101,6 +3152,11 @@ msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
 msgstr "除去"
 
+#: urulesex.s_rules_removezeropadding
+msgctxt "urulesex.s_rules_removezeropadding"
+msgid "Remove zero padding"
+msgstr ""
+
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
 msgstr "拡張子を除去"
@@ -3133,6 +3189,10 @@ msgstr "常にインデックスをリセット"
 #: urulesex.s_rules_reset_index_if_folder_changes
 msgid "reset index if folder changes"
 msgstr "フォルダ変更時はインデックスをリセット"
+
+#: urulesex.s_rules_rightside
+msgid "Right side"
+msgstr ""
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
@@ -3457,6 +3517,10 @@ msgstr "この規則を使用して、ファイルの拡張子を変更"
 msgid "Use this rule to insert text into the filename."
 msgstr "この規則を使用して、ファイル名にテキストを挿入"
 
+#: ustrings.msg_rulepaddingdescription
+msgid "Use this rule to add or remove padding in number sequences."
+msgstr ""
+
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "ユーザ定義の複数ファイル名変換スクリプトにこの規則を使用する"
@@ -3713,6 +3777,10 @@ msgstr "拡張子"
 msgctxt "mystrings.name_rule_insert"
 msgid "Insert"
 msgstr "挿入"
+
+#: ustrings.name_rule_padding
+msgid "Padding"
+msgstr ""
 
 #: ustrings.name_rule_pascalscript
 msgid "PascalScript"
