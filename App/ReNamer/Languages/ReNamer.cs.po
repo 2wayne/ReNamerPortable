@@ -321,7 +321,7 @@ msgstr "Obnovit strom"
 #: tform_browse.n1.caption
 msgctxt "tform_browse.n1.caption"
 msgid "-"
-msgstr "-"
+msgstr ""
 
 #: tform_browse.sb_gotofolder.caption
 msgctxt "tform_browse.sb_gotofolder.caption"
@@ -1384,6 +1384,10 @@ msgstr "Pamatovat si poslední polohu a velikost hlavního okna"
 msgid "Save rules configuration on exit, load on startup"
 msgstr "Uložit konfiguraci pravidel při ukončení, ukládání a spouštění"
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr ""
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr "Pamatovat si volby řazení (tabulky souborů)"
@@ -1697,6 +1701,16 @@ msgstr "Nová přípona (bez tečky):"
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr "Pozn.: Některé soubory mohou mít více přípon odpovídajících jejich datovému typu, například: doc/ppt/xls mají stejnou signaturu. Nerozpoznané soubory zůstanou nezměněny. Pokud je tato možnost použita, pole pro zadání nové přípony bude ignorováno."
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "Vložit Meta tag"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Vložit Meta tag (Ctrl+Ins)"
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1742,15 +1756,6 @@ msgstr "Suffix"
 msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
 msgid "Replace current name"
 msgstr "Nahradit současný název"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr "Vložit Meta tag"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
-msgstr "Vložit Meta tag (Ctrl+Ins)"
 
 #: tframe_rulepadding.checkbox_addtextpadding.caption
 msgid "Add padding to length:"
@@ -1829,6 +1834,76 @@ msgstr "Skripty"
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
 msgstr "Skripty (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Přeskočit příponu"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "Jedinečné, pokud možno"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+#, fuzzy
+#| msgid "Digits:"
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "Číslice:"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "Uživatelské:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr ""
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Vložit kam:"
+
+#: tframe_rulerandomize.label_length.caption
+#, fuzzy
+#| msgid "Length:"
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "Délka:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "Pozice:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "Prefix"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Nahradit současný název"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "Suffix"
 
 #: tframe_rulerearrange.cb_righttoleft.caption
 msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
@@ -2067,36 +2142,19 @@ msgstr "Resetovat při změně složky"
 msgid "Pad with zeros to length:"
 msgstr "Doplnit nulami do délky:"
 
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr "Jedinečné, pokud možno"
-
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr "Přeskočit příponu"
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr ""
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
 msgstr "Vložit kam:"
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
-msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
 msgstr "Index začíná:"
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
-msgstr "Délka:"
 
 #: tframe_ruleserialize.label_repeat.caption
 msgid "Repeat:"
@@ -2105,6 +2163,11 @@ msgstr "Opakovat:"
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
 msgstr "Krok:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Nahradit současný název"
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
@@ -2120,14 +2183,6 @@ msgstr "Prefix"
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
 msgstr "Suffix"
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr "Posloupně"
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
-msgstr "Náhodně"
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
 msgid "Strip all characters except selected"
@@ -2147,6 +2202,7 @@ msgid "Brackets:"
 msgstr "Závorky:"
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr "Číslice:"
 
@@ -2160,6 +2216,7 @@ msgid "Symbols:"
 msgstr "Symboly:"
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr "Uživatelské:"
 
@@ -2168,10 +2225,12 @@ msgid "(){}[]"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr "abcdefghijklmnopqrstuvwxyz"
 
@@ -2197,6 +2256,11 @@ msgstr "Na konci"
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
 msgstr "Abeceda"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr ""
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
 msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
@@ -2406,9 +2470,17 @@ msgstr "Celá adresa souboru"
 msgid "Name of the parent folder"
 msgstr "Název nadřazené složky"
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
 msgstr "Velikost souboru v bajtech"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr ""
 
 #: umetatags.s_metatag_file_sizekb
 msgid "Size of file in KB"
@@ -2593,7 +2665,8 @@ msgstr "Zpráva Outlooku: Datum odeslání v místním časovém pásmu"
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr "Zpráva Outlooku: Datum odeslání v UTC časovém pásmu"
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr "Zpráva Outlooku: ID"
 
@@ -2652,6 +2725,10 @@ msgstr "Torrent: název"
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
 msgstr "Torrent: vydavatel"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr ""
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
@@ -2881,10 +2958,6 @@ msgstr "Registrace proběhla úspěšně!"
 msgid "Upgrade expiry"
 msgstr "Vypršení vylepšení"
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Selhalo smazání klíče: \"%s\""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2962,9 +3035,18 @@ msgstr "jako suffix"
 msgid "at Position"
 msgstr "na pozici"
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr ""
+
 #: urulesex.s_rules_before
 msgid "before"
 msgstr "před"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr ""
 
 #: urulesex.s_rules_capitalize_and_preserve
 msgid "Capitalize and preserve"
@@ -3127,6 +3209,11 @@ msgstr "Prefix názvů"
 msgid "Prepare for SharePoint"
 msgstr "Připravit pro SharePoint"
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr ""
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3179,11 +3266,15 @@ msgid "right-to-left"
 msgstr "zprava doleva"
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
+#, fuzzy
+#| msgid "Serialize Incremental from"
+msgid "Incremental from"
 msgstr "Serializovat posloupně od"
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
+#, fuzzy
+#| msgid "Serialize Random with length"
+msgid "Random with length"
 msgstr "Serializovat náhodně o délce"
 
 #: urulesex.s_rules_set_names_of
@@ -3252,6 +3343,10 @@ msgstr "do konce"
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
 msgstr "pomocí zástupných znaků"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr ""
 
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
@@ -3506,6 +3601,10 @@ msgstr ""
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "Toto pravidlo použijte k sepsání skriptu, který umožní uživatelskou manipulaci s názvem souboru."
 
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr ""
+
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
 msgstr "Toto pravidlo použijte k oddělení částí názvu souboru a jejich přeskupení podle nové šablony."
@@ -3527,7 +3626,9 @@ msgid "Use this rule to replace text in the filename."
 msgstr "Toto pravidlo použijte k nahrazení textu v názvu souboru."
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+#, fuzzy
+#| msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
 msgstr "Toto pravidlo použijte k serializaci názvu souboru (přidání posloupných nebo náhodných čísel)."
 
 #: ustrings.msg_rulestripdescription
@@ -3741,7 +3842,8 @@ msgid "Case"
 msgstr "Velikost písmen"
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+#| msgid "CleanUp"
+msgid "Clean Up"
 msgstr "Vyčistit"
 
 #: ustrings.name_rule_delete
@@ -3764,8 +3866,13 @@ msgid "Padding"
 msgstr ""
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+#| msgid "PascalScript"
+msgid "Pascal Script"
 msgstr "Pascal Skript"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr ""
 
 #: ustrings.name_rule_rearrange
 msgid "Rearrange"
@@ -3776,7 +3883,8 @@ msgid "Reformat Date"
 msgstr "Změnit formát data"
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+#| msgid "RegEx"
+msgid "Regular Expressions"
 msgstr "RegEx"
 
 #: ustrings.name_rule_remove
@@ -3803,7 +3911,8 @@ msgid "Translit"
 msgstr "Přepis"
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+#| msgid "UserInput"
+msgid "User Input"
 msgstr "Uživatelský vstup"
 
 #: ustrings.name_saverule

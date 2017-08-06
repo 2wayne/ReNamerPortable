@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Russian\n"
 "X-Language-Name-Native: Русский\n"
 "X-Translators: den4b Team <support@den4b.com>, Роман Старых <starko@pisem.net>, Boomer <http://rsload.net/user/Boomer/>\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.12\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -479,7 +479,7 @@ msgstr "Экспорт новых имен в буфер обмена"
 
 #: tform_main.action_exportpathstoclipboard.caption
 msgid "Export paths to clipboard"
-msgstr ""
+msgstr "Экспорт путей файлов в буфер обмена"
 
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
@@ -1384,6 +1384,10 @@ msgstr "Запоминать позицию и размер (главное ок
 msgid "Save rules configuration on exit, load on startup"
 msgstr "Запоминать настройки правил при выходе"
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Пропускать не измененные файлы при переименовании"
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr "Запоминать опции сортировки (список файлов)"
@@ -1697,6 +1701,16 @@ msgstr "Новое расширение (без точки):"
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr "Внимание: Некоторым файлам, в зависимости от типа данных, может соответствовать несколько расширений. Например: файлы .doc, .ppt и .xls имеют одинаковую подпись. Неопознанные файлы не будут изменены. Если эта опция включена, поле \"Новое расширение\" будет проигнорировано."
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "Вставить мета-тег"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Вставить мета-тег (Ctrl+Ins)"
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1743,27 +1757,18 @@ msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
 msgstr "Заменить текущее имя"
 
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr "Вставить мета-тег"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
-msgstr "Вставить мета-тег (Ctrl+Ins)"
-
 #: tframe_rulepadding.checkbox_addtextpadding.caption
 msgid "Add padding to length:"
-msgstr ""
+msgstr "Добавить до длины:"
 
 #: tframe_rulepadding.checkbox_addzeropadding.caption
 msgid "Add zero padding to length:"
-msgstr ""
+msgstr "Добавить нули до длины:"
 
 #: tframe_rulepadding.checkbox_removezeropadding.caption
 msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "Убрать впереди идущие нули"
 
 #: tframe_rulepadding.checkbox_skipextension.caption
 msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
@@ -1772,15 +1777,15 @@ msgstr "Пропускать расширение"
 
 #: tframe_rulepadding.groupbox_numbersequences.caption
 msgid "Number sequences"
-msgstr ""
+msgstr "Числа"
 
 #: tframe_rulepadding.groupbox_textpadding.caption
 msgid "Text padding"
-msgstr ""
+msgstr "Текст"
 
 #: tframe_rulepadding.label_paddingcharacters.caption
 msgid "Padding characters:"
-msgstr ""
+msgstr "Символы для заполнения:"
 
 #: tframe_rulepadding.label_position.caption
 msgctxt "tframe_rulepadding.label_position.caption"
@@ -1789,11 +1794,11 @@ msgstr "Позиция:"
 
 #: tframe_rulepadding.radiobutton_positionleft.caption
 msgid "Left"
-msgstr ""
+msgstr "Слева"
 
 #: tframe_rulepadding.radiobutton_positionright.caption
 msgid "Right"
-msgstr ""
+msgstr "Справа"
 
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
@@ -1829,6 +1834,65 @@ msgstr "Скрипты"
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
 msgstr "Скрипты (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Пропускать расширение"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "Желательно уникальные"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "Цифры (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "Английские буквы (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "Указанные:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "Использовать символы:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Куда вставить:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "Длина последовательности:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "Позиция:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "Префикс"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменить текущее имя"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "Суффикс"
 
 #: tframe_rulerearrange.cb_righttoleft.caption
 msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
@@ -1881,15 +1945,15 @@ msgstr "Пропускать расширение"
 
 #: tframe_rulereformatdate.checkbox_usecustomlongmonths.caption
 msgid "Use custom long months:"
-msgstr "Длинные имена месяцев:"
+msgstr "Длинные названия месяцев:"
 
 #: tframe_rulereformatdate.checkbox_usecustomshortmonths.caption
 msgid "Use custom short months:"
-msgstr "Короткие имена месяцев:"
+msgstr "Короткие названия месяцев:"
 
 #: tframe_rulereformatdate.checkbox_wholewordsonly.caption
 msgid "Match as whole words only"
-msgstr "Искать как слова целиком"
+msgstr "Искать только целые слова"
 
 #: tframe_rulereformatdate.label_inputformats.caption
 msgid "Find date/time formats:"
@@ -2065,38 +2129,21 @@ msgstr "Сброс при смене папки"
 
 #: tframe_ruleserialize.checkbox_serializepadtolength.caption
 msgid "Pad with zeros to length:"
-msgstr "Дополнить нолями до:"
-
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr "Желательно уникальные"
+msgstr "Добавить нули до длины:"
 
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr "Пропускать расширение"
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr ""
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
 msgstr "Куда вставить:"
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
-msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
 msgstr "Начать с:"
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
-msgstr "Длина:"
 
 #: tframe_ruleserialize.label_repeat.caption
 msgid "Repeat:"
@@ -2105,6 +2152,11 @@ msgstr "Повтор:"
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
 msgstr "Шаг:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменить текущее имя"
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
@@ -2120,14 +2172,6 @@ msgstr "Префикс"
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
 msgstr "Суффикс"
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr "Последовательно"
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
-msgstr "Случайно"
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
 msgid "Strip all characters except selected"
@@ -2147,6 +2191,7 @@ msgid "Brackets:"
 msgstr "Скобки:"
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr "Цифры:"
 
@@ -2160,6 +2205,7 @@ msgid "Symbols:"
 msgstr "Символы:"
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr "Указанные:"
 
@@ -2168,10 +2214,12 @@ msgid "(){}[]"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr ""
 
@@ -2197,6 +2245,11 @@ msgstr "В конце"
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
 msgstr "Алфавит"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr "Приспосабливать регистр"
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
 msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
@@ -2406,17 +2459,25 @@ msgstr "Полный путь"
 msgid "Name of the parent folder"
 msgstr "Имя родительской папки"
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr "Размер файла"
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
-msgstr "Размер в байтах"
+msgstr "Размер файла в байтах"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr "Размер файла в Гб"
 
 #: umetatags.s_metatag_file_sizekb
 msgid "Size of file in KB"
-msgstr "Размер в Кб"
+msgstr "Размер файла в Кб"
 
 #: umetatags.s_metatag_file_sizemb
 msgid "Size of file in MB"
-msgstr "Размер в Мб"
+msgstr "Размер файла в Мб"
 
 #: umetatags.s_metatag_flac_album
 msgid "FLAC Album"
@@ -2593,7 +2654,8 @@ msgstr "Outlook Сообщение: Дата отправки в местном 
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr "Outlook Сообщение: Дата отправки в часовом поясе UTC"
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr "Outlook Сообщение: ID"
 
@@ -2652,6 +2714,10 @@ msgstr "Торрент: Название"
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
 msgstr "Торрент: Издатель"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr "Торрент: Общий размер"
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
@@ -2896,10 +2962,6 @@ msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "Дата истечения обновлений"
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Не удалось удалить ключ: \"%s\""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2931,11 +2993,11 @@ msgstr "Родительский путь изменен ранее в спис�
 
 #: urulesex.s_rules_addtextpaddingtolength
 msgid "Add text padding to length %s with \"%s\" characters"
-msgstr ""
+msgstr "Добавить буквы до длины %s используя \"%s\""
 
 #: urulesex.s_rules_addzeropaddingtolength
 msgid "Add zero padding to length %s"
-msgstr ""
+msgstr "Добавить нули до длины %s"
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2959,7 +3021,7 @@ msgstr "Все верхний регистр"
 
 #: urulesex.s_rules_and_pad_to_length
 msgid "and pad to length"
-msgstr "и заполнить по длине"
+msgstr "и заполнить до длины"
 
 #: urulesex.s_rules_append
 msgid "append"
@@ -2981,9 +3043,18 @@ msgstr "как суффикс"
 msgid "at Position"
 msgstr "в позиции"
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Приспосабливать регистр"
+
 #: urulesex.s_rules_before
 msgid "before"
 msgstr "перед"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Нельзя изменить настройки правила."
 
 #: urulesex.s_rules_capitalize_and_preserve
 msgid "Capitalize and preserve"
@@ -3116,7 +3187,7 @@ msgstr "оставить разделитель"
 
 #: urulesex.s_rules_leftside
 msgid "Left side"
-msgstr ""
+msgstr "С левой стороны"
 
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
@@ -3146,6 +3217,11 @@ msgstr "Префикс имен"
 msgid "Prepare for SharePoint"
 msgstr "Подготовка для SharePoint"
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "Случайная индексация с длиной %s используя символы \"%s\""
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3154,7 +3230,7 @@ msgstr "Убрать"
 #: urulesex.s_rules_removezeropadding
 msgctxt "urulesex.s_rules_removezeropadding"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "Убрать впереди идущие нули"
 
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
@@ -3191,18 +3267,18 @@ msgstr "сбросить при смене папки"
 
 #: urulesex.s_rules_rightside
 msgid "Right side"
-msgstr ""
+msgstr "С правой стороны"
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
 msgstr "справа налево"
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
+msgid "Incremental from"
 msgstr "Добавочная индексация от"
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
+msgid "Random with length"
 msgstr "Случайная индексация с длиной"
 
 #: urulesex.s_rules_set_names_of
@@ -3271,6 +3347,10 @@ msgstr "до конца"
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
 msgstr "используя подстановку"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "Настройки правила используют устаревшую случайную сериализацию, вместо этого используйте специально предназначенное правило."
 
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
@@ -3519,11 +3599,15 @@ msgstr "Это правило позволяет вставить текст в 
 
 #: ustrings.msg_rulepaddingdescription
 msgid "Use this rule to add or remove padding in number sequences."
-msgstr ""
+msgstr "Это правило позволяет добавить или убрать обшивку чисел (впереди идущие нули)."
 
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "Это правило позволяет пользователю выполнять манипуляции с именем файла с помощью скрипта."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Это правило позволяет вставить в имя файла случайную последовательность."
 
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
@@ -3531,7 +3615,7 @@ msgstr "Это правило позволяет отделить части и�
 
 #: ustrings.msg_rulereformatdatedescription
 msgid "Use this rule to change format of date/time values in the filename."
-msgstr "Это правило используется для изменения формата значений даты и времени в имени файла."
+msgstr "Это правило позволяет изменить формат значений даты и времени в имени файла."
 
 #: ustrings.msg_ruleregexdescription
 msgid "Use this rule to replace text in the filename using regular expressions."
@@ -3546,8 +3630,8 @@ msgid "Use this rule to replace text in the filename."
 msgstr "Это правило позволяет заменить текст в имени файла."
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Это правило позволяет индексировать имена файлов (добавить последовательную или произвольную нумерацию)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Это правило позволяет последовательно пронумеровать имена файлов."
 
 #: ustrings.msg_rulestripdescription
 msgid "Use this rule to strip sets of characters from the filename."
@@ -3761,7 +3845,8 @@ msgid "Case"
 msgstr "Регистр"
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+#| msgid "CleanUp"
+msgid "Clean Up"
 msgstr "Очистка"
 
 #: ustrings.name_rule_delete
@@ -3781,11 +3866,16 @@ msgstr "Вставить"
 
 #: ustrings.name_rule_padding
 msgid "Padding"
-msgstr ""
+msgstr "Обшивка"
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+#| msgid "PascalScript"
+msgid "Pascal Script"
 msgstr "Скрипт (Pascal)"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Рандомизация"
 
 #: ustrings.name_rule_rearrange
 msgid "Rearrange"
@@ -3793,10 +3883,11 @@ msgstr "Переставить"
 
 #: ustrings.name_rule_reformatdate
 msgid "Reformat Date"
-msgstr "Форматировать дату"
+msgstr "Формат даты"
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+#| msgid "RegEx"
+msgid "Regular Expressions"
 msgstr "Рег. выражения"
 
 #: ustrings.name_rule_remove
@@ -3811,7 +3902,7 @@ msgstr "Заменить"
 
 #: ustrings.name_rule_serialize
 msgid "Serialize"
-msgstr "Индексация"
+msgstr "Нумерация"
 
 #: ustrings.name_rule_strip
 msgctxt "mystrings.name_rule_strip"
@@ -3823,7 +3914,8 @@ msgid "Translit"
 msgstr "Транслит"
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+#| msgid "UserInput"
+msgid "User Input"
 msgstr "Список имен"
 
 #: ustrings.name_saverule

@@ -1,5 +1,5 @@
 var
-  Files: TStringsArray;
+  Files: TWideStringArray;
 
 procedure Add(const S: WideString);
 begin

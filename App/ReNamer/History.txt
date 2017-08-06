@@ -1,3 +1,70 @@
+ReNamer 6.7 (2017-03-29)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+6.6.0.7 Beta (2017-02-23)
+* Strip surrounding white space characters from EXIF Make, Model and Description tags.
+* Display fractional part in "Size KB" and "Size MB" columns in the files table.
+* Format file size and torrent size meta tags using locale symbols and 2 fractional digits.
+* Added "Torrent_TotalSize", "File_Size" and "File_SizeGB" meta tags.
+* Improved routines for number formatting based on locale settings.
+* Updated bundled User Manual (PDF file).
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated Russian language file.
+
+6.6.0.6 Beta (2017-02-05)
+* Added an option to skip renaming of unchanged files.
+* Fixed an incorrect DST offset applied to file dates outside of current DST period.
+* Replaced internal use of TStringsArray with TWideStringArray in Pascal Script.
+* Added FileReadText function to Pascal Script.
+* Updated Russian language file.
+
+6.6.0.5 Beta (2017-01-16)
+* Added "/silent" switch to ignore warnings and errors during command line renaming.
+* Set non-zero exit code when command line renaming fails in silent mode.
+* Refactored command line parsing mechanism.
+* Added colored arrow icons to import/export options to improve visual identification.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+6.6.0.4 Beta (2016-12-04)
+* Use the first day of the current year to substitute missing components in parsed dates in the Reformat Date rule.
+* Fixed ignoring of trailing digits in short date pattern components (M, D, H, N, S, Z) in the Reformat Date rule.
+* Rearranged the display order of rules: Reformat Date and Padding rules moved up in the list.
+* Minor re-alignment of checkboxes in the Padding rule configuration window.
+* Updated Russian language file.
+
+6.6.0.3 Beta (2016-11-27)
+* Added Randomize rule for inserting random sequences into filenames.
+* Random serialization option in the Serialize rule has been deprecated.
+* Added option to replace the current name in Serialize and Randomize rules.
+* Added an option to disable automatic case adjustments performed by the Translit rule.
+* Disabled word-wrap, enabled horizontal scrollbar and improved resizing of components in the Translit rule configuration window.
+* Updated Russian language file.
+
+6.6.0.2 Beta (2016-11-12)
+* Reformat Date rule: Correctly handle repeated time format components.
+* Reformat Date rule: Allow partial date and time format parsing, e.g. "YYYY", "DD MMM", "NN:SS".
+* Reformat Date rule: Case insensitive matching of Unicode month names.
+* Added functions to PascalScript: OemToAnsi, OemToWide, AnsiToOem, WideToOem.
+* Fixed potential output buffer corruption in ExecConsoleApp function.
+* ExecConsoleApp function no longer applies OEM to ANSI conversion to the console output.
+* Made "Insert Meta Tags" button in the Insert rule more prominent.
+* Updated Serbian language file. Thanks to Никола Алексић (eR@SeR).
+* Updated Russian language file.
+
+6.6.0.1 Beta (2016-09-12)
+* Reimplemented Outlook MSG file parser used for Outlook_* meta tags.
+* Reimplemented email headers parsing used for Email_* and Outlook_* meta tags.
+* Email_* meta tags can handle Unicode file names.
+* Added more Email_* meta tags: MessageID, SenderName, SenderEmail, Recipients, Recipient, RecipientName, RecipientEmail.
+* Added more Outlook_* meta tags: SenderName, SenderEmail, Recipients, Recipient, RecipientName, RecipientEmail.
+* Renamed Outlook_ID meta tag to Outlook_MessageID for consistency.
+* Changed English rule names from CamelCase to spaced capitalization.
+* Added WideTextPosEx, IsWideWordBoundaryLeft and IsWideWordBoundaryRight functions to Pascal Script.
+* Updated Japanese language file. Thanks to Tilt.
+* Updated French language file. Thanks to Ozzii.
+* Updated Chinese Simplified language file. Thanks to WanderMax.
+
+
 ReNamer 6.6 (2016-09-09)
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

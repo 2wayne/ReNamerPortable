@@ -1363,6 +1363,10 @@ msgstr ""
 msgid "Save rules configuration on exit, load on startup"
 msgstr ""
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr ""
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr ""
@@ -1676,6 +1680,16 @@ msgstr ""
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr ""
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.CAPTION"
+msgid "Insert Meta Tag"
+msgstr ""
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "TFRAME_RULEINSERT.BITBTN_INSERTMETATAG.HINT"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr ""
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1720,15 +1734,6 @@ msgstr ""
 #: tframe_ruleinsert.radiobutton_replacecurrentname.caption
 msgctxt "TFRAME_RULEINSERT.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
 msgid "Replace current name"
-msgstr ""
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr ""
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
 msgstr ""
 
 #: tframe_rulepadding.checkbox_addtextpadding.caption
@@ -1807,6 +1812,65 @@ msgstr ""
 
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
+msgid "Skip extension"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_UNIQUE.CAPTION"
+msgid "Unique if possible"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEDIGITS.CAPTION"
+msgid "Digits (0..9)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "TFRAME_RULERANDOMIZE.CHECKBOX_USEUSERDEFINED.CAPTION"
+msgid "User defined:"
+msgstr ""
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_CHARACTERS.CAPTION"
+msgid "Characters to use:"
+msgstr ""
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "TFRAME_RULERANDOMIZE.GROUPBOX_INSERTWHERE.CAPTION"
+msgid "Insert where:"
+msgstr ""
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "TFRAME_RULERANDOMIZE.LABEL_LENGTH.CAPTION"
+msgid "Length of random sequence:"
+msgstr ""
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_POSITION.CAPTION"
+msgid "Position:"
+msgstr ""
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_PREFIX.CAPTION"
+msgid "Prefix"
+msgstr ""
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
+msgstr ""
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "TFRAME_RULERANDOMIZE.RADIOBUTTON_SUFFIX.CAPTION"
+msgid "Suffix"
 msgstr ""
 
 #: tframe_rulerearrange.cb_righttoleft.caption
@@ -2046,35 +2110,18 @@ msgstr ""
 msgid "Pad with zeros to length:"
 msgstr ""
 
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr ""
-
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr ""
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr ""
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
-msgstr ""
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
 msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
-msgstr ""
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
 msgstr ""
 
 #: tframe_ruleserialize.label_repeat.caption
@@ -2083,6 +2130,11 @@ msgstr ""
 
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
+msgstr ""
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_REPLACECURRENTNAME.CAPTION"
+msgid "Replace current name"
 msgstr ""
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
@@ -2098,14 +2150,6 @@ msgstr ""
 #: tframe_ruleserialize.radiobutton_serializesuffix.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
-msgstr ""
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr ""
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
 msgstr ""
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
@@ -2126,6 +2170,7 @@ msgid "Brackets:"
 msgstr ""
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr ""
 
@@ -2139,6 +2184,7 @@ msgid "Symbols:"
 msgstr ""
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr ""
 
@@ -2147,10 +2193,12 @@ msgid "(){}[]"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr ""
 
@@ -2175,6 +2223,11 @@ msgstr ""
 
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
+msgstr ""
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_ADJUSTCASE.CAPTION"
+msgid "Auto case adjustment"
 msgstr ""
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
@@ -2385,8 +2438,16 @@ msgstr ""
 msgid "Name of the parent folder"
 msgstr ""
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
+msgstr ""
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
 msgstr ""
 
 #: umetatags.s_metatag_file_sizekb
@@ -2572,7 +2633,8 @@ msgstr ""
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr ""
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr ""
 
@@ -2630,6 +2692,10 @@ msgstr ""
 
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
+msgstr ""
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
 msgstr ""
 
 #: umetatags.s_metatag_torrent_totalsizebytes
@@ -2860,10 +2926,6 @@ msgstr ""
 msgid "Upgrade expiry"
 msgstr ""
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr ""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2941,8 +3003,17 @@ msgstr ""
 msgid "at Position"
 msgstr ""
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr ""
+
 #: urulesex.s_rules_before
 msgid "before"
+msgstr ""
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
 msgstr ""
 
 #: urulesex.s_rules_capitalize_and_preserve
@@ -3106,6 +3177,11 @@ msgstr ""
 msgid "Prepare for SharePoint"
 msgstr ""
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr ""
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3158,11 +3234,11 @@ msgid "right-to-left"
 msgstr ""
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
+msgid "Incremental from"
 msgstr ""
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
+msgid "Random with length"
 msgstr ""
 
 #: urulesex.s_rules_set_names_of
@@ -3230,6 +3306,10 @@ msgstr ""
 
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
+msgstr ""
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
 msgstr ""
 
 #: urulesex.s_rules_wholewordsonly
@@ -3452,6 +3532,10 @@ msgstr ""
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr ""
 
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr ""
+
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
 msgstr ""
@@ -3473,7 +3557,7 @@ msgid "Use this rule to replace text in the filename."
 msgstr ""
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
 msgstr ""
 
 #: ustrings.msg_rulestripdescription
@@ -3668,7 +3752,7 @@ msgid "Case"
 msgstr ""
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+msgid "Clean Up"
 msgstr ""
 
 #: ustrings.name_rule_delete
@@ -3691,7 +3775,11 @@ msgid "Padding"
 msgstr ""
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+msgid "Pascal Script"
+msgstr ""
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
 msgstr ""
 
 #: ustrings.name_rule_rearrange
@@ -3703,7 +3791,7 @@ msgid "Reformat Date"
 msgstr ""
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+msgid "Regular Expressions"
 msgstr ""
 
 #: ustrings.name_rule_remove
@@ -3730,7 +3818,7 @@ msgid "Translit"
 msgstr ""
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+msgid "User Input"
 msgstr ""
 
 #: ustrings.name_saverule

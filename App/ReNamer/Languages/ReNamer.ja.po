@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Japanese\n"
 "X-Language-Name-Native: 日本語\n"
 "X-Translators: Tilt <tiltstr@gmail.com>\n"
-"X-Generator: Poedit 1.8.7\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -479,7 +479,7 @@ msgstr "新しい名前をクリップボードにエクスポート"
 
 #: tform_main.action_exportpathstoclipboard.caption
 msgid "Export paths to clipboard"
-msgstr ""
+msgstr "パスをクリップボードにコピー"
 
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
@@ -1385,6 +1385,10 @@ msgstr "最後に使用したサイズと位置を保持(メインウインド�
 msgid "Save rules configuration on exit, load on startup"
 msgstr "規則設定を保存して終了、次回起動時に読み込む"
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr ""
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr "ソート設定を保持 (ファイル、テーブル)"
@@ -1698,6 +1702,16 @@ msgstr "新しい拡張子(ドットなし):"
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr "注意: いくつかのファイルには、それらのデータ型に適合する複数の拡張子が存在するかもしれません。例えば doc/ppt/xls形式では、同じ署名があり認識できないファイルは変更できません。このオプションを使用した場合、新たな拡張子フィールドは無視されます。"
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "メタ タグの挿入"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "メタ タグを挿入します (Ctrl+Ins)"
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1744,27 +1758,18 @@ msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
 msgstr "現在の名前を置き換える"
 
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr "メタ タグの挿入"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
-msgstr "メタ タグを挿入します (Ctrl+Ins)"
-
 #: tframe_rulepadding.checkbox_addtextpadding.caption
 msgid "Add padding to length:"
-msgstr ""
+msgstr "埋め込みの長さ:"
 
 #: tframe_rulepadding.checkbox_addzeropadding.caption
 msgid "Add zero padding to length:"
-msgstr ""
+msgstr "0 埋めの長さ:"
 
 #: tframe_rulepadding.checkbox_removezeropadding.caption
 msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "0 埋めの除去"
 
 #: tframe_rulepadding.checkbox_skipextension.caption
 msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
@@ -1773,15 +1778,15 @@ msgstr "拡張子をスキップ"
 
 #: tframe_rulepadding.groupbox_numbersequences.caption
 msgid "Number sequences"
-msgstr ""
+msgstr "連番"
 
 #: tframe_rulepadding.groupbox_textpadding.caption
 msgid "Text padding"
-msgstr ""
+msgstr "文字埋め"
 
 #: tframe_rulepadding.label_paddingcharacters.caption
 msgid "Padding characters:"
-msgstr ""
+msgstr "埋め込む文字:"
 
 #: tframe_rulepadding.label_position.caption
 msgctxt "tframe_rulepadding.label_position.caption"
@@ -1790,11 +1795,11 @@ msgstr "位置:"
 
 #: tframe_rulepadding.radiobutton_positionleft.caption
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: tframe_rulepadding.radiobutton_positionright.caption
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
@@ -1830,6 +1835,76 @@ msgstr "スクリプト"
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
 msgstr "スクリプト (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "拡張子をスキップ"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "可能であれば固有名"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+#, fuzzy
+#| msgid "Digits:"
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "数字:"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr ""
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "ユーザ定義:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr ""
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "場所:"
+
+#: tframe_rulerandomize.label_length.caption
+#, fuzzy
+#| msgid "Length:"
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "長さ:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "位置:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "接頭語"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+#, fuzzy
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "接尾語"
 
 #: tframe_rulerearrange.cb_righttoleft.caption
 msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
@@ -2068,36 +2143,19 @@ msgstr "フォルダの変更をリセット"
 msgid "Pad with zeros to length:"
 msgstr "指定した長さまで埋める(0) :"
 
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr "可能であれば固有名"
-
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr "拡張子をスキップ"
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr ""
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
 msgstr "場所:"
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
-msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
 msgstr "インデックス開始:"
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
-msgstr "長さ:"
 
 #: tframe_ruleserialize.label_repeat.caption
 msgid "Repeat:"
@@ -2106,6 +2164,11 @@ msgstr "リピート:"
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
 msgstr "ステップ:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "現在の名前を置き換える"
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
@@ -2121,14 +2184,6 @@ msgstr "接頭語"
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
 msgstr "接尾語"
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr "連番"
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
-msgstr "ランダム"
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
 msgid "Strip all characters except selected"
@@ -2148,6 +2203,7 @@ msgid "Brackets:"
 msgstr "括弧:"
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr "数字:"
 
@@ -2161,6 +2217,7 @@ msgid "Symbols:"
 msgstr "記号:"
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr "ユーザ定義:"
 
@@ -2169,10 +2226,12 @@ msgid "(){}[]"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr ""
 
@@ -2198,6 +2257,11 @@ msgstr "末尾"
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
 msgstr "アルファベット"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr ""
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
 msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
@@ -2407,9 +2471,17 @@ msgstr "ファイルのフルパス"
 msgid "Name of the parent folder"
 msgstr "親フォルダ名"
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
 msgstr "ファイルサイズ(バイト)"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr ""
 
 #: umetatags.s_metatag_file_sizekb
 msgid "Size of file in KB"
@@ -2594,7 +2666,8 @@ msgstr "Outlook メッセージ: 送信日時 (ローカル タイムゾーン)"
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr "Outlook メッセージ: 送信日時 (UTC - 協定世界時)"
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr "Outlook メッセージ: ID"
 
@@ -2653,6 +2726,10 @@ msgstr "Torrent: 名前"
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
 msgstr "Torrent: 発行元"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr ""
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
@@ -2772,7 +2849,7 @@ msgstr "Pascal スクリプト・実行"
 
 #: upascalscript.spsincludedfilenotfound
 msgid "Included file not found: %s"
-msgstr ""
+msgstr "含めるファイルがありません: %s"
 
 #: upascalscript.spsline
 msgid "Line"
@@ -2897,10 +2974,6 @@ msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "アップグレードの有効期限"
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "キーの削除に失敗: \"%s\""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2932,11 +3005,11 @@ msgstr "リスト内親パスの変更"
 
 #: urulesex.s_rules_addtextpaddingtolength
 msgid "Add text padding to length %s with \"%s\" characters"
-msgstr ""
+msgstr "次の文字埋めを追加 - 長さ %s 文字 \"%s\""
 
 #: urulesex.s_rules_addzeropaddingtolength
 msgid "Add zero padding to length %s"
-msgstr ""
+msgstr "次の 0 埋めを追加 - 長さ %s"
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2982,9 +3055,18 @@ msgstr "を接尾語に追加"
 msgid "at Position"
 msgstr "位置"
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr ""
+
 #: urulesex.s_rules_before
 msgid "before"
 msgstr "変更前"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr ""
 
 #: urulesex.s_rules_capitalize_and_preserve
 msgid "Capitalize and preserve"
@@ -3117,7 +3199,7 @@ msgstr "区切りを残す"
 
 #: urulesex.s_rules_leftside
 msgid "Left side"
-msgstr ""
+msgstr "左側"
 
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
@@ -3147,6 +3229,11 @@ msgstr "名前の接頭語"
 msgid "Prepare for SharePoint"
 msgstr "共有ポイントを設ける"
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr ""
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3155,7 +3242,7 @@ msgstr "除去"
 #: urulesex.s_rules_removezeropadding
 msgctxt "urulesex.s_rules_removezeropadding"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "Remove zero padding"
 
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
@@ -3192,18 +3279,22 @@ msgstr "フォルダ変更時はインデックスをリセット"
 
 #: urulesex.s_rules_rightside
 msgid "Right side"
-msgstr ""
+msgstr "右側"
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
 msgstr "右から左"
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
+#, fuzzy
+#| msgid "Serialize Incremental from"
+msgid "Incremental from"
 msgstr "連番インクリメンタル増加"
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
+#, fuzzy
+#| msgid "Serialize Random with length"
+msgid "Random with length"
 msgstr "長さでランダム連番化"
 
 #: urulesex.s_rules_set_names_of
@@ -3272,6 +3363,10 @@ msgstr "から最後まで"
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
 msgstr "ワイルドカードを使用"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr ""
 
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
@@ -3519,11 +3614,15 @@ msgstr "この規則を使用して、ファイル名にテキストを挿入"
 
 #: ustrings.msg_rulepaddingdescription
 msgid "Use this rule to add or remove padding in number sequences."
-msgstr ""
+msgstr "連番の追加、または除去にこの規則を使用"
 
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "ユーザ定義の複数ファイル名変換スクリプトにこの規則を使用する"
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr ""
 
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
@@ -3546,7 +3645,9 @@ msgid "Use this rule to replace text in the filename."
 msgstr "この規則を使用して、ファイル名のテキストを置換"
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+#, fuzzy
+#| msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
 msgstr "この規則を使用してファイル名を連番化 (数字、またはランダム数)"
 
 #: ustrings.msg_rulestripdescription
@@ -3760,7 +3861,8 @@ msgid "Case"
 msgstr "大文字小文字"
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+#| msgid "CleanUp"
+msgid "Clean Up"
 msgstr "クリーンアップ"
 
 #: ustrings.name_rule_delete
@@ -3780,11 +3882,16 @@ msgstr "挿入"
 
 #: ustrings.name_rule_padding
 msgid "Padding"
-msgstr ""
+msgstr "埋め込み"
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+#| msgid "PascalScript"
+msgid "Pascal Script"
 msgstr "パスカル・スクリプト"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr ""
 
 #: ustrings.name_rule_rearrange
 msgid "Rearrange"
@@ -3795,7 +3902,8 @@ msgid "Reformat Date"
 msgstr "日付の再フォーマット"
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+#| msgid "RegEx"
+msgid "Regular Expressions"
 msgstr "正規表現"
 
 #: ustrings.name_rule_remove
@@ -3822,7 +3930,8 @@ msgid "Translit"
 msgstr "変化規則"
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+#| msgid "UserInput"
+msgid "User Input"
 msgstr "ユーザ入力"
 
 #: ustrings.name_saverule

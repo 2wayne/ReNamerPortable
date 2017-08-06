@@ -14,7 +14,7 @@ msgstr ""
 "X-Language-Name: Serbian\n"
 "X-Language-Name-Native: Српски\n"
 "X-Translators: Никола Алексић (eR@SeR) <nalexic@gmail.com>\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: mainform.ssavecurrentpresetconfirm
 msgid "Save current preset?"
@@ -77,7 +77,7 @@ msgstr "Учитана поставка (измењена)"
 
 #: presetsmanagerform.sduplicatepresetsuffix
 msgid "COPY"
-msgstr "Копир."
+msgstr "Копирати"
 
 #: rulepascalscriptframe.saddyourcodehere
 msgid "Add your code here"
@@ -85,7 +85,7 @@ msgstr "Додати ваш код овде"
 
 #: rulepascalscriptframe.sholdtoinsertscriptinline
 msgid "Hold %s when loading a script to insert it inline"
-msgstr ""
+msgstr "Држите %s када се учитава скрипта да би се убацила у ред"
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
@@ -179,7 +179,7 @@ msgid ""
 msgstr ""
 "Стварно време ажурирања прегледа је веома опасно и његова употреба није препоручљива!\n"
 "\n"
-"Проузроковаће графичка ажурирања GUI-а током прегледа за сваки процесуирани фајл али ће такође одговорити на сваку активност попут кликтања мишем и типкања на тастатури. Пажња, свака ненамерна радња генерисана током прегледа као последица активности корисника у склопу програма ће се мешати са процесом прегледа и може проузроковати непредвидљиво понашање.\n"
+"Проузроковаће графичка ажурирања GUI-а током прегледа за сваки процесуирани фајл али ће такође одговорити на сваку активност попут кликтања мишем и типкања на тастатури. Пажња, свака ненамерна радња генерисана током прегледа као последица активности корисника у склопу програма мешаће се са процесом прегледа и може проузроковати непредвидљиво понашање.\n"
 
 #: tform_about.caption
 msgctxt "tform_about.caption"
@@ -479,7 +479,7 @@ msgstr "Извести нове називе у клипборд"
 
 #: tform_main.action_exportpathstoclipboard.caption
 msgid "Export paths to clipboard"
-msgstr ""
+msgstr "Извести путање у клипборд"
 
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
@@ -1384,6 +1384,10 @@ msgstr "Запамтити посл. позицију и величину (са�
 msgid "Save rules configuration on exit, load on startup"
 msgstr "Сачувати изглед правила на излаз, учитати при старту"
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr "Прескочити преимоневање непромењених фајлова"
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr "Запамтити опције сортирања (табела фајлова)"
@@ -1697,6 +1701,16 @@ msgstr "Нова Екстензија (без тачке):"
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr "Важно: Неки фајлови могу имати спојене екстензије упоредо са њиховим типом податка, на пример: doc/ppt/xls имају исти потпис. Непрепознати фајлови ће остати непромењени. Ако је ова опција употребљена, поље \"Нова Екстензија\" је игнорисано."
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "Убацити Етикету"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "Убацити Етикету (Ctrl+Ins)"
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1743,27 +1757,18 @@ msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
 msgstr "Заменити тренутни назив"
 
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr "Убацити Етикету"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
-msgstr "Убацити Етикету (Ctrl+Ins)"
-
 #: tframe_rulepadding.checkbox_addtextpadding.caption
 msgid "Add padding to length:"
-msgstr ""
+msgstr "Додати попуњавање до дужине:"
 
 #: tframe_rulepadding.checkbox_addzeropadding.caption
 msgid "Add zero padding to length:"
-msgstr ""
+msgstr "Додати попуњавање нулом до дужине:"
 
 #: tframe_rulepadding.checkbox_removezeropadding.caption
 msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "Уклонити попуњавање нулом"
 
 #: tframe_rulepadding.checkbox_skipextension.caption
 msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
@@ -1772,15 +1777,15 @@ msgstr "Прескочити екстензију"
 
 #: tframe_rulepadding.groupbox_numbersequences.caption
 msgid "Number sequences"
-msgstr ""
+msgstr "Бројчани низ"
 
 #: tframe_rulepadding.groupbox_textpadding.caption
 msgid "Text padding"
-msgstr ""
+msgstr "Попуњавање текстом"
 
 #: tframe_rulepadding.label_paddingcharacters.caption
 msgid "Padding characters:"
-msgstr ""
+msgstr "Карактери попуњавања:"
 
 #: tframe_rulepadding.label_position.caption
 msgctxt "tframe_rulepadding.label_position.caption"
@@ -1789,11 +1794,11 @@ msgstr "Место:"
 
 #: tframe_rulepadding.radiobutton_positionleft.caption
 msgid "Left"
-msgstr ""
+msgstr "Лево"
 
 #: tframe_rulepadding.radiobutton_positionright.caption
 msgid "Right"
-msgstr ""
+msgstr "Десно"
 
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
@@ -1829,6 +1834,65 @@ msgstr "Скрипте"
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
 msgstr "Скрипте (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "Прескочити екстензију"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "Јединствено ако је могуће"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "Цифре (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "Енглеска слова (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "Одређени карактери:"
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "Употребити карактере:"
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "Убацити као/на:"
+
+#: tframe_rulerandomize.label_length.caption
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "Дужина насумичног низа:"
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "Место:"
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "Префикс"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменити тренутни назив"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "Суфикс"
 
 #: tframe_rulerearrange.cb_righttoleft.caption
 msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
@@ -2067,36 +2131,19 @@ msgstr "Вратити ако се фолдер промени"
 msgid "Pad with zeros to length:"
 msgstr "Продужити нулама до дужине:"
 
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr "Јединствено ако је могуће"
-
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr "Прескочити екстензију"
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr ""
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
 msgstr "Убацити као/на:"
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
-msgstr ""
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
 msgstr "Попис почиње:"
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
-msgstr "Дужина:"
 
 #: tframe_ruleserialize.label_repeat.caption
 msgid "Repeat:"
@@ -2105,6 +2152,11 @@ msgstr "Поновити:"
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
 msgstr "Корак:"
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "Заменити тренутни назив"
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
@@ -2120,14 +2172,6 @@ msgstr "Префикс"
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
 msgstr "Суфикс"
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr "Повећање"
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
-msgstr "Насумице"
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
 msgid "Strip all characters except selected"
@@ -2147,6 +2191,7 @@ msgid "Brackets:"
 msgstr "Заграде:"
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr "Цифре:"
 
@@ -2160,6 +2205,7 @@ msgid "Symbols:"
 msgstr "Симболи:"
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr "Одређени карактери:"
 
@@ -2168,10 +2214,12 @@ msgid "(){}[]"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr ""
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr ""
 
@@ -2197,6 +2245,11 @@ msgstr "Пратећи"
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
 msgstr "Алфабет"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr "Аутоматско подешавање величине слова"
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
 msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
@@ -2243,7 +2296,7 @@ msgstr "Залепити са Клипборда"
 #: tframe_ruleuserinput.n1.caption
 msgctxt "TFRAME_RULEUSERINPUT.N1.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tframe_ruleuserinput.rb_insertafter.caption
 msgid "Insert after the current name"
@@ -2406,9 +2459,17 @@ msgstr "Цела путања фајла"
 msgid "Name of the parent folder"
 msgstr "Назив матичног фолдера"
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
 msgstr "Величина фајла у бајтима"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr ""
 
 #: umetatags.s_metatag_file_sizekb
 msgid "Size of file in KB"
@@ -2593,7 +2654,8 @@ msgstr "Outlook порука: Датум слања у локалној врем
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr "Outlook порука: Датум слања у UTC временској зони"
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr "Outlook порука: ИД"
 
@@ -2652,6 +2714,10 @@ msgstr "Торент: Назив"
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
 msgstr "Торент: Издавач"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr ""
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
@@ -2771,7 +2837,7 @@ msgstr "Извршити Pascal Скрипту"
 
 #: upascalscript.spsincludedfilenotfound
 msgid "Included file not found: %s"
-msgstr ""
+msgstr "Укључени фајл није пронађен: %s"
 
 #: upascalscript.spsline
 msgid "Line"
@@ -2788,7 +2854,7 @@ msgstr "Фајл поставке није пронађен:"
 #: uregistration.s_cannot_create_license_dir
 msgctxt "uregistration.s_cannot_create_license_dir"
 msgid "Not able to create a directory for a license file."
-msgstr "У немогућности да се створи директоријум за фајл лиценце."
+msgstr "Не може се створити директоријум за фајл лиценце."
 
 #: uregistration.s_contact_email
 msgctxt "uregistration.s_contact_email"
@@ -2896,10 +2962,6 @@ msgctxt "uregistration.s_upgrade_expiry"
 msgid "Upgrade expiry"
 msgstr "Надоградити лиценцу"
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "Неуспело брисање кључа: \"%s\""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2927,15 +2989,15 @@ msgstr "Садржи неважеће карактере"
 
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
-msgstr ""
+msgstr "Путања је промењена раније у листи"
 
 #: urulesex.s_rules_addtextpaddingtolength
 msgid "Add text padding to length %s with \"%s\" characters"
-msgstr ""
+msgstr "Додати попуњавање текстом до дужине %s са \"%s\" карактерима"
 
 #: urulesex.s_rules_addzeropaddingtolength
 msgid "Add zero padding to length %s"
-msgstr ""
+msgstr "Додати попуњавање нулом до дужине %s"
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2963,7 +3025,7 @@ msgstr "и продужити до дужине"
 
 #: urulesex.s_rules_append
 msgid "append"
-msgstr "Придод."
+msgstr "Придодати"
 
 #: urulesex.s_rules_append_new_extension
 msgid "Append new extension"
@@ -2981,9 +3043,18 @@ msgstr "као Суфикс"
 msgid "at Position"
 msgstr "на Позицији"
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "Аутоматско подешавање величине слова"
+
 #: urulesex.s_rules_before
 msgid "before"
 msgstr "пре"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "Не може се уредити поставка правила."
 
 #: urulesex.s_rules_capitalize_and_preserve
 msgid "Capitalize and preserve"
@@ -3116,7 +3187,7 @@ msgstr "оставити граничник"
 
 #: urulesex.s_rules_leftside
 msgid "Left side"
-msgstr ""
+msgstr "Лева страна"
 
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
@@ -3146,6 +3217,11 @@ msgstr "Префикс назива од"
 msgid "Prepare for SharePoint"
 msgstr "Припремити за \"SharePoint\""
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "Насумично са дужином %s користећи карактере \"%s\""
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3154,7 +3230,7 @@ msgstr "Уклонити"
 #: urulesex.s_rules_removezeropadding
 msgctxt "urulesex.s_rules_removezeropadding"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "Уклонити попуњавање нулама"
 
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
@@ -3191,19 +3267,19 @@ msgstr "ресетовати попис ако се фолдер промени"
 
 #: urulesex.s_rules_rightside
 msgid "Right side"
-msgstr ""
+msgstr "Десна страна"
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
 msgstr "С десна на лево"
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "Нумерисати Постепено од"
+msgid "Incremental from"
+msgstr "Постепено од"
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "Нумерисати Насумично са дужином"
+msgid "Random with length"
+msgstr "Насумично са дужином"
 
 #: urulesex.s_rules_set_names_of
 msgid "Set names of"
@@ -3271,6 +3347,10 @@ msgstr "до Краја"
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
 msgstr "користећи џокере"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "Поставка правила користи застарелу насумичну нумеризацију, уместо ње користити одвојено за то намењено правило."
 
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
@@ -3518,11 +3598,15 @@ msgstr "Употребите ово правило да убаците текс�
 
 #: ustrings.msg_rulepaddingdescription
 msgid "Use this rule to add or remove padding in number sequences."
-msgstr ""
+msgstr "Употребите ово правило да додате или уклоните попуњавање у низу бројева."
 
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "Употребите ово правило да руководите са називом фајла."
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "Употребите ово правило да убаците насумичан низ карактера у назив фајла."
 
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
@@ -3545,8 +3629,8 @@ msgid "Use this rule to replace text in the filename."
 msgstr "Употребите ово правило да замените текст у називу фајла."
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "Употребите ово правило да нумеришете назив фајла (додати повећање или насумичне бројеве)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "Употребите ово правило да нумеришете назив фајла (додати растуће бројеве)."
 
 #: ustrings.msg_rulestripdescription
 msgid "Use this rule to strip sets of characters from the filename."
@@ -3642,7 +3726,7 @@ msgstr "Упозорење, нађен(а)(о) %d неважећи(а)(х) на�
 
 #: ustrings.msg_validatedmovedparentfound
 msgid "%d of which have a parent path changed earlier in the list."
-msgstr ""
+msgstr "%d којима је путања промењена раније у листи."
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
@@ -3756,7 +3840,8 @@ msgid "Case"
 msgstr "Величина слова"
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+#| msgid "CleanUp"
+msgid "Clean Up"
 msgstr "Очистити"
 
 #: ustrings.name_rule_delete
@@ -3776,11 +3861,16 @@ msgstr "Убацити"
 
 #: ustrings.name_rule_padding
 msgid "Padding"
-msgstr ""
+msgstr "Попуњавање"
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+#| msgid "PascalScript"
+msgid "Pascal Script"
 msgstr "ПаскалСкрипта"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "Насумично"
 
 #: ustrings.name_rule_rearrange
 msgid "Rearrange"
@@ -3791,7 +3881,8 @@ msgid "Reformat Date"
 msgstr "Реформирати Датум"
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+#| msgid "RegEx"
+msgid "Regular Expressions"
 msgstr "Званични изрази"
 
 #: ustrings.name_rule_remove
@@ -3818,7 +3909,8 @@ msgid "Translit"
 msgstr "Превести"
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+#| msgid "UserInput"
+msgid "User Input"
 msgstr "Унос по реду"
 
 #: ustrings.name_saverule

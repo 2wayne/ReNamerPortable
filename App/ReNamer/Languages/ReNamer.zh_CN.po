@@ -85,7 +85,7 @@ msgstr "在此处添加代码"
 
 #: rulepascalscriptframe.sholdtoinsertscriptinline
 msgid "Hold %s when loading a script to insert it inline"
-msgstr ""
+msgstr "加载脚本时长按 %s 以插入内嵌 "
 
 #: rulepascalscriptframe.spressforcodecompletion
 msgid "Press %s for code completion"
@@ -188,7 +188,7 @@ msgstr "关于"
 
 #: tform_about.label_author.caption
 msgid "den4b Team"
-msgstr ""
+msgstr "den4b Team"
 
 #: tform_about.label_author2.caption
 msgid "Author:"
@@ -451,7 +451,7 @@ msgstr "应用规则到剪贴板"
 
 #: tform_main.action_autosizecolumns.caption
 msgid "Autosize columns"
-msgstr "自动栏大小"
+msgstr "自动列宽"
 
 #: tform_main.action_countmarkedandselectedfiles.caption
 msgid "Count marked and selected files"
@@ -479,7 +479,7 @@ msgstr "导出新名称到剪贴板"
 
 #: tform_main.action_exportpathstoclipboard.caption
 msgid "Export paths to clipboard"
-msgstr ""
+msgstr "导出路径到剪贴板"
 
 #: tform_main.action_filters.caption
 msgctxt "TFORM_MAIN.ACTION_FILTERS.CAPTION"
@@ -1384,6 +1384,10 @@ msgstr "记忆上一个窗口位置（仅主窗口）"
 msgid "Save rules configuration on exit, load on startup"
 msgstr "退出时保存，启动时加载规则配置"
 
+#: tform_settings.checkbox_skiprenamingunchangedfiles.caption
+msgid "Skip renaming of unchanged files"
+msgstr ""
+
 #: tform_settings.checkbox_sortingremember.caption
 msgid "Remember sorting options (files table)"
 msgstr "记忆排序选项（文件表格）"
@@ -1697,6 +1701,16 @@ msgstr "新扩展名（无需.）"
 msgid "Note: Some files may have multiple extensions matching their data type, for example: doc/ppt/xls have the same signature. Unrecognised files will remain unchanged. If this option is used, the new extension field is ignored."
 msgstr "注释：有些文件扩展名可能匹配多个数据类型，例如：doc / ppt / xls 具有相同的签名。未经确认的文件将保持不变。如果使用此选项, 新扩展字段将会被忽略。"
 
+#: tframe_ruleinsert.bitbtn_insertmetatag.caption
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.caption"
+msgid "Insert Meta Tag"
+msgstr "插入元信息标签"
+
+#: tframe_ruleinsert.bitbtn_insertmetatag.hint
+msgctxt "tframe_ruleinsert.bitbtn_insertmetatag.hint"
+msgid "Insert Meta Tag (Ctrl+Ins)"
+msgstr "插入元信息标签 (Ctrl+Ins)"
+
 #: tframe_ruleinsert.checkbox_insertright.caption
 msgctxt "TFRAME_RULEINSERT.CHECKBOX_INSERTRIGHT.CAPTION"
 msgid "Right-to-left"
@@ -1741,29 +1755,20 @@ msgstr "后缀"
 #: tframe_ruleinsert.radiobutton_replacecurrentname.caption
 msgctxt "tframe_ruleinsert.radiobutton_replacecurrentname.caption"
 msgid "Replace current name"
-msgstr "替换当签名称"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.caption
-msgid "Insert Meta Tag"
-msgstr "插入元信息标签"
-
-#: tframe_ruleinsert.speedbutton_insertmetatag.hint
-msgctxt "tframe_ruleinsert.speedbutton_insertmetatag.hint"
-msgid "Insert Meta Tag (Ctrl+Ins)"
-msgstr "插入元信息标签 (Ctrl+Ins)"
+msgstr "替换当前名称"
 
 #: tframe_rulepadding.checkbox_addtextpadding.caption
 msgid "Add padding to length:"
-msgstr ""
+msgstr "填充长度："
 
 #: tframe_rulepadding.checkbox_addzeropadding.caption
 msgid "Add zero padding to length:"
-msgstr ""
+msgstr "补零填充长度："
 
 #: tframe_rulepadding.checkbox_removezeropadding.caption
 msgctxt "tframe_rulepadding.checkbox_removezeropadding.caption"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "移除补零"
 
 #: tframe_rulepadding.checkbox_skipextension.caption
 msgctxt "tframe_rulepadding.checkbox_skipextension.caption"
@@ -1772,15 +1777,15 @@ msgstr "忽略扩展名"
 
 #: tframe_rulepadding.groupbox_numbersequences.caption
 msgid "Number sequences"
-msgstr ""
+msgstr "数字序列"
 
 #: tframe_rulepadding.groupbox_textpadding.caption
 msgid "Text padding"
-msgstr ""
+msgstr "文本填充"
 
 #: tframe_rulepadding.label_paddingcharacters.caption
 msgid "Padding characters:"
-msgstr ""
+msgstr "填充字符："
 
 #: tframe_rulepadding.label_position.caption
 msgctxt "tframe_rulepadding.label_position.caption"
@@ -1789,11 +1794,11 @@ msgstr "位置："
 
 #: tframe_rulepadding.radiobutton_positionleft.caption
 msgid "Left"
-msgstr ""
+msgstr "左"
 
 #: tframe_rulepadding.radiobutton_positionright.caption
 msgid "Right"
-msgstr ""
+msgstr "右"
 
 #: tframe_rulepascalscript.sb_compile.caption
 msgid "Try to Compile"
@@ -1829,6 +1834,67 @@ msgstr "脚本"
 #: tframe_rulepascalscript.sb_scripts.hint
 msgid "Scripts (Ctrl+L)"
 msgstr "脚本 (Ctrl+L)"
+
+#: tframe_rulerandomize.checkbox_skipextension.caption
+msgctxt "tframe_rulerandomize.checkbox_skipextension.caption"
+msgid "Skip extension"
+msgstr "忽略扩展名"
+
+#: tframe_rulerandomize.checkbox_unique.caption
+msgctxt "tframe_rulerandomize.checkbox_unique.caption"
+msgid "Unique if possible"
+msgstr "尽量统一"
+
+#: tframe_rulerandomize.checkbox_usedigits.caption
+#| msgid "Digits:"
+msgctxt "tframe_rulerandomize.checkbox_usedigits.caption"
+msgid "Digits (0..9)"
+msgstr "数字 (0..9)"
+
+#: tframe_rulerandomize.checkbox_useenglishletters.caption
+msgid "English letters (a..z)"
+msgstr "英文字母 (a..z)"
+
+#: tframe_rulerandomize.checkbox_useuserdefined.caption
+msgctxt "tframe_rulerandomize.checkbox_useuserdefined.caption"
+msgid "User defined:"
+msgstr "用户定义："
+
+#: tframe_rulerandomize.groupbox_characters.caption
+msgctxt "tframe_rulerandomize.groupbox_characters.caption"
+msgid "Characters to use:"
+msgstr "使用字符："
+
+#: tframe_rulerandomize.groupbox_insertwhere.caption
+msgctxt "tframe_rulerandomize.groupbox_insertwhere.caption"
+msgid "Insert where:"
+msgstr "插入位置："
+
+#: tframe_rulerandomize.label_length.caption
+#| msgid "Length:"
+msgctxt "tframe_rulerandomize.label_length.caption"
+msgid "Length of random sequence:"
+msgstr "随机序列长度："
+
+#: tframe_rulerandomize.radiobutton_position.caption
+msgctxt "tframe_rulerandomize.radiobutton_position.caption"
+msgid "Position:"
+msgstr "位置："
+
+#: tframe_rulerandomize.radiobutton_prefix.caption
+msgctxt "tframe_rulerandomize.radiobutton_prefix.caption"
+msgid "Prefix"
+msgstr "前缀"
+
+#: tframe_rulerandomize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_rulerandomize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "替换当前名称"
+
+#: tframe_rulerandomize.radiobutton_suffix.caption
+msgctxt "tframe_rulerandomize.radiobutton_suffix.caption"
+msgid "Suffix"
+msgstr "后缀"
 
 #: tframe_rulerearrange.cb_righttoleft.caption
 msgctxt "TFRAME_RULEREARRANGE.CB_RIGHTTOLEFT.CAPTION"
@@ -1928,7 +1994,7 @@ msgstr "提示：使用 $1..$9 来反向引用。"
 
 #: tframe_ruleregex.label4.caption
 msgid "Expression:"
-msgstr "扩展名："
+msgstr "表达式："
 
 #: tframe_ruleregex.label5.caption
 msgctxt "tframe_ruleregex.label5.caption"
@@ -2067,36 +2133,19 @@ msgstr "文件夹变更时重置"
 msgid "Pad with zeros to length:"
 msgstr "填充 0 来补足长度："
 
-#: tframe_ruleserialize.checkbox_serializeunique.caption
-msgid "Unique if possible"
-msgstr "尽量统一"
-
 #: tframe_ruleserialize.checkbox_skipextension.caption
 msgctxt "TFRAME_RULESERIALIZE.CHECKBOX_SKIPEXTENSION.CAPTION"
 msgid "Skip extension"
 msgstr "忽略扩展名"
 
-#: tframe_ruleserialize.gb_incremental.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_INCREMENTAL.CAPTION"
-msgid "-"
-msgstr "-"
-
 #: tframe_ruleserialize.gb_insertwhere.caption
+msgctxt "tframe_ruleserialize.gb_insertwhere.caption"
 msgid "Insert where:"
 msgstr "插入位置："
-
-#: tframe_ruleserialize.gb_random.caption
-msgctxt "TFRAME_RULESERIALIZE.GB_RANDOM.CAPTION"
-msgid "-"
-msgstr "-"
 
 #: tframe_ruleserialize.label_indexstarts.caption
 msgid "Index starts:"
 msgstr "起始值："
-
-#: tframe_ruleserialize.label_length.caption
-msgid "Length:"
-msgstr "长度："
 
 #: tframe_ruleserialize.label_repeat.caption
 msgid "Repeat:"
@@ -2105,6 +2154,11 @@ msgstr "重复数："
 #: tframe_ruleserialize.label_step.caption
 msgid "Step:"
 msgstr "增量："
+
+#: tframe_ruleserialize.radiobutton_replacecurrentname.caption
+msgctxt "tframe_ruleserialize.radiobutton_replacecurrentname.caption"
+msgid "Replace current name"
+msgstr "替换当前名称"
 
 #: tframe_ruleserialize.radiobutton_serializeposition.caption
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZEPOSITION.CAPTION"
@@ -2120,14 +2174,6 @@ msgstr "前缀"
 msgctxt "TFRAME_RULESERIALIZE.RADIOBUTTON_SERIALIZESUFFIX.CAPTION"
 msgid "Suffix"
 msgstr "后缀"
-
-#: tframe_ruleserialize.rb_typeincremental.caption
-msgid "Incremental"
-msgstr "增量"
-
-#: tframe_ruleserialize.rb_typerandom.caption
-msgid "Random"
-msgstr "随机"
 
 #: tframe_rulestrip.cb_stripallexceptselected.caption
 msgid "Strip all characters except selected"
@@ -2147,6 +2193,7 @@ msgid "Brackets:"
 msgstr "括号："
 
 #: tframe_rulestrip.checkbox_stripdigits.caption
+msgctxt "tframe_rulestrip.checkbox_stripdigits.caption"
 msgid "Digits:"
 msgstr "数字："
 
@@ -2160,6 +2207,7 @@ msgid "Symbols:"
 msgstr "符号："
 
 #: tframe_rulestrip.checkbox_stripuserdefined.caption
+msgctxt "tframe_rulestrip.checkbox_stripuserdefined.caption"
 msgid "User defined:"
 msgstr "用户定义："
 
@@ -2168,10 +2216,12 @@ msgid "(){}[]"
 msgstr "(){}[]"
 
 #: tframe_rulestrip.edit_stripdigits.text
+msgctxt "tframe_rulestrip.edit_stripdigits.text"
 msgid "1234567890"
 msgstr "1234567890"
 
 #: tframe_rulestrip.edit_stripenglishletters.text
+msgctxt "tframe_rulestrip.edit_stripenglishletters.text"
 msgid "abcdefghijklmnopqrstuvwxyz"
 msgstr "abcdefghijklmnopqrstuvwxyz"
 
@@ -2197,6 +2247,11 @@ msgstr "尾随"
 #: tframe_ruletranslit.bitbtn_translits.caption
 msgid "Alphabet"
 msgstr "字母音译表"
+
+#: tframe_ruletranslit.checkbox_adjustcase.caption
+msgctxt "tframe_ruletranslit.checkbox_adjustcase.caption"
+msgid "Auto case adjustment"
+msgstr ""
 
 #: tframe_ruletranslit.checkbox_skipextension.caption
 msgctxt "TFRAME_RULETRANSLIT.CHECKBOX_SKIPEXTENSION.CAPTION"
@@ -2406,9 +2461,17 @@ msgstr "文件完整路径"
 msgid "Name of the parent folder"
 msgstr "父文件夹的名称"
 
+#: umetatags.s_metatag_file_size
+msgid "Size of file"
+msgstr ""
+
 #: umetatags.s_metatag_file_sizebytes
 msgid "Size of file in bytes"
 msgstr "文件大小（字节）"
+
+#: umetatags.s_metatag_file_sizegb
+msgid "Size of file in GB"
+msgstr ""
 
 #: umetatags.s_metatag_file_sizekb
 msgid "Size of file in KB"
@@ -2593,7 +2656,8 @@ msgstr "Outlook 消息：当地时区的发送日期"
 msgid "Outlook Message: Sent date in UTC time zone"
 msgstr "Outlook 消息：UTC 时区的发送日期"
 
-#: umetatags.s_metatag_outlook_id
+#: umetatags.s_metatag_outlook_messageid
+msgctxt "umetatags.s_metatag_outlook_messageid"
 msgid "Outlook Message: ID"
 msgstr "Outlook 消息：ID"
 
@@ -2652,6 +2716,10 @@ msgstr "Torrent 名称"
 #: umetatags.s_metatag_torrent_publisher
 msgid "Torrent: Publisher"
 msgstr "Torrent 发布者"
+
+#: umetatags.s_metatag_torrent_totalsize
+msgid "Torrent: Total size"
+msgstr ""
 
 #: umetatags.s_metatag_torrent_totalsizebytes
 msgid "Torrent: Total size in bytes"
@@ -2771,7 +2839,7 @@ msgstr "执行 Pascal 脚本"
 
 #: upascalscript.spsincludedfilenotfound
 msgid "Included file not found: %s"
-msgstr ""
+msgstr "未找到包含文件：%s"
 
 #: upascalscript.spsline
 msgid "Line"
@@ -2881,10 +2949,6 @@ msgstr "注册成功！"
 msgid "Upgrade expiry"
 msgstr "更新有效期"
 
-#: uregistry.sregistrydeletekeyfailed
-msgid "Failed to delete key: \"%s\""
-msgstr "无法删除： \"%s\""
-
 #: urenfiles.srenstatusok
 msgctxt "urenfiles.srenstatusok"
 msgid "OK"
@@ -2912,15 +2976,15 @@ msgstr "包含无效字符"
 
 #: urenfiles.svalidationmovedparent
 msgid "Parent path changed earlier in the list"
-msgstr ""
+msgstr "列表中父目录已改变"
 
 #: urulesex.s_rules_addtextpaddingtolength
 msgid "Add text padding to length %s with \"%s\" characters"
-msgstr ""
+msgstr "用字符 \"%s\" 来添加文本填充长度 %s"
 
 #: urulesex.s_rules_addzeropaddingtolength
 msgid "Add zero padding to length %s"
-msgstr ""
+msgstr "添加补零长度 %s"
 
 #: urulesex.s_rules_after
 msgid "after"
@@ -2966,9 +3030,18 @@ msgstr "作为后缀"
 msgid "at Position"
 msgstr "在位置"
 
+#: urulesex.s_rules_autocaseadjustment
+msgctxt "urulesex.s_rules_autocaseadjustment"
+msgid "Auto case adjustment"
+msgstr "自动调整大小写"
+
 #: urulesex.s_rules_before
 msgid "before"
 msgstr "在以下之前"
+
+#: urulesex.s_rules_cannoteditruleconfiguration
+msgid "Cannot edit rule configuration."
+msgstr "无法编辑规则配置。"
 
 #: urulesex.s_rules_capitalize_and_preserve
 msgid "Capitalize and preserve"
@@ -3101,7 +3174,7 @@ msgstr "保持分隔符"
 
 #: urulesex.s_rules_leftside
 msgid "Left side"
-msgstr ""
+msgstr "左侧"
 
 #: urulesex.s_rules_new_names_are_not_defined
 msgid "new names are not defined"
@@ -3131,6 +3204,11 @@ msgstr "前缀名"
 msgid "Prepare for SharePoint"
 msgstr "准备到 SharePoint"
 
+#: urulesex.s_rules_randomwithlengthusingcharacters
+msgctxt "urulesex.s_rules_randomwithlengthusingcharacters"
+msgid "Random with length %s using characters \"%s\""
+msgstr "使用字符 \"%s\" 随机生成 %s 长度序列"
+
 #: urulesex.s_rules_remove
 msgctxt "myrulesex.s_rules_remove"
 msgid "Remove"
@@ -3139,7 +3217,7 @@ msgstr "移除"
 #: urulesex.s_rules_removezeropadding
 msgctxt "urulesex.s_rules_removezeropadding"
 msgid "Remove zero padding"
-msgstr ""
+msgstr "移除补零"
 
 #: urulesex.s_rules_remove_extension
 msgid "Remove extension"
@@ -3176,19 +3254,21 @@ msgstr "文件夹变更时重置"
 
 #: urulesex.s_rules_rightside
 msgid "Right side"
-msgstr ""
+msgstr "右侧"
 
 #: urulesex.s_rules_right_to_left
 msgid "right-to-left"
 msgstr "从右到左"
 
 #: urulesex.s_rules_serialize_incremental_from
-msgid "Serialize Incremental from"
-msgstr "增量序列化 起始于"
+#| msgid "Serialize Incremental from"
+msgid "Incremental from"
+msgstr "增量序列化起始于"
 
 #: urulesex.s_rules_serialize_random_with_length
-msgid "Serialize Random with length"
-msgstr "随机序列化 长度限制在"
+#| msgid "Serialize Random with length"
+msgid "Random with length"
+msgstr "随机序列化长度限制在"
 
 #: urulesex.s_rules_set_names_of
 msgid "Set names of"
@@ -3256,6 +3336,10 @@ msgstr "直到末尾"
 #: urulesex.s_rules_using_wildcards
 msgid "using wildcards"
 msgstr "使用通配符"
+
+#: urulesex.s_rules_warndeprecatedrandomserialize
+msgid "Rule configuration uses deprecated random serialization, please use a separate dedicated rule instead."
+msgstr "此规则配置中使用了过时的随机序列，请使用单独的随机序列规则。"
 
 #: urulesex.s_rules_wholewordsonly
 msgctxt "urulesex.s_rules_wholewordsonly"
@@ -3503,11 +3587,15 @@ msgstr "使用此规则插入文字到文件名。"
 
 #: ustrings.msg_rulepaddingdescription
 msgid "Use this rule to add or remove padding in number sequences."
-msgstr ""
+msgstr "使用此规则添加或移除数字序列中填充字符。"
 
 #: ustrings.msg_rulepascalscriptdescription
 msgid "Use this rule to script a user defined manipulations with filename."
 msgstr "使用此规则来编写用户自定义文件名操作。"
+
+#: ustrings.msg_rulerandomizedescription
+msgid "Use this rule to insert random sequences of characters into the filename."
+msgstr "使用此规则来向文件名中插入随机字符序列。"
 
 #: ustrings.msg_rulerearrangedescription
 msgid "Use this rule to separate parts of the filename and rearrange them in a new pattern."
@@ -3530,8 +3618,9 @@ msgid "Use this rule to replace text in the filename."
 msgstr "使用此规则替换文件名中的指定文本。"
 
 #: ustrings.msg_ruleserializedescription
-msgid "Use this rule to serialize the filename (add incremental or random numbers)."
-msgstr "使用此规则来对文件名序列化（增量或者随机）。"
+#| msgid "Use this rule to serialize the filename (add incremental or random numbers)."
+msgid "Use this rule to serialize the filename (add incremental numbers)."
+msgstr "使用此规则来对文件名序列化（添加增量数）。"
 
 #: ustrings.msg_rulestripdescription
 msgid "Use this rule to strip sets of characters from the filename."
@@ -3630,7 +3719,7 @@ msgstr "其中 %d 个包含有无效字符。"
 
 #: ustrings.msg_validatedmovedparentfound
 msgid "%d of which have a parent path changed earlier in the list."
-msgstr ""
+msgstr "列表中 %d 个已改变父目录。"
 
 #: ustrings.msg_validatedsuccessfuly
 msgid "Successfully validated!"
@@ -3744,7 +3833,8 @@ msgid "Case"
 msgstr "大小写"
 
 #: ustrings.name_rule_cleanup
-msgid "CleanUp"
+#| msgid "CleanUp"
+msgid "Clean Up"
 msgstr "去除"
 
 #: ustrings.name_rule_delete
@@ -3764,11 +3854,16 @@ msgstr "插入"
 
 #: ustrings.name_rule_padding
 msgid "Padding"
-msgstr ""
+msgstr "填充"
 
 #: ustrings.name_rule_pascalscript
-msgid "PascalScript"
+#| msgid "PascalScript"
+msgid "Pascal Script"
 msgstr "Pascal 脚本"
+
+#: ustrings.name_rule_randomize
+msgid "Randomize"
+msgstr "随机化"
 
 #: ustrings.name_rule_rearrange
 msgid "Rearrange"
@@ -3779,7 +3874,8 @@ msgid "Reformat Date"
 msgstr "日期格式重转"
 
 #: ustrings.name_rule_regex
-msgid "RegEx"
+#| msgid "RegEx"
+msgid "Regular Expressions"
 msgstr "正则"
 
 #: ustrings.name_rule_remove
@@ -3806,7 +3902,8 @@ msgid "Translit"
 msgstr "音译"
 
 #: ustrings.name_rule_userinput
-msgid "UserInput"
+#| msgid "UserInput"
+msgid "User Input"
 msgstr "用户输入"
 
 #: ustrings.name_saverule
